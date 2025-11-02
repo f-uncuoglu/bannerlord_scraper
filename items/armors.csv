@@ -1,0 +1,696 @@
+Item_ID,Culture_ID,Item_Type,Item_Name,Leg_Armor_Rating,Body_Armor_Rating,Arm_Armor_Rating,Head_Armor_Rating,Armor_Rating,Total_Armor_Rating,Weight,Material,Civilian,Merchandise
+001,7,Body Armor,Aketon,3,13,3,0,0,19,3.4,Cloth,No,Yes
+002,7,Body Armor,Aproned Dress,1,2,1,0,0,4,0.7,Cloth,Yes,Yes
+003,4,Body Armor,Aproned Feminine Coat,3,6,3,0,0,12,0.8,Cloth,Yes,Yes
+004,2,Body Armor,Armored Baggy Trunks,6,3,0,0,0,9,0.3,Leather,No,Yes
+005,8,Body Armor,Auxiliary Armor,8,17,4,0,0,29,1.9,Cloth,No,Yes
+006,8,Body Armor,Auxiliary Armor with Straps,8,18,4,0,0,30,2,Cloth,No,Yes
+007,2,Body Armor,Baggy Trunks,3,3,0,0,0,6,0.2,Leather,Yes,Yes
+008,7,Body Armor,Banded Leather over Mail,10,29,8,0,0,47,8.6,Chainmail,No,Yes
+009,4,Body Armor,Belted Leather Cuirass,4,19,3,0,0,26,1.9,Leather,No,Yes
+010,6,Body Armor,Belted Tunic,2,4,2,0,0,8,0.3,Cloth,Yes,Yes
+011,8,Body Armor,Boarskin Leather Coat,7,14,4,0,0,25,5.1,Leather,No,Yes
+012,7,Body Armor,Brigandine over Hauberk,18,51,19,0,0,88,28.6,Plate,No,Yes
+013,7,Body Armor,Brigandine over Mail,16,50,14,0,0,80,23.2,Chainmail,No,Yes
+014,4,Body Armor,Brigandine Vest,4,34,2,0,0,40,14.2,Plate,No,Yes
+015,2,Body Armor,Bronze Breastplate,8,42,5,0,0,55,8.5,Plate,Yes,Yes
+016,4,Body Armor,Bronze Lamellar over Mail,14,46,14,0,0,74,22,Chainmail,No,Yes
+017,1,Body Armor,Bronze Lamellar Vest over Gambeson,8,37,2,0,0,47,9.5,Plate,No,Yes
+018,6,Body Armor,Bronze Scale Vest,4,28,2,0,0,34,14,Plate,No,Yes
+019,6,Body Armor,Bronze Scale Vest over Gambeson,12,28,6,0,0,46,15,Plate,No,Yes
+020,9,Body Armor,Buckled Mail Armor,4,28,8,0,0,40,12.3,Chainmail,No,Yes
+021,9,Body Armor,Burlap Dress,1,2,1,0,0,4,0.5,Cloth,Yes,Yes
+022,2,Body Armor,Burlap Waistcoat,2,3,1,0,0,6,0.4,Cloth,Yes,Yes
+023,8,Body Armor,Cataphract Lamellar Armor,24,48,14,0,0,86,22.1,Plate,No,Yes
+024,1,Body Armor,Cavalry Lamellar Armor,16,46,14,0,0,76,18,Plate,No,Yes
+025,8,Body Armor,Cavalryman Mail Shirt,11,27,10,0,0,48,8.3,Chainmail,No,Yes
+026,9,Body Armor,Cheap Colored Clothes,1,4,2,0,0,7,1.8,Leather,No,Yes
+027,9,Body Armor,Cheap Paddings,3,14,2,0,0,19,2.9,Leather,No,Yes
+028,5,Body Armor,Cloth Apron,5,8,2,0,0,15,0.8,Cloth,Yes,Yes
+029,6,Body Armor,Coat Of Plates,19,45,6,0,0,70,21,Plate,No,Yes
+030,4,Body Armor,Coat with Mirrored Belt,3,8,3,0,0,14,2.4,Leather,Yes,Yes
+031,6,Body Armor,Cold Weather Dress,2,3,1,0,0,6,0.7,Cloth,Yes,Yes
+032,1,Body Armor,Colored Bisht,2,5,2,0,0,9,1,Cloth,Yes,Yes
+033,1,Body Armor,Colored Kaftan,2,4,2,0,0,8,0.9,Cloth,Yes,Yes
+034,8,Body Armor,Commoner Clothes,2,4,1,0,0,7,0.5,Cloth,Yes,Yes
+035,9,Body Armor,Commoner Shirt,2,3,2,0,0,7,0.5,Cloth,Yes,Yes
+036,9,Body Armor,Commoner Tunic,2,4,2,0,0,8,0.6,Cloth,Yes,Yes
+037,7,Body Armor,Corseted Dress,2,2,1,0,0,5,0.5,Cloth,Yes,Yes
+038,4,Body Armor,Crude Hide Armor,6,13,6,0,0,25,2.4,Leather,No,Yes
+039,4,Body Armor,Cured Leather Lamellar Armor,12,24,6,0,0,42,14,Leather,No,Yes
+040,6,Body Armor,Cured Leather Lamellar Shirt,3,26,2,0,0,31,8.9,Cloth,No,Yes
+041,8,Body Armor,Cured Studded Leather Armor,8,18,6,0,0,32,3,Leather,No,Yes
+042,6,Body Armor,Cut Dress with Pouch,2,3,0,0,0,5,0.5,Cloth,Yes,Yes
+043,6,Body Armor,Decorated Hauberk,15,32,15,0,0,62,14.5,Chainmail,No,Yes
+044,8,Body Armor,Decorated Legionary Mail,18,30,8,0,0,56,22,Chainmail,No,Yes
+045,6,Body Armor,Decorated Thick Tunic,3,6,3,0,0,12,0.6,Cloth,Yes,Yes
+046,6,Body Armor,Dress,1,5,1,0,0,7,0.5,Cloth,Yes,Yes
+047,4,Body Armor,Dress with Fur,3,8,2,0,0,13,0.9,Cloth,Yes,Yes
+048,9,Body Armor,Dummy Higher Average,37,37,37,0,0,111,30,Chainmail,No,No
+049,9,Body Armor,Dummy Lower Average,12,12,12,0,0,36,20,Leather,No,No
+050,9,Body Armor,Dummy Max Armor,55,55,55,0,0,165,40,Plate,No,No
+051,9,Body Armor,Dummy Min Armor,0,0,0,0,0,0,10,Cloth,No,No
+052,4,Body Armor,Envelope Dress,4,8,4,0,0,16,0.6,Cloth,Yes,Yes
+053,1,Body Armor,Feminine Kaftan,3,5,3,0,0,11,0.9,Cloth,Yes,Yes
+054,7,Body Armor,Fortified Mercenary Armor,13,24,12,0,0,49,8.2,Chainmail,No,Yes
+055,6,Body Armor,Frilled Dress,3,6,1,0,0,10,0.6,Cloth,Yes,Yes
+056,2,Body Armor,Fur Armor,3,14,3,0,0,20,4,Leather,No,Yes
+057,2,Body Armor,Fur Armor with Strap,5,12,2,0,0,19,3.1,Leather,Yes,Yes
+058,9,Body Armor,Fur Coat over Tunic,5,12,2,0,0,19,2.1,Leather,No,Yes
+059,9,Body Armor,Fur Skirt,6,2,0,0,0,8,0.6,Leather,No,Yes
+060,9,Body Armor,Fur Skirt with Tunic,6,4,2,0,0,12,0.9,Leather,No,Yes
+061,6,Body Armor,Fur Trimmed Short Tunic,1,6,1,0,0,8,0.4,Cloth,Yes,Yes
+062,6,Body Armor,Fur Trimmed Tunic,3,6,3,0,0,12,0.8,Cloth,Yes,Yes
+063,9,Body Armor,Fur Waistcoat over Tunic,2,6,2,0,0,10,2.3,Leather,No,Yes
+064,1,Body Armor,Gambeson over Mail Armor,15,29,8,0,0,52,11,Chainmail,No,Yes
+065,5,Body Armor,Half Apron,1,3,1,0,0,5,0.7,Cloth,Yes,Yes
+066,7,Body Armor,Heavy Aketon,9,18,9,0,0,36,2,Cloth,Yes,Yes
+067,6,Body Armor,Heavy Lamellar over Hauberk,25,50,15,0,0,90,23.8,Plate,No,Yes
+068,6,Body Armor,Heavy Lamellar over Mail,16,51,16,0,0,83,23.6,Plate,No,Yes
+069,6,Body Armor,Heavy Lamellar over Mail Armor,21,50,7,0,0,78,24,Plate,No,Yes
+070,6,Body Armor,Heavy Lamellar Vest,18,35,2,0,0,55,8.3,Plate,No,Yes
+071,6,Body Armor,Heavy Lamellar Vest,2,28,2,0,0,32,6.2,Plate,No,Yes
+072,7,Body Armor,Heavy Mail Hauberk,14,28,14,0,0,56,12,Chainmail,No,Yes
+073,7,Body Armor,Heavy Mail Shirt,14,27,12,0,0,53,9.5,Chainmail,No,Yes
+074,2,Body Armor,Heavy Mail Shirt with Wide Belt,13,31,10,0,0,54,14,Chainmail,No,Yes
+075,2,Body Armor,Heavy Mail Vest,8,28,2,0,0,38,10.7,Chainmail,No,Yes
+076,1,Body Armor,Heavy Ring Mail,10,20,8,0,0,38,10.5,Chainmail,No,Yes
+077,8,Body Armor,Heavy Scale Armor over Mail Hauberk,20,57,16,0,0,93,18.2,Plate,No,Yes
+078,6,Body Armor,Heavy Tunic,2,7,1,0,0,10,1,Cloth,Yes,Yes
+079,8,Body Armor,Hemp Tunic,2,4,1,0,0,7,0.4,Cloth,Yes,Yes
+080,2,Body Armor,Highborn Mail Armor,22,48,12,0,0,82,19.6,Chainmail,No,Yes
+081,2,Body Armor,Highland Kilt over Tartan Trousers,4,0,0,0,0,4,0.8,Chainmail,Yes,Yes
+082,2,Body Armor,Highland Long Tartan,3,7,0,0,0,10,2.4,Chainmail,Yes,Yes
+083,2,Body Armor,Highland Mail Shirt,4,23,4,0,0,31,10.7,Chainmail,No,Yes
+084,2,Body Armor,Highland Reinforced Mail,8,34,4,0,0,46,16.6,Chainmail,No,Yes
+085,2,Body Armor,Highland Reinforced Mail over Tartan,8,32,4,0,0,44,14.7,Chainmail,No,Yes
+086,2,Body Armor,Highland Scale Armor over Cloth,6,31,3,0,0,40,11.4,Plate,No,Yes
+087,2,Body Armor,Highland Scale Armor over Mail Armor,15,42,12,0,0,69,22.4,Plate,No,Yes
+088,2,Body Armor,Highland Tartan,5,6,3,0,0,14,3.2,Chainmail,Yes,Yes
+089,2,Body Armor,Highland Tartan with Chest Plate,5,15,3,0,0,23,6.5,Chainmail,No,Yes
+090,6,Body Armor,Huscarl Decorated Mail Shirt,8,25,8,0,0,41,10.7,Chainmail,No,Yes
+091,6,Body Armor,Huscarl Hauberk,12,25,10,0,0,47,8.3,Chainmail,No,Yes
+092,6,Body Armor,Huscarl Mail Shirt,10,24,10,0,0,44,10.7,Chainmail,No,Yes
+093,8,Body Armor,Infantryman Gambeson,7,15,4,0,0,26,2.1,Cloth,Yes,Yes
+094,8,Body Armor,Infantryman Gambeson over Leather Jacket,8,16,4,0,0,28,1.8,Cloth,Yes,Yes
+095,8,Body Armor,Infantryman Gambeson with Skirts,8,16,4,0,0,28,2,Cloth,Yes,Yes
+096,8,Body Armor,Infantryman Gambeson with Straps,8,16,4,0,0,28,1.6,Cloth,Yes,Yes
+097,8,Body Armor,Infantryman Long Gambeson,8,16,5,0,0,29,1.5,Cloth,Yes,Yes
+098,8,Body Armor,Infantryman Mail over Leather,6,31,6,0,0,43,8.6,Chainmail,No,Yes
+099,8,Body Armor,Infantryman Mail over Striped Leather,6,31,6,0,0,43,10.2,Chainmail,No,Yes
+100,8,Body Armor,Infantryman Mail Vest,12,26,12,0,0,50,9.8,Chainmail,No,Yes
+101,8,Body Armor,Infantryman Rough Gambeson,8,16,6,0,0,30,2.8,Cloth,Yes,Yes
+102,1,Body Armor,Kaftan with Leather Belt,3,5,2,0,0,10,1.1,Cloth,Yes,Yes
+103,1,Body Armor,Kaftan with Waistband,2,3,1,0,0,6,0.8,Cloth,Yes,Yes
+104,4,Body Armor,Khan's Coat of Plates,26,46,23,0,0,95,26.5,Plate,No,Yes
+105,2,Body Armor,Kilt over Plated Leather,23,42,3,0,0,68,13.6,Leather,No,Yes
+106,6,Body Armor,Laced Dress,1,2,1,0,0,4,0.6,Cloth,Yes,Yes
+107,8,Body Armor,Ladies Dress,4,7,2,0,0,13,0.7,Cloth,Yes,Yes
+108,8,Body Armor,Lamellar with Scale Skirt,23,52,16,0,0,91,24.1,Plate,No,Yes
+109,4,Body Armor,Lancer Lamellar Armor,10,39,7,0,0,56,13,Plate,No,Yes
+110,6,Body Armor,Layered Leather Tunic,6,11,2,0,0,19,1.2,Leather,Yes,Yes
+111,1,Body Armor,Layered Robe,2,5,1,0,0,8,2,Cloth,Yes,Yes
+112,5,Body Armor,Leather Apron,2,4,2,0,0,8,2.5,Leather,Yes,Yes
+113,8,Body Armor,Leather Armor,6,22,6,0,0,34,3.1,Leather,No,Yes
+114,6,Body Armor,Leather Armor over Heavy Cloth,3,11,3,0,0,17,1.8,Leather,Yes,Yes
+115,6,Body Armor,Leather Armor with Iron Plates,4,22,4,0,0,30,9.6,Plate,No,Yes
+116,7,Body Armor,Leather Coat over Cloth,4,8,2,0,0,14,0.7,Cloth,Yes,Yes
+117,7,Body Armor,Leather Scale Armor,6,16,6,0,0,28,6.9,Leather,Yes,Yes
+118,1,Body Armor,Leather Strips over Padded Robe,6,36,7,0,0,49,5.5,Cloth,Yes,Yes
+119,6,Body Armor,Leather Tabard,9,18,6,0,0,33,4.4,Leather,No,Yes
+120,6,Body Armor,Leather Tabard over Mail,14,30,12,0,0,56,10,Chainmail,No,Yes
+121,7,Body Armor,Leather Tunic,5,10,3,0,0,18,2.3,Leather,Yes,Yes
+122,8,Body Armor,Leather Tunic,7,12,2,0,0,21,2.1,Leather,Yes,Yes
+123,8,Body Armor,Legionary Mail,18,34,15,0,0,67,19,Chainmail,No,Yes
+124,1,Body Armor,Light Lamellar Armor,0,48,14,0,0,62,16.5,Plate,No,Yes
+125,1,Body Armor,Light Long Padded Armor,8,16,6,0,0,30,1.3,Cloth,Yes,Yes
+126,6,Body Armor,Light Padded Armor,7,15,7,0,0,29,1.6,Cloth,Yes,Yes
+127,6,Body Armor,Light Tunic,1,2,1,0,0,4,0.4,Cloth,Yes,Yes
+128,2,Body Armor,Long Fur Coat,6,12,2,0,0,20,2.6,Leather,Yes,Yes
+129,7,Body Armor,Long Hemp Tunic,2,4,2,0,0,8,0.6,Cloth,Yes,Yes
+130,1,Body Armor,Long Padded Robe,7,14,2,0,0,23,3.9,Cloth,Yes,Yes
+131,1,Body Armor,Long Simple Robe,2,2,1,0,0,5,1.6,Cloth,Yes,Yes
+132,6,Body Armor,Long Tunic,1,2,1,0,0,4,0.4,Cloth,Yes,Yes
+133,7,Body Armor,Long Woolen Tunic,1,2,1,0,0,4,0.4,Cloth,Yes,Yes
+134,2,Body Armor,Luxury Brigandine,18,53,10,0,0,81,24,Chainmail,No,Yes
+135,4,Body Armor,Luxury Coat,3,6,3,0,0,12,2.7,Leather,Yes,Yes
+136,1,Body Armor,Luxury Kaftan,4,7,2,0,0,13,0.8,Cloth,Yes,Yes
+137,1,Body Armor,Luxury Kaftan with Waistband,4,8,4,0,0,16,0.8,Cloth,Yes,Yes
+138,8,Body Armor,Luxury Lamellar Vest over Leather,7,33,6,0,0,46,15,Plate,No,Yes
+139,1,Body Armor,Luxury Scale Armor,23,47,14,0,0,84,20,Plate,No,Yes
+140,4,Body Armor,Luxury Thick Coat,3,6,3,0,0,12,2.7,Leather,Yes,Yes
+141,6,Body Armor,Luxury Tunic,3,4,2,0,0,9,0.6,Cloth,Yes,Yes
+142,7,Body Armor,Mail Shirt,13,25,11,0,0,49,7.5,Chainmail,No,Yes
+143,1,Body Armor,Mastercrafted Southern Scale Mail,6,36,7,0,0,49,18,Plate,No,Yes
+144,1,Body Armor,Mastercrafted Southern Scale over Chain Hauberk,25,51,16,0,0,92,28,Plate,No,Yes
+145,1,Body Armor,Mastercrafted Southern Scale over Chain Mail,16,51,16,0,0,83,22,Chainmail,No,Yes
+146,5,Body Armor,Merchant Fur Coat,4,8,4,0,0,16,2.9,Leather,Yes,Yes
+147,8,Body Armor,Military Tunic,2,4,1,0,0,7,0.6,Cloth,Yes,Yes
+148,4,Body Armor,Mirrored Brigandine Armor,14,36,14,0,0,64,18.6,Plate,No,Yes
+149,4,Body Armor,Mirrored Leather Armor,7,15,2,0,0,24,2.4,Leather,No,Yes
+150,9,Body Armor,Old Fur Armor,6,12,0,0,0,18,0.9,Cloth,Yes,Yes
+151,9,Body Armor,Old Fur Coat,4,12,0,0,0,16,1,Cloth,Yes,Yes
+152,8,Body Armor,Ornate Legionary Scale Mail,18,36,8,0,0,62,28,Plate,No,Yes
+153,8,Body Armor,Ornate Scale Armor,19,39,8,0,0,66,16,Plate,No,Yes
+154,8,Body Armor,Padded Cloth with Strips,7,14,2,0,0,23,2.2,Cloth,No,Yes
+155,7,Body Armor,Padded Footman Coat,7,16,7,0,0,30,2.4,Cloth,No,Yes
+156,9,Body Armor,Padded Leather Overcoat,4,14,3,0,0,21,3.2,Leather,No,Yes
+157,7,Body Armor,Padded Leather Shirt,8,16,4,0,0,28,1.8,Leather,Yes,Yes
+158,7,Body Armor,Padded Short Coat,2,15,7,0,0,24,2.2,Cloth,No,Yes
+159,8,Body Armor,Patched Gambeson,7,14,3,0,0,24,2.4,Cloth,Yes,Yes
+160,2,Body Armor,Plaid Dress,3,6,3,0,0,12,0.9,Cloth,Yes,Yes
+161,6,Body Armor,Plain Dress,1,2,1,0,0,4,0.5,Cloth,Yes,Yes
+162,9,Body Armor,Ragged Robes,2,3,1,0,0,6,0.9,Cloth,Yes,Yes
+163,2,Body Armor,Ranger Mail,8,32,8,0,0,48,12,Chainmail,No,Yes
+164,8,Body Armor,Red Dress,2,6,2,0,0,10,0.6,Cloth,Yes,Yes
+165,7,Body Armor,Red Tabard over Mail Hauberk,12,34,12,0,0,58,15,Chainmail,No,Yes
+166,4,Body Armor,Reinforced Leather Armor,8,24,2,0,0,34,11.1,Plate,No,Yes
+167,4,Body Armor,Reinforced Mirror Armor,5,16,2,0,0,23,2.4,Leather,Yes,Yes
+168,4,Body Armor,Reinforced Suede Armor,5,16,2,0,0,23,2.3,Leather,No,Yes
+169,6,Body Armor,Reinforced Thick Tunic,3,7,2,0,0,12,1.1,Cloth,Yes,Yes
+170,8,Body Armor,Rich Dress,1,3,1,0,0,5,0.5,Cloth,Yes,Yes
+171,8,Body Armor,Rich Tunic,1,2,1,0,0,4,0.4,Cloth,Yes,Yes
+172,1,Body Armor,Ring Mail,2,13,3,0,0,18,4.4,Leather,No,Yes
+173,1,Body Armor,Robe over Mail Hauberk,12,25,12,0,0,49,8.9,Chainmail,No,Yes
+174,1,Body Armor,Robe over Mail Shirt,12,25,12,0,0,49,8.2,Chainmail,No,Yes
+175,7,Body Armor,Rough Brigandine,19,38,19,0,0,76,19,Plate,No,Yes
+176,9,Body Armor,Rough Fur Armor,5,14,3,0,0,22,1.3,Leather,No,Yes
+177,9,Body Armor,Rough Fur over Mail,10,36,8,0,0,54,14,Chainmail,No,Yes
+178,2,Body Armor,Rough Scale Mail,16,32,14,0,0,62,12.8,Plate,No,Yes
+179,6,Body Armor,Roughcloth Shortcoat,2,5,1,0,0,8,0.4,Cloth,Yes,Yes
+180,9,Body Armor,Rugged Gambeson,7,14,3,0,0,24,2.2,Cloth,Yes,Yes
+181,2,Body Armor,Rugged Scale Armor,7,31,0,0,0,38,10.7,Plate,No,Yes
+182,7,Body Armor,Sackcloth Tunic,1,3,1,0,0,5,0.6,Cloth,Yes,Yes
+183,2,Body Armor,Scale Warlord Armor,18,37,16,0,0,71,19,Plate,No,Yes
+184,7,Body Armor,Scholar Robe,2,5,1,0,0,8,0.5,Cloth,Yes,Yes
+185,6,Body Armor,Short Gambeson over Tunic,6,16,3,0,0,25,1.5,Cloth,Yes,Yes
+186,1,Body Armor,Short Padded Robe,6,14,2,0,0,22,1.3,Cloth,Yes,Yes
+187,8,Body Armor,Short Tunic,0,4,0,0,0,4,1,Cloth,Yes,Yes
+188,1,Body Armor,Silk Kaftan,3,6,3,0,0,12,0.4,Cloth,Yes,Yes
+189,7,Body Armor,Silken Noble Dress,1,2,1,0,0,4,0.6,Cloth,Yes,Yes
+190,7,Body Armor,Simple Cloth Tunic,1,2,1,0,0,4,0.4,Cloth,Yes,Yes
+191,1,Body Armor,Simple Kaftan,2,5,1,0,0,8,1.6,Cloth,Yes,Yes
+192,1,Body Armor,Simple Peasant Robe,2,5,2,0,0,9,1.1,Cloth,Yes,Yes
+193,6,Body Armor,Sleeved Heavy Tunic,2,7,1,0,0,10,0.9,Cloth,Yes,Yes
+194,9,Body Armor,Sleeveless Enveloped Padded Garments,1,2,1,0,0,4,0.5,Cloth,Yes,Yes
+195,9,Body Armor,Sleeveless Fur Coat,5,12,2,0,0,19,1.8,Leather,No,Yes
+196,7,Body Armor,Sleeveless Padded Coat,9,18,2,0,0,29,2.2,Cloth,No,Yes
+197,7,Body Armor,Sleeveless Padded Short Coat,7,15,2,0,0,24,2,Cloth,Yes,Yes
+198,2,Body Armor,Sleeveless Studded Fur Armor,5,11,0,0,0,16,0.4,Leather,Yes,Yes
+199,6,Body Armor,Sloven Leather,4,12,3,0,0,19,2.9,Leather,No,Yes
+200,1,Body Armor,Southern Chain Mail,13,25,13,0,0,51,17,Chainmail,No,Yes
+201,1,Body Armor,Southern Decorated Chain Mail,13,27,13,0,0,53,18,Chainmail,No,Yes
+202,1,Body Armor,Southern Mail Shirt with Brass Plates,16,34,18,0,0,68,18,Chainmail,No,Yes
+203,1,Body Armor,Southern Reinforced Mail Armor,16,31,16,0,0,63,22,Chainmail,No,Yes
+204,1,Body Armor,Southern Reinforced Mail Vest,6,31,6,0,0,43,15,Chainmail,No,Yes
+205,1,Body Armor,Southern Reinforced Short Mail Armor,6,31,16,0,0,53,18,Chainmail,No,Yes
+206,1,Body Armor,Southern Reinforced Sleeveless Mail Armor,16,31,6,0,0,53,19,Chainmail,No,Yes
+207,1,Body Armor,Southern Sleeveless Mail Shirt with Brass Plates,16,34,6,0,0,56,15,Chainmail,No,Yes
+208,4,Body Armor,Steppe Robe,2,4,2,0,0,8,0.4,Cloth,Yes,Yes
+209,4,Body Armor,Stitched Cured Leather Coat,10,20,6,0,0,36,8.4,Leather,No,Yes
+210,1,Body Armor,Stitched Leather over Mail,14,36,14,0,0,64,15.1,Chainmail,No,Yes
+211,6,Body Armor,Stitched Leather Vest,5,12,3,0,0,20,1.5,Leather,Yes,Yes
+212,4,Body Armor,Striped Coat,2,6,1,0,0,9,0.6,Cloth,Yes,Yes
+213,9,Body Armor,Studded Fur Armor,5,11,3,0,0,19,1.2,Leather,Yes,Yes
+214,4,Body Armor,Studded Leather Armor,7,14,6,0,0,27,2.4,Leather,No,Yes
+215,1,Body Armor,Studded Leather Coat,5,10,2,0,0,17,1.6,Leather,No,Yes
+216,4,Body Armor,Studded Leather over Aketon,7,14,7,0,0,28,4.4,Leather,No,Yes
+217,4,Body Armor,Studded Leather Waistcoat,3,8,0,0,0,11,0.7,Leather,Yes,Yes
+218,1,Body Armor,Tailored Dress,2,5,2,0,0,9,0.7,Cloth,Yes,Yes
+219,2,Body Armor,Tartan Dress,2,4,2,0,0,8,0.7,Cloth,Yes,Yes
+220,2,Body Armor,Tartan Long Dress,2,6,2,0,0,10,0.7,Cloth,Yes,Yes
+221,2,Body Armor,Tartan Toga,9,4,0,0,0,13,0.7,Cloth,Yes,Yes
+222,2,Body Armor,Tartan Tunic,2,6,3,0,0,11,0.6,Cloth,Yes,Yes
+223,1,Body Armor,Tassled Robes,2,6,2,0,0,10,0.9,Cloth,Yes,Yes
+224,9,Body Armor,Tattered Rags,1,3,0,0,0,4,0.3,Cloth,Yes,Yes
+225,1,Body Armor,Thawb,2,4,2,0,0,8,1.1,Cloth,Yes,Yes
+226,8,Body Armor,Thick Brigandine Vest,8,34,2,0,0,44,4.5,Leather,Yes,Yes
+227,1,Body Armor,Thick Sleeved Robe,3,5,2,0,0,10,1,Cloth,Yes,Yes
+228,8,Body Armor,Tied Cloth Tunic,1,4,1,0,0,6,0.4,Cloth,Yes,Yes
+229,8,Body Armor,Toga,3,8,4,0,0,15,0.9,Cloth,Yes,Yes
+230,9,Body Armor,Torn Padded Garments,2,6,1,0,0,9,0.5,Cloth,Yes,Yes
+231,9,Body Armor,Torn Robe,1,1,0,0,0,2,0.4,Leather,No,Yes
+232,2,Body Armor,Townsman Luxury Coat,4,8,6,0,0,18,0.6,Leather,Yes,Yes
+233,6,Body Armor,Tunic with Leather Vest,4,9,2,0,0,15,0.9,Leather,Yes,Yes
+234,8,Body Armor,Tunic with Rolled Cloth,3,6,2,0,0,11,0.7,Cloth,Yes,Yes
+235,8,Body Armor,Tunic with Shoulder Pads,2,5,2,0,0,9,0.6,Cloth,Yes,Yes
+236,6,Body Armor,Varyag Tunic,3,6,2,0,0,11,0.4,Cloth,Yes,Yes
+237,2,Body Armor,Villager Leather Tunic,4,10,2,0,0,16,0.4,Leather,Yes,Yes
+238,1,Body Armor,Villager Short Dress,1,2,1,0,0,4,0.5,Cloth,Yes,Yes
+239,2,Body Armor,Villager Thick Dress,2,4,2,0,0,8,0.7,Cloth,Yes,Yes
+240,7,Body Armor,White Tabard over Mail Hauberk,12,34,12,0,0,58,15,Chainmail,No,Yes
+241,2,Body Armor,Wildling Armor,5,2,1,0,0,8,0.8,Cloth,Yes,Yes
+242,2,Body Armor,Woodland Cloth Armor,4,9,2,0,0,15,1.5,Cloth,Yes,Yes
+243,2,Body Armor,Woodland Commoner Dress,2,4,2,0,0,8,0.8,Cloth,Yes,Yes
+244,2,Body Armor,Woodland Garments,6,14,4,0,0,24,1.2,Leather,Yes,Yes
+245,7,Body Armor,Woven Leather Vest,5,11,3,0,0,19,4.7,Leather,No,Yes
+246,8,Head Armor,Austere Crown,0,0,0,4,0,4,0.35,Plate,Yes,No
+247,1,Head Armor,Bandit Leather Hood,0,0,0,5,0,5,0.1,Leather,Yes,Yes
+248,6,Head Armor,Battle Crown,0,0,0,47,0,47,2.2,Plate,No,No
+249,2,Head Armor,Bear Head,0,0,0,24,0,24,1.4,Leather,No,Yes
+250,1,Head Armor,Brass Southern Closed Helmet,0,0,0,42,0,42,2.5,Plate,No,No
+251,1,Head Armor,Brass Southern Closed Helmet with Turban,0,0,0,43,0,43,2.55,Plate,No,No
+252,1,Head Armor,Brass Southern Helmet,0,0,0,38,0,38,2.2,Plate,No,No
+253,1,Head Armor,Brass Southern Helmet with Leather Flaps,0,0,0,36,0,36,1.8,Plate,No,No
+254,1,Head Armor,Brass Southern Helmet with Turban,0,0,0,39,0,39,2.3,Plate,No,No
+255,1,Head Armor,Brass Turbaned Helmet with Leather Flaps,0,0,0,37,0,37,1.9,Plate,No,No
+256,2,Head Armor,Bronze Cap with Cheek Guards,0,0,0,31,0,31,3,Plate,No,Yes
+257,8,Head Armor,Bronze Nasalhelm over Mail,0,0,0,38,0,38,3.7,Plate,No,Yes
+258,2,Head Armor,Cap with Fur Coif,0,0,0,20,0,20,1.3,Leather,No,Yes
+259,4,Head Armor,Cap with Neck Flap,0,0,0,6,0,6,0.3,Cloth,Yes,Yes
+260,7,Head Armor,Cervelliere over Arming Coif,0,0,0,19,0,19,1.9,Plate,No,Yes
+261,7,Head Armor,Cervelliere over Cloth Headwrap,0,0,0,20,0,20,2,Plate,No,Yes
+262,7,Head Armor,Cervelliere over Laced Coif,0,0,0,29,0,29,2.1,Plate,No,Yes
+263,7,Head Armor,Cervelliere over Padded Cap,0,0,0,20,0,20,2.1,Plate,No,Yes
+264,6,Head Armor,Closed Decorated Goggled Helmet,0,0,0,54,0,54,3.8,Plate,No,Yes
+265,1,Head Armor,Closed Head Scarf,0,0,0,6,0,6,0.6,Cloth,No,Yes
+266,6,Head Armor,Closed Huscarl Helmet,0,0,0,51,0,51,4.4,Chainmail,No,Yes
+267,7,Head Armor,Closed Knight Helmet,0,0,0,45,0,45,2.2,Plate,No,Yes
+268,6,Head Armor,Closed Mail Goggled Helmet,0,0,0,51,0,51,3.65,Chainmail,No,Yes
+269,1,Head Armor,Closed Steel Cap,0,0,0,52,0,52,3.2,Chainmail,No,Yes
+270,6,Head Armor,Closed Warlord Helmet,0,0,0,53,0,53,3.8,Plate,No,Yes
+271,8,Head Armor,Cloth Coif,0,0,0,2,0,2,0.2,Cloth,Yes,Yes
+272,7,Head Armor,Cloth Headwrap,0,0,0,6,0,6,0.4,Cloth,Yes,Yes
+273,2,Head Armor,Cloth Hood,0,0,0,6,0,6,0.3,Cloth,No,Yes
+274,1,Head Armor,Colored Hijab,0,0,0,2,0,2,0.1,Cloth,Yes,Yes
+275,1,Head Armor,Colored Keffiyeh,0,0,0,5,0,5,0.1,Cloth,Yes,Yes
+276,1,Head Armor,Colored Turban,0,0,0,5,0,5,0.2,Cloth,Yes,Yes
+277,7,Head Armor,Crowned Helmet,0,0,0,46,0,46,3.4,Plate,No,No
+278,7,Head Armor,Crowned Plate Helmet,0,0,0,48,0,48,3.6,Plate,No,No
+279,2,Head Armor,Decorated Bronze Helmet with Cheek Guards,0,0,0,35,0,35,3.3,Plate,No,Yes
+280,4,Head Armor,Decorated Nomad Cap,0,0,0,6,0,6,0.4,Cloth,Yes,Yes
+281,1,Head Armor,Desert Headdress,0,0,0,6,0,6,0.2,Cloth,Yes,Yes
+282,1,Head Armor,Desert Headscarf,0,0,0,3,0,3,0.3,Cloth,Yes,Yes
+283,1,Head Armor,Emir Helmet,0,0,0,46,0,46,3,Chainmail,No,Yes
+284,8,Head Armor,Feathered Spangenhelm,0,0,0,26,0,26,3.2,Plate,No,Yes
+285,8,Head Armor,Feathered Spangenhelm over Coif,0,0,0,42,0,42,3.1,Plate,No,Yes
+286,8,Head Armor,Feathered Spangenhelm over Leather,0,0,0,36,0,36,3.2,Plate,No,Yes
+287,8,Head Armor,Feathered Spangenhelm over Mail,0,0,0,42,0,42,3.4,Plate,No,Yes
+288,1,Head Armor,Female Headwrap,0,0,0,2,0,2,0.1,Cloth,Yes,Yes
+289,7,Head Armor,Female Rural Headwrap,0,0,0,1,0,1,0.3,Cloth,Yes,Yes
+290,7,Head Armor,Female Rural Scarf,0,0,0,3,0,3,0.2,Cloth,Yes,Yes
+291,2,Head Armor,Fringed Bronze Cap with Cheek Guards,0,0,0,35,0,35,3.2,Plate,No,Yes
+292,2,Head Armor,Fringed Decorated Bronze Cap with Cheek Guards,0,0,0,37,0,37,3.3,Plate,No,Yes
+293,2,Head Armor,Fringed Decorated Steel Cap with Cheek Guards,0,0,0,38,0,38,3.1,Plate,No,Yes
+294,2,Head Armor,Fringed Steel Cap with Cheek Guards,0,0,0,36,0,36,3,Plate,No,Yes
+295,7,Head Armor,Full Helm over Arming Coif,0,0,0,46,0,46,3,Plate,No,Yes
+296,7,Head Armor,Full Helm over Cloth Headwrap,0,0,0,46,0,46,3.2,Plate,No,Yes
+297,7,Head Armor,Full Helm over Laced Coif,0,0,0,45,0,45,3.25,Plate,No,Yes
+298,7,Head Armor,Full Helm over Mail Coif,0,0,0,50,0,50,3.7,Plate,No,Yes
+299,7,Head Armor,Full Helm over Padded Cap,0,0,0,47,0,47,3.1,Plate,No,Yes
+300,7,Head Armor,Full Helm over Padded Cloth,0,0,0,48,0,48,3.6,Plate,No,Yes
+301,6,Head Armor,Fur Cap,0,0,0,9,0,9,0.5,Leather,Yes,Yes
+302,6,Head Armor,Fur Cap with Ear Flaps,0,0,0,7,0,7,0.4,Leather,Yes,Yes
+303,6,Head Armor,Fur Rimmed Cap,0,0,0,8,0,8,0.3,Leather,Yes,Yes
+304,4,Head Armor,Furred Noble Lancer Helmet,0,0,0,45,0,45,3.4,Plate,No,Yes
+305,8,Head Armor,Goggled Cataphract Helmet,0,0,0,52,0,52,3.2,Chainmail,No,Yes
+306,6,Head Armor,Goggled Helmet over Leather,0,0,0,46,0,46,3.1,Plate,No,Yes
+307,6,Head Armor,Goggled Helmet over Mail,0,0,0,50,0,50,3.4,Plate,No,Yes
+308,8,Head Armor,Golden Laurel Crown,0,0,0,5,0,5,0.3,Plate,Yes,No
+309,6,Head Armor,Head Scarf,0,0,0,1,0,1,0.2,Cloth,Yes,Yes
+310,1,Head Armor,Headscarf with Fez,0,0,0,4,0,4,0.4,Cloth,Yes,Yes
+311,6,Head Armor,Heavy Cavalry Helmet,0,0,0,46,0,46,3.8,Plate,No,Yes
+312,4,Head Armor,Heavy Lancer Helmet,0,0,0,51,0,51,4,Chainmail,No,Yes
+313,8,Head Armor,Heavy Nasalhelm over Laced Cloth,0,0,0,46,0,46,3.1,Plate,No,Yes
+314,8,Head Armor,Heavy Nasalhelm over Leather,0,0,0,48,0,48,3.4,Plate,No,Yes
+315,8,Head Armor,Heavy Nasalhelm over Mail,0,0,0,51,0,51,3.6,Plate,No,Yes
+316,8,Head Armor,Heavy Nasalhelm over Padding,0,0,0,48,0,48,3,Plate,No,Yes
+317,8,Head Armor,Helmet with Faceguard,0,0,0,25,0,25,2.5,Plate,No,Yes
+318,1,Head Armor,Helmet with Open Turban,0,0,0,26,0,26,2.1,Plate,No,Yes
+319,1,Head Armor,Helmet with Turban and Coif,0,0,0,20,0,20,2.2,Plate,No,Yes
+320,9,Head Armor,Hide Cap,0,0,0,8,0,8,0.45,Plate,No,Yes
+321,2,Head Armor,Highland Ceremonial Crown,0,0,0,8,0,8,0.5,Plate,No,No
+322,2,Head Armor,Highland Crowned Helmet,0,0,0,50,0,50,3.4,Plate,No,No
+323,1,Head Armor,Hijab,0,0,0,3,0,3,0.5,Cloth,Yes,Yes
+324,8,Head Armor,Imperial Jeweled Band,0,0,0,7,0,7,0.85,Plate,Yes,No
+325,8,Head Armor,Imperial Jeweled Band,0,0,0,6,0,6,0.5,Plate,Yes,No
+326,8,Head Armor,Imperial Jeweled Helmet,0,0,0,47,0,47,3.4,Plate,No,Yes
+327,8,Head Armor,Imperial Plumed Helmet,0,0,0,48,0,48,3.1,Plate,No,No
+328,4,Head Armor,Infantry Steel Helmet,0,0,0,33,0,33,2.2,Plate,No,Yes
+329,8,Head Armor,Iron Legionary Helm over Cloth,0,0,0,46,0,46,3.2,Plate,No,Yes
+330,8,Head Armor,Iron Nasalhelm over Coif,0,0,0,48,0,48,3.6,Plate,No,Yes
+331,8,Head Armor,Iron Nasalhelm over Leather,0,0,0,43,0,43,3.5,Plate,No,Yes
+332,8,Head Armor,Iron Nasalhelm over Mail,0,0,0,48,0,48,3.3,Plate,No,Yes
+333,8,Head Armor,Iron Nasalhelm over Padding,0,0,0,46,0,46,3.1,Plate,No,Yes
+334,8,Head Armor,Iron Roundkettle over Leather,0,0,0,30,0,30,2.2,Plate,No,Yes
+335,8,Head Armor,Iron Roundkettle over Mail,0,0,0,36,0,36,2.85,Plate,No,Yes
+336,8,Head Armor,Iron Spiked Kettle over Mail,0,0,0,33,0,33,2.85,Plate,No,Yes
+337,8,Head Armor,Jeweled Crown,0,0,0,34,0,34,2.1,Plate,No,No
+338,6,Head Armor,Jeweled Fur Rimmed Helmet,0,0,0,41,0,41,2.4,Plate,Yes,No
+339,8,Head Armor,Jeweled Plumed Battle Crown,0,0,0,45,0,45,2.1,Plate,No,No
+340,1,Head Armor,Keffiyeh with Brown Band,0,0,0,4,0,4,0.2,Cloth,Yes,Yes
+341,1,Head Armor,Keffiyeh with Silken Band,0,0,0,4,0,4,0.2,Cloth,Yes,Yes
+342,7,Head Armor,Kettle Hat over Mail Coif,0,0,0,42,0,42,2.9,Chainmail,No,Yes
+343,7,Head Armor,Kettle Hat over Padded Cloth,0,0,0,34,0,34,2.4,Plate,No,Yes
+344,7,Head Armor,Kettle Hat over Padded Coif,0,0,0,36,0,36,2.6,Plate,No,Yes
+345,7,Head Armor,Kettle Helmet over Arming Coif,0,0,0,32,0,32,2.3,Plate,No,Yes
+346,7,Head Armor,Kettle Helmet over Laced Coif,0,0,0,35,0,35,2.5,Plate,No,Yes
+347,7,Head Armor,Kettle Helmet over Mail,0,0,0,40,0,40,2.8,Plate,No,Yes
+348,7,Head Armor,Kettle Helmet over Padded Cap,0,0,0,33,0,33,2.25,Plate,No,Yes
+349,7,Head Armor,Kettle Helmet over Padded Cloth,0,0,0,33,0,33,2.6,Plate,No,Yes
+350,7,Head Armor,Kettle Helmet over Padded Coif,0,0,0,36,0,36,2.68,Plate,No,Yes
+351,7,Head Armor,Kettle Helmet with Leather,0,0,0,33,0,33,2.4,Plate,No,Yes
+352,7,Head Armor,Kettle Helmet with Mail,0,0,0,36,0,36,2.9,Plate,No,Yes
+353,7,Head Armor,Kettle over Laced Coif,0,0,0,33,0,33,3,Plate,No,Yes
+354,7,Head Armor,Kettle over Mail Coif,0,0,0,38,0,38,3.6,Plate,No,Yes
+355,7,Head Armor,Kettle over Padded Coif,0,0,0,34,0,34,3,Plate,No,Yes
+356,4,Head Armor,4 Battle Crown,0,0,0,36,0,36,2.7,Plate,No,No
+357,7,Head Armor,Knight Helmet with Bronze Faceguard,0,0,0,44,0,44,2.3,Plate,No,Yes
+358,8,Head Armor,Laced Cloth Coif,0,0,0,6,0,6,0.4,Cloth,Yes,Yes
+359,7,Head Armor,Laced Coif,0,0,0,14,0,14,0.6,Cloth,Yes,Yes
+360,8,Head Armor,Leather Cap,0,0,0,8,0,8,0.4,Leather,Yes,Yes
+361,7,Head Armor,Leather Coif,0,0,0,9,0,9,0.3,Cloth,Yes,Yes
+362,8,Head Armor,Leather Coif,0,0,0,6,0,6,0.3,Leather,Yes,Yes
+363,2,Head Armor,Leather Studded Helm,0,0,0,8,0,8,0.5,Leather,No,Yes
+364,2,Head Armor,Leather Studded Helm over Headcloth,0,0,0,10,0,10,0.7,Leather,No,Yes
+365,2,Head Armor,Leather Studded Helm over Roughscale,0,0,0,22,0,22,2.1,Leather,No,Yes
+366,2,Head Armor,Leather Studded Helm over Thinhide,0,0,0,12,0,12,0.8,Leather,No,Yes
+367,8,Head Armor,Legionary Helm,0,0,0,36,0,36,3.2,Plate,No,Yes
+368,8,Head Armor,Light Roundkettle over Leather,0,0,0,22,0,22,2.2,Plate,No,Yes
+369,8,Head Armor,Lightweight Padded Coif,0,0,0,14,0,14,0.5,Cloth,Yes,Yes
+370,7,Head Armor,Loose Head Scarf,0,0,0,3,0,3,0.5,Cloth,Yes,Yes
+371,8,Head Armor,Lord Helmet with Metal Strips,0,0,0,47,0,47,3.4,Plate,No,Yes
+372,1,Head Armor,Lordly Steel Cap,0,0,0,46,0,46,2.9,Plate,No,Yes
+373,7,Head Armor,Luxurious Head Scarf,0,0,0,3,0,3,0.3,Cloth,Yes,Yes
+374,1,Head Armor,Luxury Turban Over Helmet,0,0,0,42,0,42,2.8,Plate,No,Yes
+375,8,Head Armor,Mail Coif,0,0,0,19,0,19,1.7,Chainmail,No,Yes
+376,8,Head Armor,Mail Coif with Helmet Padding,0,0,0,18,0,18,1.7,Chainmail,No,Yes
+377,6,Head Armor,Mailed Nasal Helmet,0,0,0,49,0,49,3.15,Plate,No,Yes
+378,1,Head Armor,Mamluke Helmet with Mail,0,0,0,45,0,45,2.9,Plate,No,Yes
+379,5,Head Armor,Merchant Hat,0,0,0,1,0,1,0.1,Leather,Yes,Yes
+380,7,Head Armor,Nasal Cervelliere over Laced Coif,0,0,0,28,0,28,2.1,Plate,No,Yes
+381,7,Head Armor,Nasal Cervelliere over Mail Coif,0,0,0,36,0,36,2.6,Plate,No,Yes
+382,7,Head Armor,Nasal Cervelliere over Padded Cap,0,0,0,22,0,22,2,Plate,No,Yes
+383,7,Head Armor,Nasal Cervelliere over Padded Coif,0,0,0,25,0,25,2.2,Plate,No,Yes
+384,7,Head Armor,Nasal Helmet over Cloth Headwrap,0,0,0,26,0,26,2,Plate,No,Yes
+385,7,Head Armor,Nasal Helmet over Laced Coif,0,0,0,32,0,32,2.3,Plate,No,Yes
+386,7,Head Armor,Nasal Helmet over Mail,0,0,0,36,0,36,3.1,Plate,No,Yes
+387,7,Head Armor,Nasal Helmet over Mail Coif,0,0,0,38,0,38,3.3,Plate,No,Yes
+388,7,Head Armor,Nasal Helmet over Padded Cloth,0,0,0,29,0,29,2.2,Plate,No,Yes
+389,7,Head Armor,Nasal Helmet over Padded Coif,0,0,0,36,0,36,2.4,Plate,No,Yes
+390,6,Head Armor,Nasal Helmet with Leather,0,0,0,37,0,37,2.2,Plate,No,Yes
+391,6,Head Armor,Nasal Helmet with Mail,0,0,0,39,0,39,2.5,Plate,No,Yes
+392,6,Head Armor,Nasalhelm over Leather,0,0,0,23,0,23,1.9,Plate,No,Yes
+393,6,Head Armor,Nasalhelm over Mail,0,0,0,33,0,33,2.8,Plate,No,Yes
+394,1,Head Armor,Noble Crowned Lord Helmet,0,0,0,45,0,45,3.4,Plate,No,No
+395,4,Head Armor,Noble Lancer Helmet,0,0,0,48,0,48,3.4,Plate,No,Yes
+396,1,Head Armor,Noble Steel Cap,0,0,0,46,0,46,3.5,Plate,No,Yes
+397,4,Head Armor,Nomad Cap,0,0,0,4,0,4,0.3,Cloth,Yes,Yes
+398,4,Head Armor,Nomad Fur Cap,0,0,0,7,0,7,0.35,Leather,Yes,Yes
+399,4,Head Armor,Nomad Helmet,0,0,0,31,0,31,2.1,Plate,No,Yes
+400,4,Head Armor,Nomad Padded Hood,0,0,0,12,0,12,0.6,Cloth,Yes,Yes
+401,6,Head Armor,Northern Closed Warlord Helmet,0,0,0,51,0,51,3.7,Chainmail,No,Yes
+402,1,Head Armor,Open Head Scarf,0,0,0,6,0,6,0.5,Cloth,Yes,Yes
+403,8,Head Armor,Open Mail Coif,0,0,0,20,0,20,1.5,Chainmail,No,Yes
+404,8,Head Armor,Open Mail Coif,0,0,0,18,0,18,1.6,Chainmail,No,Yes
+405,7,Head Armor,Open Padded Coif,0,0,0,14,0,14,0.6,Cloth,Yes,Yes
+406,1,Head Armor,Ornate Desert Battle Crown,0,0,0,44,0,44,2.8,Plate,No,No
+407,4,Head Armor,Ornate Steel Cap,0,0,0,22,0,22,1.4,Plate,No,No
+408,7,Head Armor,Padded Cap,0,0,0,11,0,11,0.2,Cloth,Yes,Yes
+409,7,Head Armor,Padded Coif,0,0,0,18,0,18,0.4,Cloth,No,Yes
+410,7,Head Armor,Padded Half Coif,0,0,0,14,0,14,0.7,Cloth,No,Yes
+411,7,Head Armor,Padded Leather Cape,0,0,0,11,0,11,0.4,Plate,No,Yes
+412,8,Head Armor,Palatine Guard Helmet,0,0,0,46,0,46,3.2,Plate,No,Yes
+413,4,Head Armor,Peaked Fur Hood,0,0,0,13,0,13,0.7,Leather,No,Yes
+414,7,Head Armor,Peaked Helmet over Laced Coif,0,0,0,37,0,37,2.8,Plate,No,Yes
+415,7,Head Armor,Peaked Helmet over Mail,0,0,0,40,0,40,2.8,Plate,No,Yes
+416,7,Head Armor,Peaked Helmet over Mail Coif,0,0,0,42,0,42,3,Plate,No,Yes
+417,7,Head Armor,Peaked Helmet over Padded Cloth,0,0,0,36,0,36,2.5,Plate,No,Yes
+418,7,Head Armor,Peasant Head Wrapping,0,0,0,1,0,1,0.05,Cloth,Yes,Yes
+419,8,Head Armor,Pilgrim Hood,0,0,0,3,0,3,0.2,Cloth,Yes,Yes
+420,7,Head Armor,Plated Helmet,0,0,0,30,0,30,3,Plate,No,Yes
+421,7,Head Armor,Plated Helmet with Sideguards,0,0,0,52,0,52,3.9,Plate,No,Yes
+422,6,Head Armor,Plated Warlord Helmet,0,0,0,53,0,53,3.8,Plate,No,Yes
+423,6,Head Armor,Plumed Decorated Mailed Nasal Helmet,0,0,0,49,0,49,3.2,Plate,No,Yes
+424,4,Head Armor,Plumed Fur Lined Helmet,0,0,0,24,0,24,2.1,Plate,No,Yes
+425,8,Head Armor,Plumed Helmet,0,0,0,47,0,47,2.9,Plate,No,Yes
+426,4,Head Armor,Plumed Lamellar Helmet,0,0,0,36,0,36,2.8,Plate,No,Yes
+427,4,Head Armor,Plumed Noble Lancer Helmet with Neckguard,0,0,0,48,0,48,3.6,Plate,No,Yes
+428,4,Head Armor,Plumed Nomad Helmet,0,0,0,32,0,32,2.6,Plate,No,Yes
+429,1,Head Armor,Pointed Skullcap over Cloth Headwrap,0,0,0,30,0,30,2.1,Plate,No,Yes
+430,1,Head Armor,Pointed Skullcap over Gambeson,0,0,0,32,0,32,2.2,Plate,No,Yes
+431,1,Head Armor,Pointed Skullcap over Laced Coif,0,0,0,32,0,32,2.2,Plate,No,Yes
+432,1,Head Armor,Pointed Skullcap over Mail Coif,0,0,0,37,0,37,2.8,Plate,No,Yes
+433,1,Head Armor,Pointed Skullcap with Mail,0,0,0,35,0,35,2.6,Plate,No,Yes
+434,6,Head Armor,Reinforced Closed Goggled Helmet,0,0,0,52,0,52,3.2,Chainmail,No,Yes
+435,2,Head Armor,Ridged Decorated Bronze Cap with Cheek Guards,0,0,0,40,0,40,3.3,Plate,No,Yes
+436,2,Head Armor,Ridged Decorated Steel Cap with Cheek Guards,0,0,0,41,0,41,3.2,Plate,No,Yes
+437,2,Head Armor,Ridged Helm,0,0,0,46,0,46,3.2,Plate,No,Yes
+438,6,Head Armor,Ridged Warlord Helmet,0,0,0,50,0,50,3.6,Plate,No,Yes
+439,9,Head Armor,Rough Padded Cap,0,0,0,12,0,12,0.5,Plate,No,Yes
+440,6,Head Armor,Roughhide Cap,0,0,0,7,0,7,0.5,Cloth,Yes,Yes
+441,2,Head Armor,Roughscale Helmet,0,0,0,26,0,26,2.2,Plate,No,Yes
+442,1,Head Armor,Roughspun Keffiyeh,0,0,0,6,0,6,0.2,Cloth,Yes,Yes
+443,8,Head Armor,Roundkettle Helmet,0,0,0,36,0,36,2.8,Plate,No,Yes
+444,8,Head Armor,Roundkettle over Cloth,0,0,0,28,0,28,2,Plate,No,Yes
+445,8,Head Armor,Roundkettle over Laced Cloth,0,0,0,26,0,26,2,Plate,No,Yes
+446,8,Head Armor,Roundkettle over Leather,0,0,0,30,0,30,2.2,Plate,No,Yes
+447,8,Head Armor,Roundkettle over Mail,0,0,0,34,0,34,2.8,Plate,No,Yes
+448,8,Head Armor,Roundkettle over Mail,0,0,0,42,0,42,3.1,Plate,No,Yes
+449,8,Head Armor,Roundkettle over Padding,0,0,0,31,0,31,2.4,Plate,No,Yes
+450,8,Head Armor,Royal Cataphract Helmet,0,0,0,51,0,51,3.7,Plate,No,Yes
+451,7,Head Armor,Rural Head Wrap,0,0,0,1,0,1,0.1,Cloth,Yes,Yes
+452,1,Head Armor,Rural Headdress,0,0,0,3,0,3,0.2,Cloth,Yes,Yes
+453,6,Head Armor,Sea Raider Goggled Helmet,0,0,0,50,0,50,3.2,Plate,No,Yes
+454,7,Head Armor,Segmented Cervelliere over Laced Coif,0,0,0,24,0,24,2.3,Plate,No,Yes
+455,7,Head Armor,Segmented Cervelliere over Mail,0,0,0,26,0,26,2.85,Plate,No,Yes
+456,7,Head Armor,Segmented Cervelliere over Mail Coif,0,0,0,28,0,28,2.9,Plate,No,Yes
+457,7,Head Armor,Segmented Cervelliere over Padded Cloth,0,0,0,28,0,28,2.8,Plate,No,Yes
+458,7,Head Armor,Segmented Skullcap over Laced Coif,0,0,0,17,0,17,1.2,Plate,No,Yes
+459,7,Head Armor,Segmented Skullcap over Mail Coif,0,0,0,42,0,42,3.2,Plate,No,Yes
+460,7,Head Armor,Segmented Skullcap over Padded Cloth,0,0,0,28,0,28,2.6,Plate,No,Yes
+461,7,Head Armor,Segmented Skullcap over Padded Coif,0,0,0,29,0,29,2.3,Plate,No,Yes
+462,8,Head Armor,Spangenhelm over Leather,0,0,0,40,0,40,2.7,Plate,No,Yes
+463,8,Head Armor,Spangenhelm over Mail,0,0,0,42,0,42,3.3,Plate,No,Yes
+464,6,Head Armor,Spangenhelm with Leather,0,0,0,20,0,20,1.2,Plate,No,Yes
+465,6,Head Armor,Spangenhelm with Padded Cloth,0,0,0,18,0,18,1.9,Plate,No,Yes
+466,4,Head Armor,Spiked Helmet,0,0,0,48,0,48,3.5,Plate,No,Yes
+467,1,Head Armor,Spiked Helmet with Closed Turban,0,0,0,23,0,23,2.4,Plate,No,Yes
+468,4,Head Armor,Spiked Helmet with Facemask,0,0,0,51,0,51,4.5,Plate,No,Yes
+469,1,Head Armor,Spiked Helmet with Open Turban,0,0,0,22,0,22,1.3,Plate,No,Yes
+470,8,Head Armor,Spiked Kettle over Mail,0,0,0,27,0,27,3.1,Plate,No,Yes
+471,8,Head Armor,Spiked Kettle over Padding,0,0,0,39,0,39,2.5,Plate,No,Yes
+472,1,Head Armor,Steel Cap,0,0,0,18,0,18,1.2,Plate,No,Yes
+473,2,Head Armor,Steel Cap with Cheek Guards,0,0,0,32,0,32,2.9,Plate,No,Yes
+474,6,Head Armor,Steel Cap with Nose Guard,0,0,0,22,0,22,1.8,Plate,No,Yes
+475,6,Head Armor,Steel Nasal Cap,0,0,0,35,0,35,2.4,Plate,No,Yes
+476,8,Head Armor,Tall Helmet,0,0,0,38,0,38,2.2,Plate,No,Yes
+477,4,Head Armor,Thick Fur Hood,0,0,0,12,0,12,0.6,Leather,No,Yes
+478,2,Head Armor,Thinhide Coif,0,0,0,9,0,9,0.5,Leather,Yes,Yes
+479,1,Head Armor,Tied Head Wrapping,0,0,0,5,0,5,0.5,Cloth,Yes,Yes
+480,1,Head Armor,Tight Head Scarf,0,0,0,7,0,7,0.7,Cloth,No,Yes
+481,1,Head Armor,Tribal Turban,0,0,0,7,0,7,0.6,Cloth,Yes,Yes
+482,1,Head Armor,Turban,0,0,0,4,0,4,0.5,Cloth,Yes,Yes
+483,2,Head Armor,Two Pronged Bronze Crown,0,0,0,40,0,40,2.3,Plate,Yes,No
+484,4,Head Armor,Upturned Fur Cap,0,0,0,10,0,10,0.6,Leather,Yes,Yes
+485,7,Head Armor,Visored Helmet over Laced Coif,0,0,0,46,0,46,3.2,Plate,No,Yes
+486,7,Head Armor,Visored Helmet over Mail Coif,0,0,0,52,0,52,3.6,Plate,No,Yes
+487,7,Head Armor,Visored Helmet over Padded Cloth,0,0,0,46,0,46,3.3,Plate,No,Yes
+488,7,Head Armor,Visored Helmet over Padded Coif,0,0,0,48,0,48,3.3,Plate,No,Yes
+489,2,Head Armor,Warlord Helmet,0,0,0,53,0,53,3.1,Plate,No,Yes
+490,6,Head Armor,Warlord Helmet over Full Mail,0,0,0,54,0,54,3.8,Chainmail,No,Yes
+491,6,Head Armor,Warlord Helmet over Mail,0,0,0,48,0,48,3.1,Plate,No,Yes
+492,6,Head Armor,Warlord Helmet with Cheek Guards,0,0,0,47,0,47,3.6,Plate,No,Yes
+493,2,Head Armor,Warlord Helmet with Feathers,0,0,0,46,0,46,3.3,Plate,No,Yes
+494,6,Head Armor,Warlord Helmet with Nose Guard,0,0,0,51,0,51,3.5,Plate,No,Yes
+495,2,Head Armor,Wolf Head,0,0,0,16,0,16,1.3,Leather,No,Yes
+496,1,Head Armor,Woven Turban,0,0,0,6,0,6,0.8,Cloth,Yes,Yes
+497,1,Head Armor,Wrapped Cap,0,0,0,6,0,6,0.4,Cloth,Yes,Yes
+498,2,Head Armor,Wrapped Headcloth,0,0,0,5,0,5,0.2,Cloth,Yes,Yes
+499,1,Head Armor,Wrapped Helmet with Mail Coif,0,0,0,46,0,46,3,Chainmail,No,Yes
+500,1,Head Armor,Wrapped Leather Cap,0,0,0,12,0,12,0.5,Cloth,Yes,Yes
+501,2,Shoulder Armor,Armored Bearskin,0,12,0,0,0,12,7,Leather,No,Yes
+502,2,Shoulder Armor,Bear Pelt,0,9,3,0,0,12,3.3,Leather,No,Yes
+503,4,Shoulder Armor,Bolted Leather Strips,0,8,1,0,0,9,0.8,Leather,No,Yes
+504,4,Shoulder Armor,Bronze Lamellar Shoulder Guards,0,1,5,0,0,6,1.6,Plate,No,Yes
+505,4,Shoulder Armor,Bronze Lamellar Shoulder Pieces,0,5,11,0,0,16,5,Plate,No,Yes
+506,8,Shoulder Armor,Bronze Pauldrons,0,1,9,0,0,10,3.5,Plate,No,Yes
+507,8,Shoulder Armor,Bronze Pauldrons with Neck Guard,0,5,9,0,0,14,6.5,Plate,No,Yes
+508,8,Shoulder Armor,Bronze Plate Pauldrons,0,2,10,0,0,12,2.4,Plate,No,Yes
+509,1,Shoulder Armor,Bronze Scale Pauldrons,0,1,8,0,0,9,3.6,Plate,No,Yes
+510,1,Shoulder Armor,Bronze Scale Pauldrons,0,5,11,0,0,16,2.6,Plate,No,Yes
+511,1,Shoulder Armor,Bronze Scale Shoulder Guards,0,14,7,0,0,21,6,Plate,No,Yes
+512,1,Shoulder Armor,Bronze Scale Shoulder Guards,0,9,8,0,0,17,5.8,Plate,No,Yes
+513,8,Shoulder Armor,Caped Leather Harness,0,7,7,0,0,14,4.9,Leather,No,Yes
+514,2,Shoulder Armor,Chained Fur Cloak,0,7,4,0,0,11,4.5,Leather,No,Yes
+515,5,Shoulder Armor,Cotton Hood,0,2,1,0,0,3,0.2,Cloth,Yes,Yes
+516,4,Shoulder Armor,Cured Leather Pauldrons,0,1,8,0,0,9,0.8,Leather,No,Yes
+517,2,Shoulder Armor,Cured Leather Shoulder Pieces,0,4,2,0,0,6,0.85,Leather,No,Yes
+518,4,Shoulder Armor,Cured Studded Leather Shoulders,0,4,7,0,0,11,4.5,Leather,No,Yes
+519,1,Shoulder Armor,Decorated Bronze Scale Pauldrons,0,9,9,0,0,18,5.8,Plate,No,Yes
+520,4,Shoulder Armor,Decorated Lamellar Leather Shoulder Guards,0,2,7,0,0,9,1.3,Leather,No,Yes
+521,8,Shoulder Armor,Decorated Leather Harness,0,6,7,0,0,13,4.5,Leather,No,Yes
+522,8,Shoulder Armor,Decorated Leather Harness over Mail,0,14,9,0,0,23,11.5,Chainmail,No,Yes
+523,8,Shoulder Armor,Decorated Leather Harness over Scale,0,15,9,0,0,24,13.5,Plate,No,Yes
+524,8,Shoulder Armor,Decorated Leather Harness with Padding,0,12,9,0,0,21,8.5,Leather,No,Yes
+525,1,Shoulder Armor,Decorated Long Sleeve Bronze Scale Pauldrons,0,9,12,0,0,21,12.4,Plate,No,Yes
+526,6,Shoulder Armor,Decorated Scale Shoulder Guards,0,4,7,0,0,11,4.2,Plate,No,Yes
+527,4,Shoulder Armor,Decorated Steel Lamellar Shoulder Pieces,0,2,12,0,0,14,3.8,Plate,No,Yes
+528,2,Shoulder Armor,Fringed Cape,0,2,2,0,0,4,0.25,Cloth,No,Yes
+529,2,Shoulder Armor,Fur Cloak,0,5,1,0,0,6,2.7,Leather,No,Yes
+530,2,Shoulder Armor,Fur Cloak With Round Plate,0,13,6,0,0,19,7.6,Leather,No,Yes
+531,7,Shoulder Armor,Green Hood,0,3,1,0,0,4,0.35,Cloth,Yes,Yes
+532,5,Shoulder Armor,Heavy Cloak,0,3,2,0,0,5,0.5,Cloth,Yes,Yes
+533,8,Shoulder Armor,Heavy Lamellar Pauldrons,0,7,12,0,0,19,3.5,Plate,No,Yes
+534,2,Shoulder Armor,Heavy Tartan Scarf,0,3,1,0,0,4,0.55,Cloth,No,Yes
+535,2,Shoulder Armor,Heavy Warlord Pauldrons,0,10,14,0,0,24,8,Plate,No,Yes
+536,7,Shoulder Armor,Hood,0,3,1,0,0,4,0.35,Cloth,Yes,Yes
+537,8,Shoulder Armor,Iron Plate Pauldrons,0,2,11,0,0,13,2.2,Plate,No,Yes
+538,6,Shoulder Armor,Lamellar Pauldrons,0,6,12,0,0,18,4.5,Plate,No,Yes
+539,8,Shoulder Armor,Lamellar Pauldrons,0,1,8,0,0,9,2.2,Plate,No,Yes
+540,6,Shoulder Armor,Lamellar Shoulder Guards,0,5,1,0,0,6,1.8,Plate,No,Yes
+541,4,Shoulder Armor,Lamellar Shoulder Pieces,0,12,12,0,0,24,9,Plate,No,Yes
+542,2,Shoulder Armor,Large Fur Cloak With Round Plate,0,14,7,0,0,21,8.3,Leather,No,Yes
+543,4,Shoulder Armor,Leather Lamellar Shoulder Guards,0,6,6,0,0,12,3.5,Leather,No,Yes
+544,5,Shoulder Armor,Leather Shoulder Guard,0,4,2,0,0,6,0.6,Leather,No,Yes
+545,8,Shoulder Armor,Legionary Cape,0,7,9,0,0,16,6.9,Plate,No,Yes
+546,8,Shoulder Armor,Legionary Padded Straps,0,6,4,0,0,10,3.2,Leather,No,Yes
+547,8,Shoulder Armor,Legionary Reinforced Studded Harness,0,6,11,0,0,17,3.9,Plate,No,Yes
+548,8,Shoulder Armor,Legionary Studded Harness,0,5,4,0,0,9,2.8,Plate,No,Yes
+549,1,Shoulder Armor,Leopard Pelt,0,5,2,0,0,7,2,Leather,Yes,Yes
+550,1,Shoulder Armor,Long Sleeved Bronze Scale Shoulder Guards,0,16,8,0,0,24,2.2,Plate,No,Yes
+551,6,Shoulder Armor,Mail Shoulder Guards,0,9,5,0,0,14,5.7,Chainmail,No,Yes
+552,2,Shoulder Armor,Mail Shoulder Pieces,0,7,1,0,0,8,2.3,Chainmail,No,Yes
+553,2,Shoulder Armor,Mail Shoulder Reinforcements,0,8,3,0,0,11,3.5,Chainmail,No,Yes
+554,8,Shoulder Armor,Neckguard with Bronze Plate Pauldrons,0,8,11,0,0,19,7.8,Plate,No,Yes
+555,7,Shoulder Armor,Ornate Pauldrons,0,10,12,0,0,22,2.2,Plate,No,Yes
+556,7,Shoulder Armor,Ornate Pauldrons with Cape,0,11,12,0,0,23,4.4,Plate,No,Yes
+557,7,Shoulder Armor,Padded Leather Shoulders,0,9,4,0,0,13,2.4,Cloth,No,Yes
+558,7,Shoulder Armor,Pauldrons with Cape,0,4,11,0,0,15,5.6,Plate,No,Yes
+559,4,Shoulder Armor,Reinforced Bronze Lamellar Shoulder Guards,0,1,10,0,0,11,3,Plate,No,Yes
+560,1,Shoulder Armor,Reinforced Bronze Scale Shoulder Guards,0,13,9,0,0,22,9.2,Plate,No,Yes
+561,2,Shoulder Armor,Reinforced Harness with Cape,0,7,4,0,0,11,3.5,Leather,No,Yes
+562,6,Shoulder Armor,Reinforced Lamellar Shoulder Guards,0,1,11,0,0,12,2.4,Plate,No,Yes
+563,4,Shoulder Armor,Reinforced Leather Pauldrons,0,2,8,0,0,10,3.5,Leather,No,Yes
+564,7,Shoulder Armor,Reinforced Mail Shoulders,0,9,4,0,0,13,5.8,Chainmail,No,Yes
+565,7,Shoulder Armor,Reinforced Ornate Pauldrons,0,13,12,0,0,25,6.4,Plate,No,Yes
+566,7,Shoulder Armor,Reinforced Ornate Pauldrons over Scale,0,15,12,0,0,27,11.4,Plate,No,Yes
+567,1,Shoulder Armor,Reinforced Scale Pauldrons,0,14,10,0,0,24,8.2,Plate,No,Yes
+568,4,Shoulder Armor,Reinforced Studded Neckguard,0,8,0,0,0,8,5.9,Leather,No,Yes
+569,4,Shoulder Armor,Reinforced Studded Shoulder Guards,0,9,6,0,0,15,9.9,Leather,No,Yes
+570,4,Shoulder Armor,Reinforced Suede Shoulder Guards,0,1,7,0,0,8,0.75,Leather,No,Yes
+571,1,Shoulder Armor,Ringmail Shoulder Guard,0,7,4,0,0,11,2.9,Leather,No,Yes
+572,2,Shoulder Armor,Rough Bearskin,0,9,5,0,0,14,5.3,Leather,No,Yes
+573,1,Shoulder Armor,Scale Pauldrons,0,2,8,0,0,10,2.8,Plate,No,Yes
+574,1,Shoulder Armor,Scale Shoulder Guards,0,15,7,0,0,22,5,Plate,No,Yes
+575,7,Shoulder Armor,Scale Shoulderguards,0,16,8,0,0,24,1.7,Plate,No,Yes
+576,5,Shoulder Armor,Scarf,0,3,0,0,0,3,0.3,Cloth,Yes,Yes
+577,5,Shoulder Armor,Shawl,0,2,0,0,0,2,0.2,Cloth,Yes,Yes
+578,5,Shoulder Armor,Short Cloak,0,2,0,0,0,2,0.2,Cloth,Yes,Yes
+579,2,Shoulder Armor,Shoulder Harness,0,1,8,0,0,9,0.65,Leather,No,Yes
+580,2,Shoulder Armor,Simple Cape,0,2,0,0,0,2,0.2,Cloth,Yes,Yes
+581,6,Shoulder Armor,Stitched Leather Shoulders,0,1,4,0,0,5,0.9,Leather,No,Yes
+582,2,Shoulder Armor,Tartan Cape,0,2,1,0,0,3,0.5,Cloth,No,Yes
+583,2,Shoulder Armor,Tartan Cloak,0,2,0,0,0,2,0.25,Cloth,Yes,Yes
+584,2,Shoulder Armor,Tartan Shoulder Harness,0,3,6,0,0,9,1.3,Leather,No,Yes
+585,5,Shoulder Armor,Thick Scarf,0,3,0,0,0,3,0.3,Cloth,Yes,Yes
+586,2,Shoulder Armor,Wolf Pelt Cape,0,6,3,0,0,9,2.8,Leather,No,Yes
+587,2,Shoulder Armor,Woodland Cape,0,5,2,0,0,7,0.85,Leather,No,Yes
+588,2,Shoulder Armor,Woodland Fur Cloak,0,5,3,0,0,8,1.2,Leather,No,Yes
+589,8,Shoulder Armor,Woven Leather Shoulders,0,2,6,0,0,8,2.8,Leather,No,Yes
+590,5,Shoulder Armor,Woven Shoulder Pad,0,3,1,0,0,4,0.3,Cloth,Yes,Yes
+591,2,Arm Armor,Armwraps,0,0,3,0,0,3,0.2,Cloth,Yes,Yes
+592,6,Arm Armor,Bronze Bracers,0,0,22,0,0,22,1.3,Plate,No,Yes
+593,2,Arm Armor,Buttoned Leather Bracers,0,0,4,0,0,4,0.5,Leather,Yes,Yes
+594,8,Arm Armor,Decorated Imperial Gauntlets,0,0,20,0,0,20,1.5,Plate,No,Yes
+595,2,Arm Armor,Fian Bracers,0,0,18,0,0,18,0.6,Leather,Yes,Yes
+596,2,Arm Armor,Fur Rimmed Leather Gloves,0,0,8,0,0,8,0.8,Leather,Yes,Yes
+597,2,Arm Armor,Guarded Armwraps,0,0,7,0,0,7,0.4,Cloth,Yes,Yes
+598,1,Arm Armor,Guarded Padded Vambraces,0,0,9,0,0,9,0.6,Cloth,Yes,Yes
+599,7,Arm Armor,Heavy Mail Mittens,0,0,24,0,0,24,1.7,Chainmail,No,Yes
+600,7,Arm Armor,Khan's Plated Bracers,0,0,23,0,0,23,2.2,Plate,No,Yes
+601,8,Arm Armor,Lamellar Plate Gauntlets,0,0,23,0,0,23,1.8,Plate,No,Yes
+602,5,Arm Armor,Leather Gloves,0,0,4,0,0,4,0.4,Leather,Yes,Yes
+603,4,Arm Armor,Leather Vambraces,0,0,12,0,0,12,0.5,Leather,Yes,Yes
+604,8,Arm Armor,Lordly Padded Mittens,0,0,18,0,0,18,1.3,Cloth,No,Yes
+605,7,Arm Armor,Mail Mittens,0,0,20,0,0,20,1.4,Chainmail,No,Yes
+606,8,Arm Armor,Padded Mittens,0,0,9,0,0,9,0.6,Cloth,Yes,Yes
+607,5,Arm Armor,Padded Vambraces,0,0,7,0,0,7,0.1,Cloth,No,Yes
+608,6,Arm Armor,Plate Reinforced Gloves,0,0,18,0,0,18,1.5,Plate,No,Yes
+609,4,Arm Armor,Plated Leather Vambraces,0,0,24,0,0,24,1.7,Plate,No,Yes
+610,8,Arm Armor,Plated Striped Vambraces,0,0,22,0,0,22,1.4,Plate,No,Yes
+611,2,Arm Armor,Ragged Armwraps,0,0,3,0,0,3,0.4,Cloth,Yes,Yes
+612,7,Arm Armor,Reinforced Mail Mittens,0,0,23,0,0,23,1.6,Chainmail,No,Yes
+613,8,Arm Armor,Reinforced Padded Mittens,0,0,18,0,0,18,0.9,Cloth,No,Yes
+614,2,Arm Armor,Rough Tied Bracers,0,0,9,0,0,9,0.6,Cloth,Yes,Yes
+615,2,Arm Armor,Roughtied Leather Bracers,0,0,3,0,0,3,0.5,Leather,Yes,Yes
+616,2,Arm Armor,Scale Warlord Bracers,0,0,25,0,0,25,1.5,Plate,No,Yes
+617,7,Arm Armor,Splint Vambraces,0,0,20,0,0,20,1,Plate,No,Yes
+618,2,Arm Armor,Strapped Leather Bracers,0,0,5,0,0,5,0.5,Leather,Yes,Yes
+619,4,Arm Armor,Studded Leather Vambraces,0,0,11,0,0,11,0.9,Leather,No,Yes
+620,4,Arm Armor,Studded Vambraces,0,0,5,0,0,5,0.7,Leather,No,Yes
+621,8,Arm Armor,Woven Leather Bracers,0,0,6,0,0,6,0.8,Leather,No,Yes
+622,4,Arm Armor,Wrapped Armguards,0,0,3,0,0,3,0.3,Cloth,Yes,Yes
+623,2,Leg Armor,Belted Leather Boots,5,0,0,0,0,5,1.1,Leather,Yes,Yes
+624,4,Leg Armor,Curved Boots,5,0,0,0,0,5,0.9,Leather,Yes,Yes
+625,8,Leg Armor,Decorated Plate Boots,20,0,0,0,0,20,2.3,Plate,No,Yes
+626,8,Leg Armor,Fine Town Boots,4,0,0,0,0,4,0.5,Leather,Yes,Yes
+627,2,Leg Armor,Folded Leather Boots,9,0,0,0,0,9,0.9,Leather,Yes,Yes
+628,8,Leg Armor,Folded Town Boots,4,0,0,0,0,4,1,Leather,Yes,Yes
+629,2,Leg Armor,Forester Boots,5,0,0,0,0,5,1,Leather,Yes,Yes
+630,2,Leg Armor,Fur Boots,6,0,0,0,0,6,1.5,Leather,Yes,Yes
+631,4,Leg Armor,Fur Rimmed Curved Boots,4,0,0,0,0,4,0.8,Leather,Yes,Yes
+632,2,Leg Armor,Highborn Leather Boots,5,0,0,0,0,5,1,Leather,Yes,Yes
+633,8,Leg Armor,Horseman Boots,5,0,0,0,0,5,0.8,Leather,Yes,Yes
+634,6,Leg Armor,Huscarl Plated Boots,18,0,0,0,0,18,2.9,Plate,No,Yes
+635,5,Leg Armor,Ladies Shoes,1,0,0,0,0,1,0.6,Cloth,Yes,Yes
+636,8,Leg Armor,Lamellar Plate Boots,19,0,0,0,0,19,3.5,Plate,No,Yes
+637,7,Leg Armor,Leather Cavalier Boots,6,0,0,0,0,6,0.9,Leather,Yes,Yes
+638,4,Leg Armor,Leather Riding Boots,6,0,0,0,0,6,1.1,Leather,Yes,Yes
+639,5,Leg Armor,Leather Shoes,3,0,0,0,0,3,0.7,Leather,Yes,Yes
+640,7,Leg Armor,Mail Cavalier Boots,12,0,0,0,0,12,1.8,Chainmail,No,Yes
+641,7,Leg Armor,Mail Chausses,22,0,0,0,0,22,2.9,Chainmail,No,Yes
+642,1,Leg Armor,Moccasins,2,0,0,0,0,2,0.5,Cloth,Yes,Yes
+643,5,Leg Armor,Ragged Boots,5,0,0,0,0,5,0.8,Cloth,Yes,Yes
+644,4,Leg Armor,Reinforced Suede Boots,20,0,0,0,0,20,1,Leather,Yes,Yes
+645,2,Leg Armor,Rough Tied Boots,6,0,0,0,0,6,0.9,Leather,Yes,Yes
+646,2,Leg Armor,Scaled Boots,26,0,0,0,0,26,2.6,Plate,No,Yes
+647,6,Leg Armor,Simple Leather Boots,5,0,0,0,0,5,1.55,Leather,Yes,Yes
+648,8,Leg Armor,Splint Boots,22,0,0,0,0,22,2.7,Plate,No,Yes
+649,8,Leg Armor,Strapped Leather Boots,5,0,0,0,0,5,0.9,Cloth,Yes,Yes
+650,7,Leg Armor,Strapped Mail Chausses,23,0,0,0,0,23,3,Chainmail,No,Yes
+651,5,Leg Armor,Strapped Shoes,5,0,0,0,0,5,0.7,Cloth,Yes,Yes
+652,4,Leg Armor,Sturdy Leather Boots,4,0,0,0,0,4,0.8,Leather,Yes,Yes
+653,6,Leg Armor,Tied Boots,4,0,0,0,0,4,1.2,Leather,Yes,Yes
+654,6,Leg Armor,Tied Leather Boots,6,0,0,0,0,6,1.8,Leather,Yes,Yes
+655,2,Leg Armor,Woodland Boots,6,0,0,0,0,6,1,Leather,Yes,Yes
+656,2,Leg Armor,Woodland Leg Wrappings,8,0,0,0,0,8,1,Cloth,Yes,Yes
+657,4,Leg Armor,Woven Leather Boots,5,0,0,0,0,5,0.7,Leather,Yes,Yes
+658,6,Leg Armor,Wrapped Boots,3,0,0,0,0,3,1,Leather,Yes,Yes
+659,2,Leg Armor,Wrapped Leather Boots,7,0,0,0,0,7,1,Leather,Yes,Yes
+660,1,Leg Armor,Wrapped Shoes,4,0,0,0,0,4,0.8,Cloth,Yes,Yes
+661,2,Horse Armor,2 Horse Harness,0,0,0,0,15,15,30,Leather,Yes,Yes
+662,1,Horse Armor,Bedouin Cloth Saddle,0,0,0,0,12,12,22.5,Cloth,Yes,Yes
+663,1,Horse Armor,Bedouin Common Saddle,0,0,0,0,12,12,27,Cloth,Yes,Yes
+664,1,Horse Armor,Camel Saddle,0,0,0,0,10,10,130,Leather,Yes,Yes
+665,1,Horse Armor,Camel Saddle with Heavy Load,0,0,0,0,10,10,130,Leather,Yes,No
+666,1,Horse Armor,Camel Saddle with Light Load,0,0,0,0,10,10,130,Leather,Yes,No
+667,8,Horse Armor,Cataphract Half Scale Barding,0,0,0,0,60,60,80,Chainmail,Yes,Yes
+668,8,Horse Armor,Cataphract Scale Barding,0,0,0,0,75,75,135,Chainmail,Yes,Yes
+669,5,Horse Armor,Celtic Frost,0,0,0,0,78,78,26,Chainmail,Yes,No
+670,5,Horse Armor,Chain Mail Horse Armor,0,0,0,0,55,55,120,Chainmail,Yes,Yes
+671,5,Horse Armor,Fortunas Choice,0,0,0,0,77,77,26,Chainmail,Yes,No
+672,5,Horse Armor,Fur Saddle,0,0,0,0,12,12,16,Leather,Yes,No
+673,7,Horse Armor,Half Mail Barding,0,0,0,0,52,52,65,Chainmail,Yes,Yes
+674,2,Horse Armor,Half Scaled Barding,0,0,0,0,40,40,76,Chainmail,Yes,Yes
+675,8,Horse Armor,Imperial Riding Harness,0,0,0,0,9,9,22,Leather,Yes,Yes
+676,4,Horse Armor,Lamellar Half Barding,0,0,0,0,38,38,70,Chainmail,Yes,Yes
+677,5,Horse Armor,Light Harness,0,0,0,0,10,10,20,Leather,Yes,Yes
+678,6,Horse Armor,Light Saddle,0,0,0,0,20,20,30,Leather,Yes,Yes
+679,5,Horse Armor,Mule Harness with Bags,0,0,0,0,10,10,120,Cloth,Yes,No
+680,5,Horse Armor,Mule Harness with Baskets,0,0,0,0,10,10,120,Cloth,Yes,No
+681,5,Horse Armor,Mule Harness with Pack,0,0,0,0,10,10,120,Cloth,Yes,No
+682,7,Horse Armor,Reinforced Chainmail Barding,0,0,0,0,64,64,130,Chainmail,Yes,Yes
+683,1,Horse Armor,Reinforced Half Plate Barding,0,0,0,0,58,58,90,Plate,Yes,Yes
+684,4,Horse Armor,Reinforced Mail Barding,0,0,0,0,52,52,85,Chainmail,Yes,Yes
+685,1,Horse Armor,Reinforced Plate Barding,0,0,0,0,68,68,145,Plate,Yes,Yes
+686,6,Horse Armor,Ring Mail Barding,0,0,0,0,41,41,82,Chainmail,Yes,Yes
+687,6,Horse Armor,Rough Cavalry Saddle,0,0,0,0,15,15,35,Leather,Yes,Yes
+688,1,Horse Armor,Rugged Bedouin Saddle,0,0,0,0,9,9,21,Cloth,Yes,Yes
+689,2,Horse Armor,Rugged Fur Saddle,0,0,0,0,10,10,23,Cloth,Yes,Yes
+690,5,Horse Armor,Rugged Saddle,0,0,0,0,8,8,24,Cloth,Yes,Yes
+691,5,Horse Armor,Saddle of Aeneas,0,0,0,0,76,76,26,Chainmail,Yes,No
+692,2,Horse Armor,Scale Barding,0,0,0,0,50,50,125,Chainmail,Yes,Yes
+693,4,Horse Armor,Steppe Fur Harness,0,0,0,0,16,16,25.5,Chainmail,Yes,Yes
+694,4,Horse Armor,Steppe Saddle,0,0,0,0,12,12,23.5,Chainmail,Yes,Yes
+695,8,Horse Armor,Striped Leather Harness,0,0,0,0,15,15,26,Leather,Yes,Yes

@@ -1,0 +1,30 @@
+Mount_ID,Culture_ID,Mount_Type,Mount_Name,Tier,Weight,Weight_Bonus,Riding,Charge,Speed,Maneuver,HP,Civilian
+001,1,Noble Mount,Asaligat,6,450,20,90,24,63,82,245,No
+002,1,Noble Mount,Askarat,5,500,20,65,20,65,73,220,No
+003,2,Mount,Battanion Hobby,2,380,20,20,20,46,57,250,Yes
+004,2,Noble Mount,Battanian Thoroughbred,5,420,20,80,26,55,72,320,No
+005,1,Mount,Camel,1,500,20,10,20,44,60,225,Yes
+006,8,War Mount,Canterion Charger,3,460,20,35,26,50,60,210,No
+007,7,War Mount,Charger,2,430,20,30,22,48,67,220,No
+008,7,Noble Mount,Cossian,6,500,20,90,31,62,71,230,No
+009,4,War Mount,Darshi Horse,2,360,20,35,18,51,73,200,No
+010,8,Mount,Hunter,1,390,20,20,16,48,65,215,Yes
+011,8,Mount,Husnphree,4,550,20,65,28,48,69,290,No
+012,8,Mount,Midlands Palfrey,1,390,20,10,20,47,55,210,Yes
+013,5,Pack Mount,Mule,0,300,100,0,3,31,48,100,Yes
+014,1,Mount,Nahasawi,1,400,20,10,14,54,59,200,Yes
+015,1,Noble Mount,Omor Trotter,4,500,20,55,27,56,71,240,No
+016,1,Pack Mount,Pack Camel,0,520,100,0,4,35,39,230,Yes
+017,1,Noble Mount,Palmatian,5,520,20,60,28,59,66,220,No
+018,1,War Mount,Revyl Chaser,3,450,20,40,20,57,63,200,No
+019,8,Mount,Rouncey,1,425,20,15,22,44,61,200,Yes
+020,7,Noble Mount,Royal Destrier,6,540,20,80,36,52,73,270,No
+021,8,Pack Mount,Saddle Horse,0,420,100,0,12,37,52,260,Yes
+022,6,Mount,Sturgian Native,1,440,20,20,18,49,63,200,Yes
+023,4,Pack Mount,Sumpter Horse,0,430,100,0,4,34,41,260,Yes
+024,6,Noble Mount,Tyal Horse,6,490,20,80,31,56,76,250,No
+025,7,War Mount,Valanby Courser,3,475,20,35,30,46,58,240,No
+026,7,Noble Mount,Wadar Hotblood,6,485,20,95,24,68,78,230,No
+027,1,War Mount,War Camel,3,500,20,45,24,48,67,230,No
+028,5,Pack Mount,Work Horse,0,490,100,0,4,35,50,220,Yes
+029,2,War Mount,Glintor Pony,3,450,20,35,22,45,66,270,No

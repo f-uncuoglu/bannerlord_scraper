@@ -1,0 +1,33 @@
+Shield_ID,Culture_ID,Shield_name,Durability,Weight,Resistance,Size,Speed,Base Value,Civilian
+001,5,Wooden Shield,360,2,1,100,100,42,Yes
+002,2,Hide Covered Round Shield,260,2,3,79,100,40,Yes
+003,2,Leather Covered Round Shield,310,2.5,8,79,96,80,Yes
+004,6,Nordic Shield,440,2,1,100,100,95,Yes
+005,5,Old Round Shield,195,2.5,4,100,93,26,Yes
+006,5,Plain Round Shield,260,3,8,100,90,65,Yes
+007,5,Round Shield,310,3.5,12,100,87,105,No
+008,7,Heavy Round Shield,350,4,15,100,84,210,No
+009,7,Huscarl's Round Shield,410,4.5,19,100,81,430,No
+010,7,Plain Cavalry Shield,160,2,8,79,105,96,No
+011,7,Round Cavalry Shield,200,2.5,14,79,103,195,No
+012,7,Elite Cavalry Shield,250,3,22,79,100,370,No
+013,8,Old Heater Shield,160,2,6,72x105,96,36,Yes
+014,8,Plain Heater Shield,210,2.5,11,72x105,93,74,Yes
+015,8,Heater Shield,260,3,14,72x105,90,160,No
+016,8,Heavy Heater Shield,305,3.5,19,72x105,87,332,No
+017,8,Horseman's Heater Shield,160,2,16,59x79,103,229,No
+018,8,Knightly Heater Shield,220,2.5,23,59x79,100,390,No
+019,5,Heater Shield,410,3.5,2,100,80,227,Yes
+020,5,Fur Covered Shield,600,3.5,1,162,76,227,Yes
+021,2,Old Kite Shield,165,2,5,72x105,96,33,Yes
+022,2,Plain Kite Shield,215,2.5,10,72x105,93,70,Yes
+023,2,Kite Shield,265,3,13,72x105,90,156,No
+024,2,Heavy Kite Shield,310,3.5,18,72x105,87,320,No
+025,7,Horseman's Kite Shield,165,2,14,59x79,103,205,No
+026,7,Knightly Kite Shield,225,2.5,23,59x79,100,360,No
+027,5,Old Board Shield,280,3.5,4,85x143,89,60,Yes
+028,5,Plain Board Shield,360,4,8,85x143,85,114,Yes
+029,5,Board Shield,430,4.5,10,85x143,81,210,No
+030,5,Heavy Board Shield,550,5,14,85x143,78,370,No
+031,7,Plate Covered Round Shield,330,4,16,79,90,140,No
+032,5,Steel Shield,700,4,16,79,61,697,No

@@ -1,0 +1,214 @@
+Item_ID,Culture_ID,Item_Type,Item_Name,Tier,Swing_Speed,Swing_Damage,Thrust_Speed,Thrust_Damage,Length,Handling,Weight,Civilian,Merchandise
+001,2,Daggers,Falx Knife,1,118,35,98,35,54,115,0.82,Yes,No
+002,2,Daggers,Highland Dagger,1,123,30,99,35,37,117,0.78,Yes,No
+003,3,Daggers,Pugio,1,124,28,100,35,35,118,0.76,Yes,No
+004,6,Daggers,Seax,1,127,18,103,34,52,118,0.44,Yes,No
+005,3,Daggers,Xiphos,1,118,35,36,97,35,115,0.93,Yes,No
+006,5,One Handed Swords,Falchion,2,96,58,90,28,71,100,1.69,Yes,Yes
+007,3,One Handed Swords,Iron Spatha,2,88,61,89,40,93,89,1.69,Yes,Yes
+008,2,One Handed Swords,Ridged Iron Broadsword,2,82,66,85,34,92,81,2.09,Yes,Yes
+009,5,One Handed Swords,Simple Bastard Sword,2,95,53,94,37,98,95,1.25,Yes,Yes
+010,5,One Handed Swords,Simple Scimitar,2,98,53,94,32,90,96,1.23,Yes,Yes
+011,6,One Handed Swords,Tapered Blade,2,104,47,95,31,83,105,1.11,Yes,Yes
+012,6,One Handed Swords,Backsword,3,105,54,94,40,77,105,1.18,Yes,Yes
+013,2,One Handed Swords,Broad Ridged Shortsword,3,103,57,93,41,79,104,1.35,Yes,Yes
+014,2,One Handed Swords,Broadsword,3,86,71,89,41,96,89,1.75,Yes,Yes
+015,6,One Handed Swords,Gold Bound Short Warsword,3,101,40,93,23,84,101,1.34,Yes,Noble
+016,7,One Handed Swords,Iron Arming Sword,3,92,57,93,35,103,92,1.34,Yes,Yes
+017,1,One Handed Swords,Iron Flyssa,3,84,61,90,32,116,85,1.53,Yes,Yes
+018,4,One Handed Swords,Iron Saber,3,100,52,94,32,90,101,1.23,Yes,Yes
+019,1,One Handed Swords,Iron Scimitar,3,92,60,92,30,103,92,1.38,Yes,Yes
+020,3,One Handed Swords,Iron Spatha,3,93,55,93,37,103,94,1.3,Yes,Yes
+021,7,One Handed Swords,Short Sword,3,103,58,92,41,66,104,1.49,Yes,Yes
+022,5,One Handed Swords,Star Falchion,3,70,81,0,0,111,76,2.3,No,Yes
+023,5,One Handed Swords,Cleaver,3,82,76,88,35,105,86,1.8,No,Yes
+024,5,One Handed Swords,Narrow Sword,3,88,70,90,40,94,91,1.52,Yes,Yes
+025,6,One Handed Swords,Pointy Warsword,3,103,56,94,40,84,103,1.14,Yes,Yes
+026,5,One Handed Swords,Broad Falchion,4,77,78,85,32,108,82,2.14,No,Yes
+027,4,One Handed Swords,Broad Ild,4,86,72,92,34,114,87,1.39,Yes,Yes
+028,7,One Handed Swords,Decorated Fullered Sword,4,101,68,90,45,72,103,1.54,Yes,Noble
+029,6,One Handed Swords,Decorated Long Warsword,4,98,49,90,41,82,100,1.54,Yes,Noble
+030,1,One Handed Swords,Fine Steel Long Kaskara,4,79,78,87,38,116,83,"1,84",No,Yes
+031,3,One Handed Swords,Fine Steel Paramerion,4,84,72,90,49,116,84,1.5,No,Yes
+032,3,One Handed Swords,Fine Steel Spatha,4,89,68,91,50,107,90,1.48,Yes,Yes
+033,6,One Handed Swords,Fullered Narrow Warsword,4,100,63,94,42,89,98,1.23,Yes,Yes
+034,4,One Handed Swords,Long Saber,4,88,70,92,34,110,90,1.4,Yes,Yes
+035,6,One Handed Swords,Long Warsword,4,93,69,92,42,100,95,1.41,Yes,Yes
+036,5,One Handed Swords,Pointed Falchion,4,82,93,0,0,108,85,1.68,No,Yes
+037,7,One Handed Swords,Ridged Tipped Arming Sword,4,91,67,92,41,104,92,1.45,Yes,Yes
+038,3,One Handed Swords,Spatha with Narrow Fuller,4,91,63,92,45,103,92,1.37,Yes,Yes
+039,5,One Handed Swords,Scalpel,4,82,73,90,36,120,84,1.47,No,Tournaments
+040,1,One Handed Swords,Slightly Ridged Flyssa,4,85,72,91,36,115,87,1.45,No,Yes
+041,3,One Handed Swords,Spatha,4,91,64,92,45,103,92,1.41,Yes,Yes
+042,4,One Handed Swords,Straight Saber,4,90,69,92,34,109,91,1.35,Yes,Yes
+043,7,One Handed Swords,The Ambassador,4,81,77,89,38,114,83,1.69,No,Tournaments
+044,6,One Handed Swords,Tyrhung,4,85,71,87,41,96,89,1.95,Yes,Tournaments
+045,7,One Handed Swords,Arming Sword with Circle,5,99,71,92,45,84,100,1.4,Yes,Noble
+046,5,One Handed Swords,Broad Arming Sword,5,85,76,89,42,109,88,1.67,No,Yes
+047,7,One Handed Swords,Crescent Guarded Arming Sword,5,103,64,93,46,76,103,1.37,Yes,Noble
+048,7,One Handed Swords,Decorated Arming Sword,5,101,70,93,45,82,102,1.34,Yes,Noble
+049,4,One Handed Swords,Decorated Saber,5,93,81,88,35,81,96,1.8,No,Noble
+050,1,One Handed Swords,Desert Long Sword,5,80,81,87,38,111,82,1.93,No,Yes
+051,1,One Handed Swords,Engraved Angular Kaskara,5,96,77,90,40,84,96,1.63,Yes,Noble
+052,2,One Handed Swords,Fine Steel Cavalry Broadsword,5,84,75,90,43,117,86,1.49,No,Yes
+053,4,One Handed Swords,Fine Steel Saber,5,88,73,90,36,108,89,1.55,Yes,Yes
+054,6,One Handed Swords,Fullered Long Warsword,5,93,73,90,45,97,94,1.52,Yes,Yes
+055,4,One Handed Swords,Heavy Sabre,5,86,74,90,36,112,88,1.62,Yes,Yes
+056,2,One Handed Swords,Highland Fine Steel Blade,5,93,71,90,53,92,95,1.54,Yes,Noble
+057,7,One Handed Swords,Knightly Arming Sword,5,92,73,92,42,105,94,1.41,Yes,Yes
+058,1,One Handed Swords,Long Fine Steel Scimitar,5,79,79,89,36,126,81,1.7,No,Yes
+059,1,One Handed Swords,Narrow Fine Steel Kaskara,5,85,77,90,37,116,86,1.6,No,Yes
+060,7,One Handed Swords,Ridged Arming Sword,5,86,76,90,42,113,87,1.54,No,Yes
+061,1,One Handed Swords,Ridged Saber,5,90,76,90,38,100,88,1.53,No,Yes
+062,4,One Handed Swords,Tall Gripped Ild Sword,5,90,85,88,35,88,91,1.8,No,Noble
+063,3,One Handed Swords,Thamaskene Steel Spathion,5,87,75,92,50,114,87,1.37,No,Yes
+064,6,One Handed Swords,Thamaskene Steel Warsword,5,100,72,90,41,73,102,1.54,Yes,Noble
+065,7,One Handed Swords,Wide Fullered Broad Arming Sword,5,81,84,87,49,105,83,1.9,No,Yes
+066,2,One Handed Swords,Decorated Broadsword,6,98,86,94,31,96,97,1.17,Yes,Noble
+067,1,One Handed Swords,Decorated Kaskara,6,87,83,89,42,103,87,1.73,Yes,Noble
+068,1,One Handed Swords,Decorated Long Scimitar,6,87,86,88,36,100,88,1.78,Yes,Noble
+069,1,One Handed Swords,Decorated Scimitar with Wide Grip,6,90,83,89,33,96,90,1.73,Yes,Noble
+070,2,One Handed Swords,Engraved Backsword,6,82,103,88,42,110,78,1.77,Yes,Noble
+071,4,One Handed Swords,Lion Imprinted Saber,6,90,81,89,38,99,90,1.7,No,Noble
+072,1,One Handed Swords,Thamaskene Steel Kaskara,6,86,81,91,42,110,86,1.43,No,Yes
+073,5,One Handed Axes,Hatchet,1,108,37,,,45,108,1.05,Yes,Yes
+074,5,One Handed Axes,Pickaxe,1,107,44,,,50,106,1.05,Yes,Yes
+075,5,One Handed Axes,Sickle,1,97,43,,,82,98,1.18,Yes,Yes
+076,1,One Handed Axes,Bamboo Handled Ascia Axe,2,99,58,,,62,97,1.02,No,Yes
+077,1,One Handed Axes,Bamboo Handled Axe,2,99,57,,,64,97,0.96,No,Yes
+078,5,One Handed Axes,Galloglaich Axe,2,97,60,,,65,95,1.03,No,Yes
+079,7,One Handed Axes,Infantry Axe,2,97,59,,,70,93,0.92,No,Yes
+080,5,One Handed Axes,Norse Hatchet,2,96,62,,,65,94,1.09,No,Yes
+081,5,One Handed Axes,Small Bit Axe,2,101,58,,,57,99,1.12,No,Yes
+082,5,One Handed Axes,Small Spurred Axe,2,97,59,,,65,95,1.05,No,Yes
+083,1,One Handed Axes,Wood Splitter Axe,2,98,59,,,62,97,1.15,No,Yes
+084,5,One Handed Axes,Broad Tzikourion,3,90,71,,,74,87,1.23,No,Yes
+085,6,One Handed Axes,Commoner Axe,3,99,65,,,68,96,0.94,No,Yes
+086,5,One Handed Axes,Large Franziska Axe,3,94,68,,,67,91,1.21,No,Yes
+087,6,One Handed Axes,Simple Raider Battle Axe,3,92,71,,,75,89,1.15,No,No
+088,3,One Handed Axes,Tzikourion,3,88,73,,,81,86,1.08,No,Yes
+089,2,One Handed Axes,Woodland Axe,3,94,70,,,62,94,1.27,No,Yes
+090,1,One Handed Axes,Bamboo Axe,4,84,79,,,73,83,1.21,No,Yes
+091,5,One Handed Axes,Battle Axe,4,95,72,,,70,92,1.01,No,No
+092,2,One Handed Axes,One Handed Bearded Axe,4,94,73,,,68,91,1.03,No,No
+093,5,One Handed Axes,Spiked Battle Axe,4,95,73,,,67,94,1.1,No,No
+094,6,One Handed Axes,Veteran Warrior Axe,4,94,75,,,62,93,1.19,No,No
+095,6,One Handed Axes,Rectangular Bitted Axe,5,88,82,,,84,84,1.05,No,No
+096,2,One Handed Axes,Round Bitted Fine Steel Hatchet,5,88,82,,,85,85,1.05,No,No
+097,5,One Handed Maces,Wooden Hammer,0,104,18,,,45,107,1.48,Yes,Yes
+098,5,One Handed Maces,Blacksmith Hammer,0,106,20,,,32,108,1.4,Yes,Yes
+099,2,One Handed Maces,Knobbed Club,1,100,34,,,54,101,1.34,No,Yes
+100,5,One Handed Maces,Spiked Club,1,102,35,,,67,102,1.14,No,Yes
+101,5,One Handed Maces,Spiked Mace,1,99,38,93,12,56,101,1.38,No,Yes
+102,1,One Handed Maces,Fullered Light Mace,2,101,37,,,55,102,1.32,No,Yes
+103,2,One Handed Maces,Highland Spiked Club,2,94,44,92,15,69,97,1.42,No,Yes
+104,4,One Handed Maces,Steppe Light Mace,2,88,39,89,15,72,92,1.73,No,Yes
+105,1,One Handed Maces,Heavy Horseman Mace,3,87,55,,,66,92,1.86,No,Yes
+106,2,One Handed Maces,Highland Mace,3,82,56,85,26,65,89,2.13,No,Yes
+107,5,One Handed Maces,Judgement,3,94,52,,,57,100,1.83,No,Tournaments
+108,1,One Handed Maces,Light Mace,3,92,53,,,62,94,1.8,No,Yes
+109,5,One Handed Maces,Morningstar,3,82,44,85,26,66,89,2.16,No,Yes
+110,5,One Handed Maces,Steel Shestopyor,3,81,57,,,72,89,2.24,No,Yes
+111,5,One Handed Maces,Light Mace,3,92,53,,,62,94,1.8,No,Yes
+112,3,One Handed Maces,Calradic Mace,4,101,56,,,47,106,1.8,No,Yes
+113,4,One Handed Maces,Eastern Heavy Mace,4,80,66,,,72,88,2.35,No,Yes
+114,4,One Handed Maces,Fine Steel Mace,4,85,64,,,68,92,2.12,No,Yes
+115,7,One Handed Maces,Fullered Cavalry Mace,4,92,62,,,56,99,2.1,No,Yes
+116,3,One Handed Maces,3 Light Mace,4,91,60,,,70,96,1.9,No,Yes
+117,1,One Handed Maces,Light Shishpar Mace,4,104,52,,,46,108,1.57,No,Yes
+118,1,One Handed Maces,Spiralled Mace,4,87,62,,,67,95,2.05,No,Yes
+119,3,One Handed Maces,Cataphract Mace,5,81,71,,,75,89,2.23,No,Yes
+120,4,One Handed Maces,Heavy Flanged Mace,5,81,67,,,74,82,2.29,No,Yes
+121,3,One Handed Maces,Light Royal Mace,5,89,67,,,55,93,2.3,No,Yes
+122,7,One Handed Maces,Pernach,5,88,64,,,69,94,1.92,No,Yes
+123,4,One Handed Maces,Steel Mace,5,88,61,,,77,89,1.88,No,Yes
+124,3,Bastar Swords,Justicier,5,104,86,98,52,105,92,1.41,Yes,Vassal
+125,2,Bastar Swords,2n Mountain Blade,6,92,75,94,46,105,92,1.22,Yes,Yes
+126,1,Bastar Swords,Broad Kaskara,6,79,79,90,36,125,80,1.52,No,Yes
+127,2,Bastar Swords,Early Retirement,6,86,74,93,44,115,86,1.32,No,Tournaments
+128,2,Bastar Swords,Falx,6,87,91,92,40,111,88,1.52,No,Yes
+129,6,Bastar Swords,Fine Steel Two Handed Sword,6,93,71,91,42,90,93,1.48,Yes,Yes
+130,2,Bastar Swords,Highland Broadsword,6,84,72,87,41,97,86,1.85,Yes,Yes
+131,2,Bastar Swords,Highland Fine Two Handed Sword,6,87,71,90,50,107,87,1.63,Yes,Yes
+132,2,Bastar Swords,Reaper,6,85,94,90,38,111,84,1.64,No,Vassal
+133,5,Bastar Swords,Ridged Great Saber,6,81,80,87,38,116,83,1.86,No,Yes
+134,1,Bastar Swords,Ridged Long Kaskara,6,85,73,88,41,97,86,1.76,Yes,Yes
+135,7,Bastar Swords,Tapered Two-Hander,6,85,73,89,41,97,87,1.67,Yes,Yes
+136,5,Bastar Swords,Two-Handed Cleaver,6,67,83,85,35,117,74,2.28,No,Yes
+137,5,Bastar Swords,War Razor,6,83,79,90,39,112,84,1.54,No,Yes
+138,2,Two Handed Swords,Iron Broadsword,4,97,95,94,39,96,89,1.99,Yes,Yes
+139,7,Two Handed Swords,Broad Two Hander,6,99,107,96,49,108,89,1.67,No,Yes
+140,2,Two Handed Swords,Northlander Wide Fullered Greatsword,6,94,109,93,49,108,86,2.08,Yes,Yes
+141,7,Two Handed Swords,Sentinel,6,105,94,98,49,99,93,1.88,Yes,Vassal
+142,7,Two Handed Swords,Thamaskene Steel Two Hander,6,91,132,93,57,119,84,2.04,No,Yes
+143,7,Two Handed Swords,Wide Fullered Broad Two Hander,6,94,128,94,56,111,86,1.92,No,Yes
+144,5,Two Handed Axes,Hoe*,2,69,41,,,92,70,1.57,Yes,Yes
+145,5,Two Handed Axes,Simple Sparth Axe,2,102,68,,,78,89,1.13,No,Yes
+146,2,Two Handed Axes,Square Bit Two Handed Axe,3,89,85,,,100,80,1.4,No,Yes
+147,5,Two Handed Axes,Bearded Axe,5,98,89,,,104,86,1.12,No,Yes
+148,5,Two Handed Axes,Black Heart,5,77,123,,,119,70,1.64,No,Tournaments
+149,1,Two Handed Axes,Executioner Axe,5,78,123,,,115,72,1.88,No,Yes
+150,7,Two Handed Axes,Hooked Cavalry Axe,5,87,113,,,93,77,1.52,No,Yes
+151,6,Two Handed Axes,Northlander Broad Axe,5,89,110,,,115,80,1.3,No,Yes
+152,7,Two Handed Axes,Short Bill,5,71,124,,,132,67,1.72,No,Yes
+153,1,Two Handed Axes,Short Handled Bardiche,5,86,117,,,104,78,1.6,No,Yes
+154,6,Two Handed Axes,Avalanche,6,87,114,,,117,77,1.36,No,Vassal
+155,6,Two Handed Axes,Drilled Two Handed Axe,6,87,114,,,116,77,1.32,No,Yes
+156,1,Two Handed Axes,Heavy Executioner Axe,6,76,133,,,138,69,1.49,No,Yes
+157,6,Two Handed Axes,Northlander Decorated Two Handed Axe,6,77,138,,,121,70,1.68,No,Yes
+158,2,Two Handed Maces,Sledgehammer,4,85,80,,,102,74,1.96,Yes,Yes
+159,5,One Handed Polearms,Iron Pitchfork,0,,,85,22,122,75,1.92,Yes,Yes
+160,5,One Handed Polearms,Pitchfork,0,,,90,22,132,82,1.47,Yes,Yes
+161,6,One Handed Polearms,Military Fork,1,,,80,25,165,58,2.17,No,Yes
+162,5,One Handed Polearms,Short Militia Spear,1,,,83,24,175,63,1.94,No,Yes
+163,7,One Handed Polearms,Simple Commoner Spear,1,,,84,31,167,65,1.83,No,Yes
+164,6,One Handed Polearms,Short Simple Raider Spear,1,,,82,24,173,60,2.11,No,No
+165,4,One Handed Polearms,Weighted Steppe Spear,1,,,85,28,168,64,1.73,No,Yes
+166,5,One Handed Polearms,Broad Leaf Shaped Spear,2,29,6,85,30,173,64,1.79,No,Yes
+167,1,One Handed Polearms,Knob Headed Spear,2,,,84,34,170,64,1.82,No,Yes
+168,1,One Handed Polearms,Knob Headed Spear with Frills,2,,,84,34,170,64,1.82,No,Yes
+169,3,One Handed Polearms,Light Cavalry Lance,2,,,83,28,179,63,1.95,No,Noble
+170,7,One Handed Polearms,Light Lance,2,,,80,29,208,57,2.12,No,Noble
+171,4,One Handed Polearms,Light Steppe Rider Spear,2,,,82,27,198,60,1.91,No,Yes
+172,4,One Handed Polearms,Long Narrow Headed Spear,2,,,82,35,186,64,2.17,No,Yes
+173,4,One Handed Polearms,Narrow Long Headed Spear,2,,,82,35,186,64,2.17,No,Yes
+174,2,One Handed Polearms,Reinforced Highland Spear,2,,,76,26,223,50,2.46,No,Yes
+175,7,One Handed Polearms,Tall Tipped Long Spear,2,,,79,26,208,53,2.07,No,Yes
+176,7,One Handed Polearms,Tall Tipped Spear,2,,,79,26,199,53,2.1,No,Yes
+177,5,One Handed Polearms,Triangular Headed Spear,2,,,82,27,190,58,1.83,No,Yes
+178,6,One Handed Polearms,Druzhinnik Lance,3,,,85,36,171,71,1.88,No,Noble
+179,1,One Handed Polearms,Fine Steel Leaf Spear,3,,,84,37,179,72,2.01,No,No
+180,5,One Handed Polearms,Fine Steel Spear,3,,,79,32,229,51,2,No,No
+181,4,One Handed Polearms,Heavy Cavalry Lance,3,,,83,34,193,64,1.94,No,Noble
+182,6,One Handed Polearms,Jagged Fine Steel Spear,3,,,85,35,161,73,1.87,No,No
+183,7,One Handed Polearms,Knight Lance,3,,,83,37,184,64,1.99,No,Tournaments
+184,5,One Handed Polearms,Long Fine Steel Spear,3,,,78,32,235,50,2.06,No,No
+185,1,One Handed Polearms,Long Thamaskene Tipped Spear,3,,,83,37,188,64,1.96,No,Yes
+186,1,One Handed Polearms,Mamluke Lance,3,,,85,36,170,69,1.85,No,Noble
+187,2,One Handed Polearms,Steel Tipped Hooked Spear,3,,,79,31,234,52,2.03,No,Yes
+188,5,One Handed Polearms,Wide Leaf Spear,3,,,79,32,222,52,2.02,No,Yes
+189,6,One Handed Polearms,Fine Steel Hewing Spear,4,,,81,37,216,55,1.92,No,No
+190,6,One Handed Polearms,Heavy Druzhinnik Lance,4,,,82,40,197,61,2.16,No,Noble
+191,7,One Handed Polearms,Heavy Knight Lance,4,,,81,39,198,62,2.21,No,Tournaments
+192,2,One Handed Polearms,Highland War Spear,4,,,84,39,181,64,1.85,No,No
+193,4,One Handed Polearms,Jagged Throwing Spear*,4,,,90,29,138,81,1.43,No,Yes
+194,4,One Handed Polearms,Noble Cavalry Lance,4,,,83,39,200,63,1.9,No,Noble
+195,3,One Handed Polearms,Pilum*,4,,,93,36,114,86,1.19,No,Yes
+196,4,One Handed Polearms,Thin Fine Steel Hewing Spear,4,,,87,38,213,63,1.4,No,No
+197,3,One Handed Polearms,Fine Steel Menavlion,6,16,14,82,37,208,56,1.81,No,No
+198,4,One Handed Polearms,Glaive,6,42,39,84,25,149,72,2.04,No,No
+199,4,One Handed Polearms,Long Glaive,6,24,22,83,34,206,64,1.4,No,No
+200,3,One Handed Polearms,Menavlion,6,45,35,87,42,163,74,1.81,No,No
+201,1,One Handed Polearms,Polesword,6,17,11,79,24,202,60,2.45,No,No
+202,7,One Handed Polearms,Voulge,6,32,35,87,36,143,66,1.51,No,No
+203,5,Two Handed Polearms,Simple Pike,1,,,92,26,172,55,1.62,No,Yes
+204,5,Two Handed Polearms,Scythe,1,78,59,,,96,66,2.7,Yes,Yes
+205,5,Two Handed Polearms,Notched Military Fork,2,,,87,35,194,48,2.09,No,Yes
+206,5,Two Handed Polearms,Fine Pike,3,,,83,43,222,45,2.81,No,Yes
+207,3,Two Handed Polearms,Courser Lance,3,,,86,40,225,48,2.22,No,Yes
+208,5,Two Handed Polearms,Thamaskene Pike,3,,,83,41,240,45,2.78,No,Yes
+209,3,Two Handed Polearms,Cataphract Lance,4,,,88,42,246,51,2.04,No,Yes
+210,7,Two Handed Polearms,Pike,4,,,79,42,299,40,3.19,No,Yes
+211,7,Two Handed Polearms,Billhook,5,86,105,,,138,70,1.69,No,Yes
+212,2,Two Handed Polearms,Rhomphaia,6,76,141,,,203,66,1.2,No,Yes
+213,6,Two Handed Polearms,Warrazor,6,62,155,90,41,205,52,1.83,No,Yes

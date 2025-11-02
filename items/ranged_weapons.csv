@@ -1,0 +1,56 @@
+Item_ID,Culture_ID,Item_Type,Item_Name,Tier,Skill,Draw _Speed,Damage,Accuracy,Missile_Speed,Weight,Usable_on_Horseback,Reload_on_Horseback,Reload_Speed,Civilian
+001,5,Bows,Hunting Bow,1,10,87,45,85,64,0.3,Yes,Yes,102,Yes
+002,2,Bows,Mountain Hunting Bow,1,10,86,46,82,67,0.3,Yes,Yes,98,Yes
+003,4,Bows,Steppe Bow,1,10,86,46,80,68,0.3,Yes,Yes,92,Yes
+004,5,Bows,Ranger Bow,2,15,86,55,83,65,0.4,No,No,85,No
+005,5,Bows,Longbow,3,15,85,60,88,70,0.4,No,No,88,No
+006,7,Bows,Lowland Longbow,3,30,80,65,94,74,0.5,No,No,96,No
+007,6,Bows,Nordic Shortbow,3,30,89,52,95,71,0.3,Yes,Yes,100,Yes
+008,5,Bows,Simple Short Bow,3,30,88,56,93,73,0.3,Yes,Yes,82,Yes
+009,4,Bows,Heavy Recurve Bow,4,30,87,62,91,76,0.3,Yes,Yes,93,No
+010,1,Bows,Nomad Bow,4,30,89,70,94,73,0.5,No,No,90,Yes
+011,4,Bows,Steppe Recurve Bow,4,30,89,62,94,78,0.3,Yes,Yes,87,No
+012,4,Bows,Steppe War Bow,4,50,89,66,95,80,0.3,Yes,Yes,80,No
+013,2,Bows,Woodland Yew Bow,4,50,91,73,92,76,0.5,No,No,85,No
+014,7,Bows,Yew Bow,4,50,90,69,94,79,0.5,No,No,88,No
+015,1,Bows,Strong Tribesman Bow,5,50,88,79,95,86,0.3,No,No,85,No
+016,2,Bows,Woodland Longbow,5,50,88,76,94,82,0.1,No,No,90,No
+017,5,Bows,Noble Bow,6,70,94,80,100,90,0.8,Yes,Yes,83,No
+018,5,Bows,Noble Long Bow,6,70,91,95,98,85,0.8,No,No,79,No
+019,5,Crossbows,Simple Light Crossbow,3,15,,67,80,60,1,No,No,70,Yes
+020,5,Crossbows,Heavy Crossbow,4,20,,82,96,80,2.7,No,No,61,No
+021,7,Crossbows,Light Crossbow,4,20,,77,85,65,2.2,No,No,75,Yes
+022,7,Crossbows,Arbalest,5,20,,89,98,87,3,No,No,60,No
+023,7,Crossbows,Fine Light Crossbow,5,40,,85,90,70,2.2,No,No,80,Yes
+024,3,Crossbows,Hickory Crossbow,5,40,,93,99,90,2.2,No,No,62,No
+025,7,Crossbows,Bound Crossbow,6,70,,100,100,97,2,No,No,63,No
+026,5,Ammunition,Arrows,1,,,2,0,102,0.70,Yes,,,Yes
+027,5,Ammunition,Barbed Arrows,1,,,3,0,95,1.20,Yes,,,Yes
+028,5,Ammunition,Lowland Arrows,2,,,1,0,100,0.50,Yes,,,Yes
+029,5,Ammunition,Range Arrows,2,,,1,8,110,0.50,Yes,,,Yes
+030,4,Ammunition,Steppe Arrows,2,,,2,0,100,0.80,Yes,,,Yes
+031,5,Ammunition,Light Bodkin Arrows,3,,,4,0,105,1.00,Yes,,,Yes
+032,5,Ammunition,Bodkin Arrows,3,,,5,0,115,1.50,Yes,,,Yes
+033,5,Ammunition,Piercing Arrows,4,,,6,0,120,2.00,Yes,,,Yes
+034,5,Ammunition,Stacked Bodkin Arrows,4,,,5,0,118,1.20,Yes,,,Yes
+035,4,Ammunition,Stacked Steppe Arrows,4,,,4,5,105,1.10,Yes,,,No
+036,7,Throwing Axes,Francesca,3,3,,64,55,27,2.04,Yes,,,No
+037,2,Throwing Axes,Highland Throwing Axe*,4,5,,74,58,27,2.16,Yes,,,No
+038,2,Throwing Axes,Highland Throwing Axe*,4,5,,70,58,27,2.07,Yes,,,No
+039,6,Throwing Axes,Raider Throwing Axe,4,5,,70,56,27,2.13,Yes,,,No
+040,1,Throwing Axes,Tribesman Throwing Axe,4,5,,70,56,27,2.07,Yes,,,Yes
+041,5,Throwing Knives,Broad Bladed Throwing Knives,1,1,,33,85,32,2.88,Yes,,,Yes
+042,2,Throwing Knives,Highland Throwing Dagger,1,1,,28,80,32,2.4,Yes,,,Yes
+043,2,Throwing Knives,Leafblade Throwing Knife,1,1,,30,85,32,2.58,Yes,,,Yes
+044,7,Throwing Knives,Lowland Throwing Knife,1,1,,28,80,32,2.43,Yes,,,Yes
+045,5,Throwing Knives,Tribesman Throwing Daggers,2,4,,30,88,32,2.58,Yes,,,Yes
+046,5,Javelins,Simple Javelin,1,5,,60,70,29,3.64,Yes,,,Yes
+047,6,Javelins,Fish Harpoon,1,5,,67,65,29,3.92,Yes,,,No
+048,5,Javelins,Jagged Javelin,2,10,,70,72,29,3.64,Yes,,,No
+049,5,Javelins,Horseman Javelin,2,10,,89,75,28,5.55,Yes,,,Yes
+050,6,Javelins,Harpoon,3,25,,113,60,28,6.75,Yes,,,Yes
+051,7,Javelins,Lowland Javelin,3,25,,96,73,28,6,Yes,,,No
+052,2,Javelins,Woodland Javelin,3,25,,96,74,29,5,Yes,,,No
+053,6,Javelins,Broad Blade Javelin,4,40,,101,68,28,5.55,Yes,,,No
+054,7,Javelins,Hooked Javelin,4,40,,117,62,28,7.05,Yes,,,No
+055,1,Javelins,Jereed,6,70,,121,80,28,6,Yes,,,No

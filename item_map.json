@@ -1,0 +1,4090 @@
+{
+  "Falx Knife": {
+    "id": 1,
+    "slot": "melee_weapons"
+  },
+  "Highland Dagger": {
+    "id": 2,
+    "slot": "melee_weapons"
+  },
+  "Pugio": {
+    "id": 3,
+    "slot": "melee_weapons"
+  },
+  "Seax": {
+    "id": 4,
+    "slot": "melee_weapons"
+  },
+  "Xiphos": {
+    "id": 5,
+    "slot": "melee_weapons"
+  },
+  "Falchion": {
+    "id": 6,
+    "slot": "melee_weapons"
+  },
+  "Iron Spatha": {
+    "id": 7,
+    "slot": "melee_weapons"
+  },
+  "Ridged Iron Broadsword": {
+    "id": 8,
+    "slot": "melee_weapons"
+  },
+  "Simple Bastard Sword": {
+    "id": 9,
+    "slot": "melee_weapons"
+  },
+  "Simple Scimitar": {
+    "id": 10,
+    "slot": "melee_weapons"
+  },
+  "Tapered Blade": {
+    "id": 11,
+    "slot": "melee_weapons"
+  },
+  "Backsword": {
+    "id": 12,
+    "slot": "melee_weapons"
+  },
+  "Broad Ridged Shortsword": {
+    "id": 13,
+    "slot": "melee_weapons"
+  },
+  "Broadsword": {
+    "id": 14,
+    "slot": "melee_weapons"
+  },
+  "Gold Bound Short Warsword": {
+    "id": 15,
+    "slot": "melee_weapons"
+  },
+  "Iron Arming Sword": {
+    "id": 16,
+    "slot": "melee_weapons"
+  },
+  "Iron Flyssa": {
+    "id": 17,
+    "slot": "melee_weapons"
+  },
+  "Iron Saber": {
+    "id": 18,
+    "slot": "melee_weapons"
+  },
+  "Iron Scimitar": {
+    "id": 19,
+    "slot": "melee_weapons"
+  },
+  "Short Sword": {
+    "id": 21,
+    "slot": "melee_weapons"
+  },
+  "Star Falchion": {
+    "id": 22,
+    "slot": "melee_weapons"
+  },
+  "Cleaver": {
+    "id": 23,
+    "slot": "melee_weapons"
+  },
+  "Narrow Sword": {
+    "id": 24,
+    "slot": "melee_weapons"
+  },
+  "Pointy Warsword": {
+    "id": 25,
+    "slot": "melee_weapons"
+  },
+  "Broad Falchion": {
+    "id": 26,
+    "slot": "melee_weapons"
+  },
+  "Broad Ild": {
+    "id": 27,
+    "slot": "melee_weapons"
+  },
+  "Decorated Fullered Sword": {
+    "id": 28,
+    "slot": "melee_weapons"
+  },
+  "Decorated Long Warsword": {
+    "id": 29,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Long Kaskara": {
+    "id": 30,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Paramerion": {
+    "id": 31,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Spatha": {
+    "id": 32,
+    "slot": "melee_weapons"
+  },
+  "Fullered Narrow Warsword": {
+    "id": 33,
+    "slot": "melee_weapons"
+  },
+  "Long Saber": {
+    "id": 34,
+    "slot": "melee_weapons"
+  },
+  "Long Warsword": {
+    "id": 35,
+    "slot": "melee_weapons"
+  },
+  "Pointed Falchion": {
+    "id": 36,
+    "slot": "melee_weapons"
+  },
+  "Ridged Tipped Arming Sword": {
+    "id": 37,
+    "slot": "melee_weapons"
+  },
+  "Spatha with Narrow Fuller": {
+    "id": 38,
+    "slot": "melee_weapons"
+  },
+  "Scalpel": {
+    "id": 39,
+    "slot": "melee_weapons"
+  },
+  "Slightly Ridged Flyssa": {
+    "id": 40,
+    "slot": "melee_weapons"
+  },
+  "Spatha": {
+    "id": 41,
+    "slot": "melee_weapons"
+  },
+  "Straight Saber": {
+    "id": 42,
+    "slot": "melee_weapons"
+  },
+  "The Ambassador": {
+    "id": 43,
+    "slot": "melee_weapons"
+  },
+  "Tyrhung": {
+    "id": 44,
+    "slot": "melee_weapons"
+  },
+  "Arming Sword with Circle": {
+    "id": 45,
+    "slot": "melee_weapons"
+  },
+  "Broad Arming Sword": {
+    "id": 46,
+    "slot": "melee_weapons"
+  },
+  "Crescent Guarded Arming Sword": {
+    "id": 47,
+    "slot": "melee_weapons"
+  },
+  "Decorated Arming Sword": {
+    "id": 48,
+    "slot": "melee_weapons"
+  },
+  "Decorated Saber": {
+    "id": 49,
+    "slot": "melee_weapons"
+  },
+  "Desert Long Sword": {
+    "id": 50,
+    "slot": "melee_weapons"
+  },
+  "Engraved Angular Kaskara": {
+    "id": 51,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Cavalry Broadsword": {
+    "id": 52,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Saber": {
+    "id": 53,
+    "slot": "melee_weapons"
+  },
+  "Fullered Long Warsword": {
+    "id": 54,
+    "slot": "melee_weapons"
+  },
+  "Heavy Sabre": {
+    "id": 55,
+    "slot": "melee_weapons"
+  },
+  "Highland Fine Steel Blade": {
+    "id": 56,
+    "slot": "melee_weapons"
+  },
+  "Knightly Arming Sword": {
+    "id": 57,
+    "slot": "melee_weapons"
+  },
+  "Long Fine Steel Scimitar": {
+    "id": 58,
+    "slot": "melee_weapons"
+  },
+  "Narrow Fine Steel Kaskara": {
+    "id": 59,
+    "slot": "melee_weapons"
+  },
+  "Ridged Arming Sword": {
+    "id": 60,
+    "slot": "melee_weapons"
+  },
+  "Ridged Saber": {
+    "id": 61,
+    "slot": "melee_weapons"
+  },
+  "Tall Gripped Ild Sword": {
+    "id": 62,
+    "slot": "melee_weapons"
+  },
+  "Thamaskene Steel Spathion": {
+    "id": 63,
+    "slot": "melee_weapons"
+  },
+  "Thamaskene Steel Warsword": {
+    "id": 64,
+    "slot": "melee_weapons"
+  },
+  "Wide Fullered Broad Arming Sword": {
+    "id": 65,
+    "slot": "melee_weapons"
+  },
+  "Decorated Broadsword": {
+    "id": 66,
+    "slot": "melee_weapons"
+  },
+  "Decorated Kaskara": {
+    "id": 67,
+    "slot": "melee_weapons"
+  },
+  "Decorated Long Scimitar": {
+    "id": 68,
+    "slot": "melee_weapons"
+  },
+  "Decorated Scimitar with Wide Grip": {
+    "id": 69,
+    "slot": "melee_weapons"
+  },
+  "Engraved Backsword": {
+    "id": 70,
+    "slot": "melee_weapons"
+  },
+  "Lion Imprinted Saber": {
+    "id": 71,
+    "slot": "melee_weapons"
+  },
+  "Thamaskene Steel Kaskara": {
+    "id": 72,
+    "slot": "melee_weapons"
+  },
+  "Hatchet": {
+    "id": 73,
+    "slot": "melee_weapons"
+  },
+  "Pickaxe": {
+    "id": 74,
+    "slot": "melee_weapons"
+  },
+  "Sickle": {
+    "id": 75,
+    "slot": "melee_weapons"
+  },
+  "Bamboo Handled Ascia Axe": {
+    "id": 76,
+    "slot": "melee_weapons"
+  },
+  "Bamboo Handled Axe": {
+    "id": 77,
+    "slot": "melee_weapons"
+  },
+  "Galloglaich Axe": {
+    "id": 78,
+    "slot": "melee_weapons"
+  },
+  "Infantry Axe": {
+    "id": 79,
+    "slot": "melee_weapons"
+  },
+  "Norse Hatchet": {
+    "id": 80,
+    "slot": "melee_weapons"
+  },
+  "Small Bit Axe": {
+    "id": 81,
+    "slot": "melee_weapons"
+  },
+  "Small Spurred Axe": {
+    "id": 82,
+    "slot": "melee_weapons"
+  },
+  "Wood Splitter Axe": {
+    "id": 83,
+    "slot": "melee_weapons"
+  },
+  "Broad Tzikourion": {
+    "id": 84,
+    "slot": "melee_weapons"
+  },
+  "Commoner Axe": {
+    "id": 85,
+    "slot": "melee_weapons"
+  },
+  "Large Franziska Axe": {
+    "id": 86,
+    "slot": "melee_weapons"
+  },
+  "Simple Raider Battle Axe": {
+    "id": 87,
+    "slot": "melee_weapons"
+  },
+  "Tzikourion": {
+    "id": 88,
+    "slot": "melee_weapons"
+  },
+  "Woodland Axe": {
+    "id": 89,
+    "slot": "melee_weapons"
+  },
+  "Bamboo Axe": {
+    "id": 90,
+    "slot": "melee_weapons"
+  },
+  "Battle Axe": {
+    "id": 91,
+    "slot": "melee_weapons"
+  },
+  "One Handed Bearded Axe": {
+    "id": 92,
+    "slot": "melee_weapons"
+  },
+  "Spiked Battle Axe": {
+    "id": 93,
+    "slot": "melee_weapons"
+  },
+  "Veteran Warrior Axe": {
+    "id": 94,
+    "slot": "melee_weapons"
+  },
+  "Rectangular Bitted Axe": {
+    "id": 95,
+    "slot": "melee_weapons"
+  },
+  "Round Bitted Fine Steel Hatchet": {
+    "id": 96,
+    "slot": "melee_weapons"
+  },
+  "Wooden Hammer": {
+    "id": 97,
+    "slot": "melee_weapons"
+  },
+  "Blacksmith Hammer": {
+    "id": 98,
+    "slot": "melee_weapons"
+  },
+  "Knobbed Club": {
+    "id": 99,
+    "slot": "melee_weapons"
+  },
+  "Spiked Club": {
+    "id": 100,
+    "slot": "melee_weapons"
+  },
+  "Spiked Mace": {
+    "id": 101,
+    "slot": "melee_weapons"
+  },
+  "Fullered Light Mace": {
+    "id": 102,
+    "slot": "melee_weapons"
+  },
+  "Highland Spiked Club": {
+    "id": 103,
+    "slot": "melee_weapons"
+  },
+  "Steppe Light Mace": {
+    "id": 104,
+    "slot": "melee_weapons"
+  },
+  "Heavy Horseman Mace": {
+    "id": 105,
+    "slot": "melee_weapons"
+  },
+  "Highland Mace": {
+    "id": 106,
+    "slot": "melee_weapons"
+  },
+  "Judgement": {
+    "id": 107,
+    "slot": "melee_weapons"
+  },
+  "Light Mace": {
+    "id": 108,
+    "slot": "melee_weapons"
+  },
+  "Morningstar": {
+    "id": 109,
+    "slot": "melee_weapons"
+  },
+  "Steel Shestopyor": {
+    "id": 110,
+    "slot": "melee_weapons"
+  },
+  "Calradic Mace": {
+    "id": 112,
+    "slot": "melee_weapons"
+  },
+  "Eastern Heavy Mace": {
+    "id": 113,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Mace": {
+    "id": 114,
+    "slot": "melee_weapons"
+  },
+  "Fullered Cavalry Mace": {
+    "id": 115,
+    "slot": "melee_weapons"
+  },
+  "Imperial Light Mace": {
+    "id": 116,
+    "slot": "melee_weapons"
+  },
+  "Light Shishpar Mace": {
+    "id": 117,
+    "slot": "melee_weapons"
+  },
+  "Spiralled Mace": {
+    "id": 118,
+    "slot": "melee_weapons"
+  },
+  "Cataphract Mace": {
+    "id": 119,
+    "slot": "melee_weapons"
+  },
+  "Heavy Flanged Mace": {
+    "id": 120,
+    "slot": "melee_weapons"
+  },
+  "Light Royal Mace": {
+    "id": 121,
+    "slot": "melee_weapons"
+  },
+  "Pernach": {
+    "id": 122,
+    "slot": "melee_weapons"
+  },
+  "Steel Mace": {
+    "id": 123,
+    "slot": "melee_weapons"
+  },
+  "Justicier": {
+    "id": 124,
+    "slot": "melee_weapons"
+  },
+  "Battanian Mountain Blade": {
+    "id": 125,
+    "slot": "melee_weapons"
+  },
+  "Broad Kaskara": {
+    "id": 126,
+    "slot": "melee_weapons"
+  },
+  "Early Retirement": {
+    "id": 127,
+    "slot": "melee_weapons"
+  },
+  "Falx": {
+    "id": 128,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Two Handed Sword": {
+    "id": 129,
+    "slot": "melee_weapons"
+  },
+  "Highland Broadsword": {
+    "id": 130,
+    "slot": "melee_weapons"
+  },
+  "Highland Fine Two Handed Sword": {
+    "id": 131,
+    "slot": "melee_weapons"
+  },
+  "Reaper": {
+    "id": 132,
+    "slot": "melee_weapons"
+  },
+  "Ridged Great Saber": {
+    "id": 133,
+    "slot": "melee_weapons"
+  },
+  "Ridged Long Kaskara": {
+    "id": 134,
+    "slot": "melee_weapons"
+  },
+  "Tapered Two-Hander": {
+    "id": 135,
+    "slot": "melee_weapons"
+  },
+  "Two-Handed Cleaver": {
+    "id": 136,
+    "slot": "melee_weapons"
+  },
+  "War Razor": {
+    "id": 137,
+    "slot": "melee_weapons"
+  },
+  "Iron Broadsword": {
+    "id": 138,
+    "slot": "melee_weapons"
+  },
+  "Broad Two Hander": {
+    "id": 139,
+    "slot": "melee_weapons"
+  },
+  "Northlander Wide Fullered Greatsword": {
+    "id": 140,
+    "slot": "melee_weapons"
+  },
+  "Sentinel": {
+    "id": 141,
+    "slot": "melee_weapons"
+  },
+  "Thamaskene Steel Two Hander": {
+    "id": 142,
+    "slot": "melee_weapons"
+  },
+  "Wide Fullered Broad Two Hander": {
+    "id": 143,
+    "slot": "melee_weapons"
+  },
+  "Hoe*": {
+    "id": 144,
+    "slot": "melee_weapons"
+  },
+  "Simple Sparth Axe": {
+    "id": 145,
+    "slot": "melee_weapons"
+  },
+  "Square Bit Two Handed Axe": {
+    "id": 146,
+    "slot": "melee_weapons"
+  },
+  "Bearded Axe": {
+    "id": 147,
+    "slot": "melee_weapons"
+  },
+  "Black Heart": {
+    "id": 148,
+    "slot": "melee_weapons"
+  },
+  "Executioner Axe": {
+    "id": 149,
+    "slot": "melee_weapons"
+  },
+  "Hooked Cavalry Axe": {
+    "id": 150,
+    "slot": "melee_weapons"
+  },
+  "Northlander Broad Axe": {
+    "id": 151,
+    "slot": "melee_weapons"
+  },
+  "Short Bill": {
+    "id": 152,
+    "slot": "melee_weapons"
+  },
+  "Short Handled Bardiche": {
+    "id": 153,
+    "slot": "melee_weapons"
+  },
+  "Avalanche": {
+    "id": 154,
+    "slot": "melee_weapons"
+  },
+  "Drilled Two Handed Axe": {
+    "id": 155,
+    "slot": "melee_weapons"
+  },
+  "Heavy Executioner Axe": {
+    "id": 156,
+    "slot": "melee_weapons"
+  },
+  "Northlander Decorated Two Handed Axe": {
+    "id": 157,
+    "slot": "melee_weapons"
+  },
+  "Sledgehammer": {
+    "id": 158,
+    "slot": "melee_weapons"
+  },
+  "Iron Pitchfork": {
+    "id": 159,
+    "slot": "melee_weapons"
+  },
+  "Pitchfork": {
+    "id": 160,
+    "slot": "melee_weapons"
+  },
+  "Military Fork": {
+    "id": 161,
+    "slot": "melee_weapons"
+  },
+  "Short Militia Spear": {
+    "id": 162,
+    "slot": "melee_weapons"
+  },
+  "Simple Commoner Spear": {
+    "id": 163,
+    "slot": "melee_weapons"
+  },
+  "Short Simple Raider Spear": {
+    "id": 164,
+    "slot": "melee_weapons"
+  },
+  "Weighted Steppe Spear": {
+    "id": 165,
+    "slot": "melee_weapons"
+  },
+  "Broad Leaf Shaped Spear": {
+    "id": 166,
+    "slot": "melee_weapons"
+  },
+  "Knob Headed Spear": {
+    "id": 167,
+    "slot": "melee_weapons"
+  },
+  "Knob Headed Spear with Frills": {
+    "id": 168,
+    "slot": "melee_weapons"
+  },
+  "Light Cavalry Lance": {
+    "id": 169,
+    "slot": "melee_weapons"
+  },
+  "Light Lance": {
+    "id": 170,
+    "slot": "melee_weapons"
+  },
+  "Light Steppe Rider Spear": {
+    "id": 171,
+    "slot": "melee_weapons"
+  },
+  "Long Narrow Headed Spear": {
+    "id": 172,
+    "slot": "melee_weapons"
+  },
+  "Narrow Long Headed Spear": {
+    "id": 173,
+    "slot": "melee_weapons"
+  },
+  "Reinforced Highland Spear": {
+    "id": 174,
+    "slot": "melee_weapons"
+  },
+  "Tall Tipped Long Spear": {
+    "id": 175,
+    "slot": "melee_weapons"
+  },
+  "Tall Tipped Spear": {
+    "id": 176,
+    "slot": "melee_weapons"
+  },
+  "Triangular Headed Spear": {
+    "id": 177,
+    "slot": "melee_weapons"
+  },
+  "Druzhinnik Lance": {
+    "id": 178,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Leaf Spear": {
+    "id": 179,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Spear": {
+    "id": 180,
+    "slot": "melee_weapons"
+  },
+  "Heavy Cavalry Lance": {
+    "id": 181,
+    "slot": "melee_weapons"
+  },
+  "Jagged Fine Steel Spear": {
+    "id": 182,
+    "slot": "melee_weapons"
+  },
+  "Knight Lance": {
+    "id": 183,
+    "slot": "melee_weapons"
+  },
+  "Long Fine Steel Spear": {
+    "id": 184,
+    "slot": "melee_weapons"
+  },
+  "Long Thamaskene Tipped Spear": {
+    "id": 185,
+    "slot": "melee_weapons"
+  },
+  "Mamluke Lance": {
+    "id": 186,
+    "slot": "melee_weapons"
+  },
+  "Steel Tipped Hooked Spear": {
+    "id": 187,
+    "slot": "melee_weapons"
+  },
+  "Wide Leaf Spear": {
+    "id": 188,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Hewing Spear": {
+    "id": 189,
+    "slot": "melee_weapons"
+  },
+  "Heavy Druzhinnik Lance": {
+    "id": 190,
+    "slot": "melee_weapons"
+  },
+  "Heavy Knight Lance": {
+    "id": 191,
+    "slot": "melee_weapons"
+  },
+  "Highland War Spear": {
+    "id": 192,
+    "slot": "melee_weapons"
+  },
+  "Jagged Throwing Spear*": {
+    "id": 193,
+    "slot": "melee_weapons"
+  },
+  "Noble Cavalry Lance": {
+    "id": 194,
+    "slot": "melee_weapons"
+  },
+  "Pilum*": {
+    "id": 195,
+    "slot": "melee_weapons"
+  },
+  "Thin Fine Steel Hewing Spear": {
+    "id": 196,
+    "slot": "melee_weapons"
+  },
+  "Fine Steel Menavlion": {
+    "id": 197,
+    "slot": "melee_weapons"
+  },
+  "Glaive": {
+    "id": 198,
+    "slot": "melee_weapons"
+  },
+  "Long Glaive": {
+    "id": 199,
+    "slot": "melee_weapons"
+  },
+  "Menavlion": {
+    "id": 200,
+    "slot": "melee_weapons"
+  },
+  "Polesword": {
+    "id": 201,
+    "slot": "melee_weapons"
+  },
+  "Voulge": {
+    "id": 202,
+    "slot": "melee_weapons"
+  },
+  "Simple Pike": {
+    "id": 203,
+    "slot": "melee_weapons"
+  },
+  "Scythe": {
+    "id": 204,
+    "slot": "melee_weapons"
+  },
+  "Notched Military Fork": {
+    "id": 205,
+    "slot": "melee_weapons"
+  },
+  "Fine Pike": {
+    "id": 206,
+    "slot": "melee_weapons"
+  },
+  "Courser Lance": {
+    "id": 207,
+    "slot": "melee_weapons"
+  },
+  "Thamaskene Pike": {
+    "id": 208,
+    "slot": "melee_weapons"
+  },
+  "Cataphract Lance": {
+    "id": 209,
+    "slot": "melee_weapons"
+  },
+  "Pike": {
+    "id": 210,
+    "slot": "melee_weapons"
+  },
+  "Billhook": {
+    "id": 211,
+    "slot": "melee_weapons"
+  },
+  "Rhomphaia": {
+    "id": 212,
+    "slot": "melee_weapons"
+  },
+  "Warrazor": {
+    "id": 213,
+    "slot": "melee_weapons"
+  },
+  "Hunting Bow": {
+    "id": 214,
+    "slot": "ranged_weapons"
+  },
+  "Mountain Hunting Bow": {
+    "id": 215,
+    "slot": "ranged_weapons"
+  },
+  "Steppe Bow": {
+    "id": 216,
+    "slot": "ranged_weapons"
+  },
+  "Ranger Bow": {
+    "id": 217,
+    "slot": "ranged_weapons"
+  },
+  "Longbow": {
+    "id": 218,
+    "slot": "ranged_weapons"
+  },
+  "Lowland Longbow": {
+    "id": 219,
+    "slot": "ranged_weapons"
+  },
+  "Nordic Shortbow": {
+    "id": 220,
+    "slot": "ranged_weapons"
+  },
+  "Simple Short Bow": {
+    "id": 221,
+    "slot": "ranged_weapons"
+  },
+  "Heavy Recurve Bow": {
+    "id": 222,
+    "slot": "ranged_weapons"
+  },
+  "Nomad Bow": {
+    "id": 223,
+    "slot": "ranged_weapons"
+  },
+  "Steppe Recurve Bow": {
+    "id": 224,
+    "slot": "ranged_weapons"
+  },
+  "Steppe War Bow": {
+    "id": 225,
+    "slot": "ranged_weapons"
+  },
+  "Woodland Yew Bow": {
+    "id": 226,
+    "slot": "ranged_weapons"
+  },
+  "Yew Bow": {
+    "id": 227,
+    "slot": "ranged_weapons"
+  },
+  "Strong Tribesman Bow": {
+    "id": 228,
+    "slot": "ranged_weapons"
+  },
+  "Woodland Longbow": {
+    "id": 229,
+    "slot": "ranged_weapons"
+  },
+  "Noble Bow": {
+    "id": 230,
+    "slot": "ranged_weapons"
+  },
+  "Noble Long Bow": {
+    "id": 231,
+    "slot": "ranged_weapons"
+  },
+  "Simple Light Crossbow": {
+    "id": 232,
+    "slot": "ranged_weapons"
+  },
+  "Heavy Crossbow": {
+    "id": 233,
+    "slot": "ranged_weapons"
+  },
+  "Light Crossbow": {
+    "id": 234,
+    "slot": "ranged_weapons"
+  },
+  "Arbalest": {
+    "id": 235,
+    "slot": "ranged_weapons"
+  },
+  "Fine Light Crossbow": {
+    "id": 236,
+    "slot": "ranged_weapons"
+  },
+  "Hickory Crossbow": {
+    "id": 237,
+    "slot": "ranged_weapons"
+  },
+  "Bound Crossbow": {
+    "id": 238,
+    "slot": "ranged_weapons"
+  },
+  "Arrows": {
+    "id": 239,
+    "slot": "ranged_weapons"
+  },
+  "Barbed Arrows": {
+    "id": 240,
+    "slot": "ranged_weapons"
+  },
+  "Lowland Arrows": {
+    "id": 241,
+    "slot": "ranged_weapons"
+  },
+  "Range Arrows": {
+    "id": 242,
+    "slot": "ranged_weapons"
+  },
+  "Steppe Arrows": {
+    "id": 243,
+    "slot": "ranged_weapons"
+  },
+  "Light Bodkin Arrows": {
+    "id": 244,
+    "slot": "ranged_weapons"
+  },
+  "Bodkin Arrows": {
+    "id": 245,
+    "slot": "ranged_weapons"
+  },
+  "Piercing Arrows": {
+    "id": 246,
+    "slot": "ranged_weapons"
+  },
+  "Stacked Bodkin Arrows": {
+    "id": 247,
+    "slot": "ranged_weapons"
+  },
+  "Stacked Steppe Arrows": {
+    "id": 248,
+    "slot": "ranged_weapons"
+  },
+  "Francesca": {
+    "id": 249,
+    "slot": "ranged_weapons"
+  },
+  "Highland Throwing Axe*": {
+    "id": 250,
+    "slot": "ranged_weapons"
+  },
+  "Raider Throwing Axe": {
+    "id": 252,
+    "slot": "ranged_weapons"
+  },
+  "Tribesman Throwing Axe": {
+    "id": 253,
+    "slot": "ranged_weapons"
+  },
+  "Broad Bladed Throwing Knives": {
+    "id": 254,
+    "slot": "ranged_weapons"
+  },
+  "Highland Throwing Dagger": {
+    "id": 255,
+    "slot": "ranged_weapons"
+  },
+  "Leafblade Throwing Knife": {
+    "id": 256,
+    "slot": "ranged_weapons"
+  },
+  "Lowland Throwing Knife": {
+    "id": 257,
+    "slot": "ranged_weapons"
+  },
+  "Tribesman Throwing Daggers": {
+    "id": 258,
+    "slot": "ranged_weapons"
+  },
+  "Simple Javelin": {
+    "id": 259,
+    "slot": "ranged_weapons"
+  },
+  "Fish Harpoon": {
+    "id": 260,
+    "slot": "ranged_weapons"
+  },
+  "Jagged Javelin": {
+    "id": 261,
+    "slot": "ranged_weapons"
+  },
+  "Horseman Javelin": {
+    "id": 262,
+    "slot": "ranged_weapons"
+  },
+  "Harpoon": {
+    "id": 263,
+    "slot": "ranged_weapons"
+  },
+  "Lowland Javelin": {
+    "id": 264,
+    "slot": "ranged_weapons"
+  },
+  "Woodland Javelin": {
+    "id": 265,
+    "slot": "ranged_weapons"
+  },
+  "Broad Blade Javelin": {
+    "id": 266,
+    "slot": "ranged_weapons"
+  },
+  "Hooked Javelin": {
+    "id": 267,
+    "slot": "ranged_weapons"
+  },
+  "Jereed": {
+    "id": 268,
+    "slot": "ranged_weapons"
+  },
+  "Aketon": {
+    "id": 269,
+    "slot": "armors"
+  },
+  "Aproned Dress": {
+    "id": 270,
+    "slot": "armors"
+  },
+  "Aproned Feminine Coat": {
+    "id": 271,
+    "slot": "armors"
+  },
+  "Armored Baggy Trunks": {
+    "id": 272,
+    "slot": "armors"
+  },
+  "Auxiliary Armor": {
+    "id": 273,
+    "slot": "armors"
+  },
+  "Auxiliary Armor with Straps": {
+    "id": 274,
+    "slot": "armors"
+  },
+  "Baggy Trunks": {
+    "id": 275,
+    "slot": "armors"
+  },
+  "Banded Leather over Mail": {
+    "id": 276,
+    "slot": "armors"
+  },
+  "Belted Leather Cuirass": {
+    "id": 277,
+    "slot": "armors"
+  },
+  "Belted Tunic": {
+    "id": 278,
+    "slot": "armors"
+  },
+  "Boarskin Leather Coat": {
+    "id": 279,
+    "slot": "armors"
+  },
+  "Brigandine over Hauberk": {
+    "id": 280,
+    "slot": "armors"
+  },
+  "Brigandine over Mail": {
+    "id": 281,
+    "slot": "armors"
+  },
+  "Brigandine Vest": {
+    "id": 282,
+    "slot": "armors"
+  },
+  "Bronze Breastplate": {
+    "id": 283,
+    "slot": "armors"
+  },
+  "Bronze Lamellar over Mail": {
+    "id": 284,
+    "slot": "armors"
+  },
+  "Bronze Lamellar Vest over Gambeson": {
+    "id": 285,
+    "slot": "armors"
+  },
+  "Bronze Scale Vest": {
+    "id": 286,
+    "slot": "armors"
+  },
+  "Bronze Scale Vest over Gambeson": {
+    "id": 287,
+    "slot": "armors"
+  },
+  "Buckled Mail Armor": {
+    "id": 288,
+    "slot": "armors"
+  },
+  "Burlap Dress": {
+    "id": 289,
+    "slot": "armors"
+  },
+  "Burlap Waistcoat": {
+    "id": 290,
+    "slot": "armors"
+  },
+  "Cataphract Lamellar Armor": {
+    "id": 291,
+    "slot": "armors"
+  },
+  "Cavalry Lamellar Armor": {
+    "id": 292,
+    "slot": "armors"
+  },
+  "Cavalryman Mail Shirt": {
+    "id": 293,
+    "slot": "armors"
+  },
+  "Cheap Colored Clothes": {
+    "id": 294,
+    "slot": "armors"
+  },
+  "Cheap Paddings": {
+    "id": 295,
+    "slot": "armors"
+  },
+  "Cloth Apron": {
+    "id": 296,
+    "slot": "armors"
+  },
+  "Coat Of Plates": {
+    "id": 297,
+    "slot": "armors"
+  },
+  "Coat with Mirrored Belt": {
+    "id": 298,
+    "slot": "armors"
+  },
+  "Cold Weather Dress": {
+    "id": 299,
+    "slot": "armors"
+  },
+  "Colored Bisht": {
+    "id": 300,
+    "slot": "armors"
+  },
+  "Colored Kaftan": {
+    "id": 301,
+    "slot": "armors"
+  },
+  "Commoner Clothes": {
+    "id": 302,
+    "slot": "armors"
+  },
+  "Commoner Shirt": {
+    "id": 303,
+    "slot": "armors"
+  },
+  "Commoner Tunic": {
+    "id": 304,
+    "slot": "armors"
+  },
+  "Corseted Dress": {
+    "id": 305,
+    "slot": "armors"
+  },
+  "Crude Hide Armor": {
+    "id": 306,
+    "slot": "armors"
+  },
+  "Cured Leather Lamellar Armor": {
+    "id": 307,
+    "slot": "armors"
+  },
+  "Cured Leather Lamellar Shirt": {
+    "id": 308,
+    "slot": "armors"
+  },
+  "Cured Studded Leather Armor": {
+    "id": 309,
+    "slot": "armors"
+  },
+  "Cut Dress with Pouch": {
+    "id": 310,
+    "slot": "armors"
+  },
+  "Decorated Hauberk": {
+    "id": 311,
+    "slot": "armors"
+  },
+  "Decorated Legionary Mail": {
+    "id": 312,
+    "slot": "armors"
+  },
+  "Decorated Thick Tunic": {
+    "id": 313,
+    "slot": "armors"
+  },
+  "Dress": {
+    "id": 314,
+    "slot": "armors"
+  },
+  "Dress with Fur": {
+    "id": 315,
+    "slot": "armors"
+  },
+  "Dummy Higher Average": {
+    "id": 316,
+    "slot": "armors"
+  },
+  "Dummy Lower Average": {
+    "id": 317,
+    "slot": "armors"
+  },
+  "Dummy Max Armor": {
+    "id": 318,
+    "slot": "armors"
+  },
+  "Dummy Min Armor": {
+    "id": 319,
+    "slot": "armors"
+  },
+  "Envelope Dress": {
+    "id": 320,
+    "slot": "armors"
+  },
+  "Feminine Kaftan": {
+    "id": 321,
+    "slot": "armors"
+  },
+  "Fortified Mercenary Armor": {
+    "id": 322,
+    "slot": "armors"
+  },
+  "Frilled Dress": {
+    "id": 323,
+    "slot": "armors"
+  },
+  "Fur Armor": {
+    "id": 324,
+    "slot": "armors"
+  },
+  "Fur Armor with Strap": {
+    "id": 325,
+    "slot": "armors"
+  },
+  "Fur Coat over Tunic": {
+    "id": 326,
+    "slot": "armors"
+  },
+  "Fur Skirt": {
+    "id": 327,
+    "slot": "armors"
+  },
+  "Fur Skirt with Tunic": {
+    "id": 328,
+    "slot": "armors"
+  },
+  "Fur Trimmed Short Tunic": {
+    "id": 329,
+    "slot": "armors"
+  },
+  "Fur Trimmed Tunic": {
+    "id": 330,
+    "slot": "armors"
+  },
+  "Fur Waistcoat over Tunic": {
+    "id": 331,
+    "slot": "armors"
+  },
+  "Gambeson over Mail Armor": {
+    "id": 332,
+    "slot": "armors"
+  },
+  "Half Apron": {
+    "id": 333,
+    "slot": "armors"
+  },
+  "Heavy Aketon": {
+    "id": 334,
+    "slot": "armors"
+  },
+  "Heavy Lamellar over Hauberk": {
+    "id": 335,
+    "slot": "armors"
+  },
+  "Heavy Lamellar over Mail": {
+    "id": 336,
+    "slot": "armors"
+  },
+  "Heavy Lamellar over Mail Armor": {
+    "id": 337,
+    "slot": "armors"
+  },
+  "Heavy Lamellar Vest": {
+    "id": 338,
+    "slot": "armors"
+  },
+  "Heavy Mail Hauberk": {
+    "id": 340,
+    "slot": "armors"
+  },
+  "Heavy Mail Shirt": {
+    "id": 341,
+    "slot": "armors"
+  },
+  "Heavy Mail Shirt with Wide Belt": {
+    "id": 342,
+    "slot": "armors"
+  },
+  "Heavy Mail Vest": {
+    "id": 343,
+    "slot": "armors"
+  },
+  "Heavy Ring Mail": {
+    "id": 344,
+    "slot": "armors"
+  },
+  "Heavy Scale Armor over Mail Hauberk": {
+    "id": 345,
+    "slot": "armors"
+  },
+  "Heavy Tunic": {
+    "id": 346,
+    "slot": "armors"
+  },
+  "Hemp Tunic": {
+    "id": 347,
+    "slot": "armors"
+  },
+  "Highborn Mail Armor": {
+    "id": 348,
+    "slot": "armors"
+  },
+  "Highland Kilt over Tartan Trousers": {
+    "id": 349,
+    "slot": "armors"
+  },
+  "Highland Long Tartan": {
+    "id": 350,
+    "slot": "armors"
+  },
+  "Highland Mail Shirt": {
+    "id": 351,
+    "slot": "armors"
+  },
+  "Highland Reinforced Mail": {
+    "id": 352,
+    "slot": "armors"
+  },
+  "Highland Reinforced Mail over Tartan": {
+    "id": 353,
+    "slot": "armors"
+  },
+  "Highland Scale Armor over Cloth": {
+    "id": 354,
+    "slot": "armors"
+  },
+  "Highland Scale Armor over Mail Armor": {
+    "id": 355,
+    "slot": "armors"
+  },
+  "Highland Tartan": {
+    "id": 356,
+    "slot": "armors"
+  },
+  "Highland Tartan with Chest Plate": {
+    "id": 357,
+    "slot": "armors"
+  },
+  "Huscarl Decorated Mail Shirt": {
+    "id": 358,
+    "slot": "armors"
+  },
+  "Huscarl Hauberk": {
+    "id": 359,
+    "slot": "armors"
+  },
+  "Huscarl Mail Shirt": {
+    "id": 360,
+    "slot": "armors"
+  },
+  "Infantryman Gambeson": {
+    "id": 361,
+    "slot": "armors"
+  },
+  "Infantryman Gambeson over Leather Jacket": {
+    "id": 362,
+    "slot": "armors"
+  },
+  "Infantryman Gambeson with Skirts": {
+    "id": 363,
+    "slot": "armors"
+  },
+  "Infantryman Gambeson with Straps": {
+    "id": 364,
+    "slot": "armors"
+  },
+  "Infantryman Long Gambeson": {
+    "id": 365,
+    "slot": "armors"
+  },
+  "Infantryman Mail over Leather": {
+    "id": 366,
+    "slot": "armors"
+  },
+  "Infantryman Mail over Striped Leather": {
+    "id": 367,
+    "slot": "armors"
+  },
+  "Infantryman Mail Vest": {
+    "id": 368,
+    "slot": "armors"
+  },
+  "Infantryman Rough Gambeson": {
+    "id": 369,
+    "slot": "armors"
+  },
+  "Kaftan with Leather Belt": {
+    "id": 370,
+    "slot": "armors"
+  },
+  "Kaftan with Waistband": {
+    "id": 371,
+    "slot": "armors"
+  },
+  "Khan's Coat of Plates": {
+    "id": 372,
+    "slot": "armors"
+  },
+  "Kilt over Plated Leather": {
+    "id": 373,
+    "slot": "armors"
+  },
+  "Laced Dress": {
+    "id": 374,
+    "slot": "armors"
+  },
+  "Ladies Dress": {
+    "id": 375,
+    "slot": "armors"
+  },
+  "Lamellar with Scale Skirt": {
+    "id": 376,
+    "slot": "armors"
+  },
+  "Lancer Lamellar Armor": {
+    "id": 377,
+    "slot": "armors"
+  },
+  "Layered Leather Tunic": {
+    "id": 378,
+    "slot": "armors"
+  },
+  "Layered Robe": {
+    "id": 379,
+    "slot": "armors"
+  },
+  "Leather Apron": {
+    "id": 380,
+    "slot": "armors"
+  },
+  "Leather Armor": {
+    "id": 381,
+    "slot": "armors"
+  },
+  "Leather Armor over Heavy Cloth": {
+    "id": 382,
+    "slot": "armors"
+  },
+  "Leather Armor with Iron Plates": {
+    "id": 383,
+    "slot": "armors"
+  },
+  "Leather Coat over Cloth": {
+    "id": 384,
+    "slot": "armors"
+  },
+  "Leather Scale Armor": {
+    "id": 385,
+    "slot": "armors"
+  },
+  "Leather Strips over Padded Robe": {
+    "id": 386,
+    "slot": "armors"
+  },
+  "Leather Tabard": {
+    "id": 387,
+    "slot": "armors"
+  },
+  "Leather Tabard over Mail": {
+    "id": 388,
+    "slot": "armors"
+  },
+  "Leather Tunic": {
+    "id": 389,
+    "slot": "armors"
+  },
+  "Legionary Mail": {
+    "id": 391,
+    "slot": "armors"
+  },
+  "Light Lamellar Armor": {
+    "id": 392,
+    "slot": "armors"
+  },
+  "Light Long Padded Armor": {
+    "id": 393,
+    "slot": "armors"
+  },
+  "Light Padded Armor": {
+    "id": 394,
+    "slot": "armors"
+  },
+  "Light Tunic": {
+    "id": 395,
+    "slot": "armors"
+  },
+  "Long Fur Coat": {
+    "id": 396,
+    "slot": "armors"
+  },
+  "Long Hemp Tunic": {
+    "id": 397,
+    "slot": "armors"
+  },
+  "Long Padded Robe": {
+    "id": 398,
+    "slot": "armors"
+  },
+  "Long Simple Robe": {
+    "id": 399,
+    "slot": "armors"
+  },
+  "Long Tunic": {
+    "id": 400,
+    "slot": "armors"
+  },
+  "Long Woolen Tunic": {
+    "id": 401,
+    "slot": "armors"
+  },
+  "Luxury Brigandine": {
+    "id": 402,
+    "slot": "armors"
+  },
+  "Luxury Coat": {
+    "id": 403,
+    "slot": "armors"
+  },
+  "Luxury Kaftan": {
+    "id": 404,
+    "slot": "armors"
+  },
+  "Luxury Kaftan with Waistband": {
+    "id": 405,
+    "slot": "armors"
+  },
+  "Luxury Lamellar Vest over Leather": {
+    "id": 406,
+    "slot": "armors"
+  },
+  "Luxury Scale Armor": {
+    "id": 407,
+    "slot": "armors"
+  },
+  "Luxury Thick Coat": {
+    "id": 408,
+    "slot": "armors"
+  },
+  "Luxury Tunic": {
+    "id": 409,
+    "slot": "armors"
+  },
+  "Mail Shirt": {
+    "id": 410,
+    "slot": "armors"
+  },
+  "Mastercrafted Southern Scale Mail": {
+    "id": 411,
+    "slot": "armors"
+  },
+  "Mastercrafted Southern Scale over Chain Hauberk": {
+    "id": 412,
+    "slot": "armors"
+  },
+  "Mastercrafted Southern Scale over Chain Mail": {
+    "id": 413,
+    "slot": "armors"
+  },
+  "Merchant Fur Coat": {
+    "id": 414,
+    "slot": "armors"
+  },
+  "Military Tunic": {
+    "id": 415,
+    "slot": "armors"
+  },
+  "Mirrored Brigandine Armor": {
+    "id": 416,
+    "slot": "armors"
+  },
+  "Mirrored Leather Armor": {
+    "id": 417,
+    "slot": "armors"
+  },
+  "Old Fur Armor": {
+    "id": 418,
+    "slot": "armors"
+  },
+  "Old Fur Coat": {
+    "id": 419,
+    "slot": "armors"
+  },
+  "Ornate Legionary Scale Mail": {
+    "id": 420,
+    "slot": "armors"
+  },
+  "Ornate Scale Armor": {
+    "id": 421,
+    "slot": "armors"
+  },
+  "Padded Cloth with Strips": {
+    "id": 422,
+    "slot": "armors"
+  },
+  "Padded Footman Coat": {
+    "id": 423,
+    "slot": "armors"
+  },
+  "Padded Leather Overcoat": {
+    "id": 424,
+    "slot": "armors"
+  },
+  "Padded Leather Shirt": {
+    "id": 425,
+    "slot": "armors"
+  },
+  "Padded Short Coat": {
+    "id": 426,
+    "slot": "armors"
+  },
+  "Patched Gambeson": {
+    "id": 427,
+    "slot": "armors"
+  },
+  "Plaid Dress": {
+    "id": 428,
+    "slot": "armors"
+  },
+  "Plain Dress": {
+    "id": 429,
+    "slot": "armors"
+  },
+  "Ragged Robes": {
+    "id": 430,
+    "slot": "armors"
+  },
+  "Ranger Mail": {
+    "id": 431,
+    "slot": "armors"
+  },
+  "Red Dress": {
+    "id": 432,
+    "slot": "armors"
+  },
+  "Red Tabard over Mail Hauberk": {
+    "id": 433,
+    "slot": "armors"
+  },
+  "Reinforced Leather Armor": {
+    "id": 434,
+    "slot": "armors"
+  },
+  "Reinforced Mirror Armor": {
+    "id": 435,
+    "slot": "armors"
+  },
+  "Reinforced Suede Armor": {
+    "id": 436,
+    "slot": "armors"
+  },
+  "Reinforced Thick Tunic": {
+    "id": 437,
+    "slot": "armors"
+  },
+  "Rich Dress": {
+    "id": 438,
+    "slot": "armors"
+  },
+  "Rich Tunic": {
+    "id": 439,
+    "slot": "armors"
+  },
+  "Ring Mail": {
+    "id": 440,
+    "slot": "armors"
+  },
+  "Robe over Mail Hauberk": {
+    "id": 441,
+    "slot": "armors"
+  },
+  "Robe over Mail Shirt": {
+    "id": 442,
+    "slot": "armors"
+  },
+  "Rough Brigandine": {
+    "id": 443,
+    "slot": "armors"
+  },
+  "Rough Fur Armor": {
+    "id": 444,
+    "slot": "armors"
+  },
+  "Rough Fur over Mail": {
+    "id": 445,
+    "slot": "armors"
+  },
+  "Rough Scale Mail": {
+    "id": 446,
+    "slot": "armors"
+  },
+  "Roughcloth Shortcoat": {
+    "id": 447,
+    "slot": "armors"
+  },
+  "Rugged Gambeson": {
+    "id": 448,
+    "slot": "armors"
+  },
+  "Rugged Scale Armor": {
+    "id": 449,
+    "slot": "armors"
+  },
+  "Sackcloth Tunic": {
+    "id": 450,
+    "slot": "armors"
+  },
+  "Scale Warlord Armor": {
+    "id": 451,
+    "slot": "armors"
+  },
+  "Scholar Robe": {
+    "id": 452,
+    "slot": "armors"
+  },
+  "Short Gambeson over Tunic": {
+    "id": 453,
+    "slot": "armors"
+  },
+  "Short Padded Robe": {
+    "id": 454,
+    "slot": "armors"
+  },
+  "Short Tunic": {
+    "id": 455,
+    "slot": "armors"
+  },
+  "Silk Kaftan": {
+    "id": 456,
+    "slot": "armors"
+  },
+  "Silken Noble Dress": {
+    "id": 457,
+    "slot": "armors"
+  },
+  "Simple Cloth Tunic": {
+    "id": 458,
+    "slot": "armors"
+  },
+  "Simple Kaftan": {
+    "id": 459,
+    "slot": "armors"
+  },
+  "Simple Peasant Robe": {
+    "id": 460,
+    "slot": "armors"
+  },
+  "Sleeved Heavy Tunic": {
+    "id": 461,
+    "slot": "armors"
+  },
+  "Sleeveless Enveloped Padded Garments": {
+    "id": 462,
+    "slot": "armors"
+  },
+  "Sleeveless Fur Coat": {
+    "id": 463,
+    "slot": "armors"
+  },
+  "Sleeveless Padded Coat": {
+    "id": 464,
+    "slot": "armors"
+  },
+  "Sleeveless Padded Short Coat": {
+    "id": 465,
+    "slot": "armors"
+  },
+  "Sleeveless Studded Fur Armor": {
+    "id": 466,
+    "slot": "armors"
+  },
+  "Sloven Leather": {
+    "id": 467,
+    "slot": "armors"
+  },
+  "Southern Chain Mail": {
+    "id": 468,
+    "slot": "armors"
+  },
+  "Southern Decorated Chain Mail": {
+    "id": 469,
+    "slot": "armors"
+  },
+  "Southern Mail Shirt with Brass Plates": {
+    "id": 470,
+    "slot": "armors"
+  },
+  "Southern Reinforced Mail Armor": {
+    "id": 471,
+    "slot": "armors"
+  },
+  "Southern Reinforced Mail Vest": {
+    "id": 472,
+    "slot": "armors"
+  },
+  "Southern Reinforced Short Mail Armor": {
+    "id": 473,
+    "slot": "armors"
+  },
+  "Southern Reinforced Sleeveless Mail Armor": {
+    "id": 474,
+    "slot": "armors"
+  },
+  "Southern Sleeveless Mail Shirt with Brass Plates": {
+    "id": 475,
+    "slot": "armors"
+  },
+  "Steppe Robe": {
+    "id": 476,
+    "slot": "armors"
+  },
+  "Stitched Cured Leather Coat": {
+    "id": 477,
+    "slot": "armors"
+  },
+  "Stitched Leather over Mail": {
+    "id": 478,
+    "slot": "armors"
+  },
+  "Stitched Leather Vest": {
+    "id": 479,
+    "slot": "armors"
+  },
+  "Striped Coat": {
+    "id": 480,
+    "slot": "armors"
+  },
+  "Studded Fur Armor": {
+    "id": 481,
+    "slot": "armors"
+  },
+  "Studded Leather Armor": {
+    "id": 482,
+    "slot": "armors"
+  },
+  "Studded Leather Coat": {
+    "id": 483,
+    "slot": "armors"
+  },
+  "Studded Leather over Aketon": {
+    "id": 484,
+    "slot": "armors"
+  },
+  "Studded Leather Waistcoat": {
+    "id": 485,
+    "slot": "armors"
+  },
+  "Tailored Dress": {
+    "id": 486,
+    "slot": "armors"
+  },
+  "Tartan Dress": {
+    "id": 487,
+    "slot": "armors"
+  },
+  "Tartan Long Dress": {
+    "id": 488,
+    "slot": "armors"
+  },
+  "Tartan Toga": {
+    "id": 489,
+    "slot": "armors"
+  },
+  "Tartan Tunic": {
+    "id": 490,
+    "slot": "armors"
+  },
+  "Tassled Robes": {
+    "id": 491,
+    "slot": "armors"
+  },
+  "Tattered Rags": {
+    "id": 492,
+    "slot": "armors"
+  },
+  "Thawb": {
+    "id": 493,
+    "slot": "armors"
+  },
+  "Thick Brigandine Vest": {
+    "id": 494,
+    "slot": "armors"
+  },
+  "Thick Sleeved Robe": {
+    "id": 495,
+    "slot": "armors"
+  },
+  "Tied Cloth Tunic": {
+    "id": 496,
+    "slot": "armors"
+  },
+  "Toga": {
+    "id": 497,
+    "slot": "armors"
+  },
+  "Torn Padded Garments": {
+    "id": 498,
+    "slot": "armors"
+  },
+  "Torn Robe": {
+    "id": 499,
+    "slot": "armors"
+  },
+  "Townsman Luxury Coat": {
+    "id": 500,
+    "slot": "armors"
+  },
+  "Tunic with Leather Vest": {
+    "id": 501,
+    "slot": "armors"
+  },
+  "Tunic with Rolled Cloth": {
+    "id": 502,
+    "slot": "armors"
+  },
+  "Tunic with Shoulder Pads": {
+    "id": 503,
+    "slot": "armors"
+  },
+  "Varyag Tunic": {
+    "id": 504,
+    "slot": "armors"
+  },
+  "Villager Leather Tunic": {
+    "id": 505,
+    "slot": "armors"
+  },
+  "Villager Short Dress": {
+    "id": 506,
+    "slot": "armors"
+  },
+  "Villager Thick Dress": {
+    "id": 507,
+    "slot": "armors"
+  },
+  "White Tabard over Mail Hauberk": {
+    "id": 508,
+    "slot": "armors"
+  },
+  "Wildling Armor": {
+    "id": 509,
+    "slot": "armors"
+  },
+  "Woodland Cloth Armor": {
+    "id": 510,
+    "slot": "armors"
+  },
+  "Woodland Commoner Dress": {
+    "id": 511,
+    "slot": "armors"
+  },
+  "Woodland Garments": {
+    "id": 512,
+    "slot": "armors"
+  },
+  "Woven Leather Vest": {
+    "id": 513,
+    "slot": "armors"
+  },
+  "Austere Crown": {
+    "id": 514,
+    "slot": "armors"
+  },
+  "Bandit Leather Hood": {
+    "id": 515,
+    "slot": "armors"
+  },
+  "Battle Crown": {
+    "id": 516,
+    "slot": "armors"
+  },
+  "Bear Head": {
+    "id": 517,
+    "slot": "armors"
+  },
+  "Brass Southern Closed Helmet": {
+    "id": 518,
+    "slot": "armors"
+  },
+  "Brass Southern Closed Helmet with Turban": {
+    "id": 519,
+    "slot": "armors"
+  },
+  "Brass Southern Helmet": {
+    "id": 520,
+    "slot": "armors"
+  },
+  "Brass Southern Helmet with Leather Flaps": {
+    "id": 521,
+    "slot": "armors"
+  },
+  "Brass Southern Helmet with Turban": {
+    "id": 522,
+    "slot": "armors"
+  },
+  "Brass Turbaned Helmet with Leather Flaps": {
+    "id": 523,
+    "slot": "armors"
+  },
+  "Bronze Cap with Cheek Guards": {
+    "id": 524,
+    "slot": "armors"
+  },
+  "Bronze Nasalhelm over Mail": {
+    "id": 525,
+    "slot": "armors"
+  },
+  "Cap with Fur Coif": {
+    "id": 526,
+    "slot": "armors"
+  },
+  "Cap with Neck Flap": {
+    "id": 527,
+    "slot": "armors"
+  },
+  "Cervelliere over Arming Coif": {
+    "id": 528,
+    "slot": "armors"
+  },
+  "Cervelliere over Cloth Headwrap": {
+    "id": 529,
+    "slot": "armors"
+  },
+  "Cervelliere over Laced Coif": {
+    "id": 530,
+    "slot": "armors"
+  },
+  "Cervelliere over Padded Cap": {
+    "id": 531,
+    "slot": "armors"
+  },
+  "Closed Decorated Goggled Helmet": {
+    "id": 532,
+    "slot": "armors"
+  },
+  "Closed Head Scarf": {
+    "id": 533,
+    "slot": "armors"
+  },
+  "Closed Huscarl Helmet": {
+    "id": 534,
+    "slot": "armors"
+  },
+  "Closed Knight Helmet": {
+    "id": 535,
+    "slot": "armors"
+  },
+  "Closed Mail Goggled Helmet": {
+    "id": 536,
+    "slot": "armors"
+  },
+  "Closed Steel Cap": {
+    "id": 537,
+    "slot": "armors"
+  },
+  "Closed Warlord Helmet": {
+    "id": 538,
+    "slot": "armors"
+  },
+  "Cloth Coif": {
+    "id": 539,
+    "slot": "armors"
+  },
+  "Cloth Headwrap": {
+    "id": 540,
+    "slot": "armors"
+  },
+  "Cloth Hood": {
+    "id": 541,
+    "slot": "armors"
+  },
+  "Colored Hijab": {
+    "id": 542,
+    "slot": "armors"
+  },
+  "Colored Keffiyeh": {
+    "id": 543,
+    "slot": "armors"
+  },
+  "Colored Turban": {
+    "id": 544,
+    "slot": "armors"
+  },
+  "Crowned Helmet": {
+    "id": 545,
+    "slot": "armors"
+  },
+  "Crowned Plate Helmet": {
+    "id": 546,
+    "slot": "armors"
+  },
+  "Decorated Bronze Helmet with Cheek Guards": {
+    "id": 547,
+    "slot": "armors"
+  },
+  "Decorated Nomad Cap": {
+    "id": 548,
+    "slot": "armors"
+  },
+  "Desert Headdress": {
+    "id": 549,
+    "slot": "armors"
+  },
+  "Desert Headscarf": {
+    "id": 550,
+    "slot": "armors"
+  },
+  "Emir Helmet": {
+    "id": 551,
+    "slot": "armors"
+  },
+  "Feathered Spangenhelm": {
+    "id": 552,
+    "slot": "armors"
+  },
+  "Feathered Spangenhelm over Coif": {
+    "id": 553,
+    "slot": "armors"
+  },
+  "Feathered Spangenhelm over Leather": {
+    "id": 554,
+    "slot": "armors"
+  },
+  "Feathered Spangenhelm over Mail": {
+    "id": 555,
+    "slot": "armors"
+  },
+  "Female Headwrap": {
+    "id": 556,
+    "slot": "armors"
+  },
+  "Female Rural Headwrap": {
+    "id": 557,
+    "slot": "armors"
+  },
+  "Female Rural Scarf": {
+    "id": 558,
+    "slot": "armors"
+  },
+  "Fringed Bronze Cap with Cheek Guards": {
+    "id": 559,
+    "slot": "armors"
+  },
+  "Fringed Decorated Bronze Cap with Cheek Guards": {
+    "id": 560,
+    "slot": "armors"
+  },
+  "Fringed Decorated Steel Cap with Cheek Guards": {
+    "id": 561,
+    "slot": "armors"
+  },
+  "Fringed Steel Cap with Cheek Guards": {
+    "id": 562,
+    "slot": "armors"
+  },
+  "Full Helm over Arming Coif": {
+    "id": 563,
+    "slot": "armors"
+  },
+  "Full Helm over Cloth Headwrap": {
+    "id": 564,
+    "slot": "armors"
+  },
+  "Full Helm over Laced Coif": {
+    "id": 565,
+    "slot": "armors"
+  },
+  "Full Helm over Mail Coif": {
+    "id": 566,
+    "slot": "armors"
+  },
+  "Full Helm over Padded Cap": {
+    "id": 567,
+    "slot": "armors"
+  },
+  "Full Helm over Padded Cloth": {
+    "id": 568,
+    "slot": "armors"
+  },
+  "Fur Cap": {
+    "id": 569,
+    "slot": "armors"
+  },
+  "Fur Cap with Ear Flaps": {
+    "id": 570,
+    "slot": "armors"
+  },
+  "Fur Rimmed Cap": {
+    "id": 571,
+    "slot": "armors"
+  },
+  "Furred Noble Lancer Helmet": {
+    "id": 572,
+    "slot": "armors"
+  },
+  "Goggled Cataphract Helmet": {
+    "id": 573,
+    "slot": "armors"
+  },
+  "Goggled Helmet over Leather": {
+    "id": 574,
+    "slot": "armors"
+  },
+  "Goggled Helmet over Mail": {
+    "id": 575,
+    "slot": "armors"
+  },
+  "Golden Laurel Crown": {
+    "id": 576,
+    "slot": "armors"
+  },
+  "Head Scarf": {
+    "id": 577,
+    "slot": "armors"
+  },
+  "Headscarf with Fez": {
+    "id": 578,
+    "slot": "armors"
+  },
+  "Heavy Cavalry Helmet": {
+    "id": 579,
+    "slot": "armors"
+  },
+  "Heavy Lancer Helmet": {
+    "id": 580,
+    "slot": "armors"
+  },
+  "Heavy Nasalhelm over Laced Cloth": {
+    "id": 581,
+    "slot": "armors"
+  },
+  "Heavy Nasalhelm over Leather": {
+    "id": 582,
+    "slot": "armors"
+  },
+  "Heavy Nasalhelm over Mail": {
+    "id": 583,
+    "slot": "armors"
+  },
+  "Heavy Nasalhelm over Padding": {
+    "id": 584,
+    "slot": "armors"
+  },
+  "Helmet with Faceguard": {
+    "id": 585,
+    "slot": "armors"
+  },
+  "Helmet with Open Turban": {
+    "id": 586,
+    "slot": "armors"
+  },
+  "Helmet with Turban and Coif": {
+    "id": 587,
+    "slot": "armors"
+  },
+  "Hide Cap": {
+    "id": 588,
+    "slot": "armors"
+  },
+  "Highland Ceremonial Crown": {
+    "id": 589,
+    "slot": "armors"
+  },
+  "Highland Crowned Helmet": {
+    "id": 590,
+    "slot": "armors"
+  },
+  "Hijab": {
+    "id": 591,
+    "slot": "armors"
+  },
+  "Imperial Jeweled Band": {
+    "id": 592,
+    "slot": "armors"
+  },
+  "Imperial Jeweled Helmet": {
+    "id": 594,
+    "slot": "armors"
+  },
+  "Imperial Plumed Helmet": {
+    "id": 595,
+    "slot": "armors"
+  },
+  "Infantry Steel Helmet": {
+    "id": 596,
+    "slot": "armors"
+  },
+  "Iron Legionary Helm over Cloth": {
+    "id": 597,
+    "slot": "armors"
+  },
+  "Iron Nasalhelm over Coif": {
+    "id": 598,
+    "slot": "armors"
+  },
+  "Iron Nasalhelm over Leather": {
+    "id": 599,
+    "slot": "armors"
+  },
+  "Iron Nasalhelm over Mail": {
+    "id": 600,
+    "slot": "armors"
+  },
+  "Iron Nasalhelm over Padding": {
+    "id": 601,
+    "slot": "armors"
+  },
+  "Iron Roundkettle over Leather": {
+    "id": 602,
+    "slot": "armors"
+  },
+  "Iron Roundkettle over Mail": {
+    "id": 603,
+    "slot": "armors"
+  },
+  "Iron Spiked Kettle over Mail": {
+    "id": 604,
+    "slot": "armors"
+  },
+  "Jeweled Crown": {
+    "id": 605,
+    "slot": "armors"
+  },
+  "Jeweled Fur Rimmed Helmet": {
+    "id": 606,
+    "slot": "armors"
+  },
+  "Jeweled Plumed Battle Crown": {
+    "id": 607,
+    "slot": "armors"
+  },
+  "Keffiyeh with Brown Band": {
+    "id": 608,
+    "slot": "armors"
+  },
+  "Keffiyeh with Silken Band": {
+    "id": 609,
+    "slot": "armors"
+  },
+  "Kettle Hat over Mail Coif": {
+    "id": 610,
+    "slot": "armors"
+  },
+  "Kettle Hat over Padded Cloth": {
+    "id": 611,
+    "slot": "armors"
+  },
+  "Kettle Hat over Padded Coif": {
+    "id": 612,
+    "slot": "armors"
+  },
+  "Kettle Helmet over Arming Coif": {
+    "id": 613,
+    "slot": "armors"
+  },
+  "Kettle Helmet over Laced Coif": {
+    "id": 614,
+    "slot": "armors"
+  },
+  "Kettle Helmet over Mail": {
+    "id": 615,
+    "slot": "armors"
+  },
+  "Kettle Helmet over Padded Cap": {
+    "id": 616,
+    "slot": "armors"
+  },
+  "Kettle Helmet over Padded Cloth": {
+    "id": 617,
+    "slot": "armors"
+  },
+  "Kettle Helmet over Padded Coif": {
+    "id": 618,
+    "slot": "armors"
+  },
+  "Kettle Helmet with Leather": {
+    "id": 619,
+    "slot": "armors"
+  },
+  "Kettle Helmet with Mail": {
+    "id": 620,
+    "slot": "armors"
+  },
+  "Kettle over Laced Coif": {
+    "id": 621,
+    "slot": "armors"
+  },
+  "Kettle over Mail Coif": {
+    "id": 622,
+    "slot": "armors"
+  },
+  "Kettle over Padded Coif": {
+    "id": 623,
+    "slot": "armors"
+  },
+  "Khuzait Battle Crown": {
+    "id": 624,
+    "slot": "armors"
+  },
+  "Knight Helmet with Bronze Faceguard": {
+    "id": 625,
+    "slot": "armors"
+  },
+  "Laced Cloth Coif": {
+    "id": 626,
+    "slot": "armors"
+  },
+  "Laced Coif": {
+    "id": 627,
+    "slot": "armors"
+  },
+  "Leather Cap": {
+    "id": 628,
+    "slot": "armors"
+  },
+  "Leather Coif": {
+    "id": 629,
+    "slot": "armors"
+  },
+  "Leather Studded Helm": {
+    "id": 631,
+    "slot": "armors"
+  },
+  "Leather Studded Helm over Headcloth": {
+    "id": 632,
+    "slot": "armors"
+  },
+  "Leather Studded Helm over Roughscale": {
+    "id": 633,
+    "slot": "armors"
+  },
+  "Leather Studded Helm over Thinhide": {
+    "id": 634,
+    "slot": "armors"
+  },
+  "Legionary Helm": {
+    "id": 635,
+    "slot": "armors"
+  },
+  "Light Roundkettle over Leather": {
+    "id": 636,
+    "slot": "armors"
+  },
+  "Lightweight Padded Coif": {
+    "id": 637,
+    "slot": "armors"
+  },
+  "Loose Head Scarf": {
+    "id": 638,
+    "slot": "armors"
+  },
+  "Lord Helmet with Metal Strips": {
+    "id": 639,
+    "slot": "armors"
+  },
+  "Lordly Steel Cap": {
+    "id": 640,
+    "slot": "armors"
+  },
+  "Luxurious Head Scarf": {
+    "id": 641,
+    "slot": "armors"
+  },
+  "Luxury Turban Over Helmet": {
+    "id": 642,
+    "slot": "armors"
+  },
+  "Mail Coif": {
+    "id": 643,
+    "slot": "armors"
+  },
+  "Mail Coif with Helmet Padding": {
+    "id": 644,
+    "slot": "armors"
+  },
+  "Mailed Nasal Helmet": {
+    "id": 645,
+    "slot": "armors"
+  },
+  "Mamluke Helmet with Mail": {
+    "id": 646,
+    "slot": "armors"
+  },
+  "Merchant Hat": {
+    "id": 647,
+    "slot": "armors"
+  },
+  "Nasal Cervelliere over Laced Coif": {
+    "id": 648,
+    "slot": "armors"
+  },
+  "Nasal Cervelliere over Mail Coif": {
+    "id": 649,
+    "slot": "armors"
+  },
+  "Nasal Cervelliere over Padded Cap": {
+    "id": 650,
+    "slot": "armors"
+  },
+  "Nasal Cervelliere over Padded Coif": {
+    "id": 651,
+    "slot": "armors"
+  },
+  "Nasal Helmet over Cloth Headwrap": {
+    "id": 652,
+    "slot": "armors"
+  },
+  "Nasal Helmet over Laced Coif": {
+    "id": 653,
+    "slot": "armors"
+  },
+  "Nasal Helmet over Mail": {
+    "id": 654,
+    "slot": "armors"
+  },
+  "Nasal Helmet over Mail Coif": {
+    "id": 655,
+    "slot": "armors"
+  },
+  "Nasal Helmet over Padded Cloth": {
+    "id": 656,
+    "slot": "armors"
+  },
+  "Nasal Helmet over Padded Coif": {
+    "id": 657,
+    "slot": "armors"
+  },
+  "Nasal Helmet with Leather": {
+    "id": 658,
+    "slot": "armors"
+  },
+  "Nasal Helmet with Mail": {
+    "id": 659,
+    "slot": "armors"
+  },
+  "Nasalhelm over Leather": {
+    "id": 660,
+    "slot": "armors"
+  },
+  "Nasalhelm over Mail": {
+    "id": 661,
+    "slot": "armors"
+  },
+  "Noble Crowned Lord Helmet": {
+    "id": 662,
+    "slot": "armors"
+  },
+  "Noble Lancer Helmet": {
+    "id": 663,
+    "slot": "armors"
+  },
+  "Noble Steel Cap": {
+    "id": 664,
+    "slot": "armors"
+  },
+  "Nomad Cap": {
+    "id": 665,
+    "slot": "armors"
+  },
+  "Nomad Fur Cap": {
+    "id": 666,
+    "slot": "armors"
+  },
+  "Nomad Helmet": {
+    "id": 667,
+    "slot": "armors"
+  },
+  "Nomad Padded Hood": {
+    "id": 668,
+    "slot": "armors"
+  },
+  "Northern Closed Warlord Helmet": {
+    "id": 669,
+    "slot": "armors"
+  },
+  "Open Head Scarf": {
+    "id": 670,
+    "slot": "armors"
+  },
+  "Open Mail Coif": {
+    "id": 671,
+    "slot": "armors"
+  },
+  "Open Padded Coif": {
+    "id": 673,
+    "slot": "armors"
+  },
+  "Ornate Desert Battle Crown": {
+    "id": 674,
+    "slot": "armors"
+  },
+  "Ornate Steel Cap": {
+    "id": 675,
+    "slot": "armors"
+  },
+  "Padded Cap": {
+    "id": 676,
+    "slot": "armors"
+  },
+  "Padded Coif": {
+    "id": 677,
+    "slot": "armors"
+  },
+  "Padded Half Coif": {
+    "id": 678,
+    "slot": "armors"
+  },
+  "Padded Leather Cape": {
+    "id": 679,
+    "slot": "armors"
+  },
+  "Palatine Guard Helmet": {
+    "id": 680,
+    "slot": "armors"
+  },
+  "Peaked Fur Hood": {
+    "id": 681,
+    "slot": "armors"
+  },
+  "Peaked Helmet over Laced Coif": {
+    "id": 682,
+    "slot": "armors"
+  },
+  "Peaked Helmet over Mail": {
+    "id": 683,
+    "slot": "armors"
+  },
+  "Peaked Helmet over Mail Coif": {
+    "id": 684,
+    "slot": "armors"
+  },
+  "Peaked Helmet over Padded Cloth": {
+    "id": 685,
+    "slot": "armors"
+  },
+  "Peasant Head Wrapping": {
+    "id": 686,
+    "slot": "armors"
+  },
+  "Pilgrim Hood": {
+    "id": 687,
+    "slot": "armors"
+  },
+  "Plated Helmet": {
+    "id": 688,
+    "slot": "armors"
+  },
+  "Plated Helmet with Sideguards": {
+    "id": 689,
+    "slot": "armors"
+  },
+  "Plated Warlord Helmet": {
+    "id": 690,
+    "slot": "armors"
+  },
+  "Plumed Decorated Mailed Nasal Helmet": {
+    "id": 691,
+    "slot": "armors"
+  },
+  "Plumed Fur Lined Helmet": {
+    "id": 692,
+    "slot": "armors"
+  },
+  "Plumed Helmet": {
+    "id": 693,
+    "slot": "armors"
+  },
+  "Plumed Lamellar Helmet": {
+    "id": 694,
+    "slot": "armors"
+  },
+  "Plumed Noble Lancer Helmet with Neckguard": {
+    "id": 695,
+    "slot": "armors"
+  },
+  "Plumed Nomad Helmet": {
+    "id": 696,
+    "slot": "armors"
+  },
+  "Pointed Skullcap over Cloth Headwrap": {
+    "id": 697,
+    "slot": "armors"
+  },
+  "Pointed Skullcap over Gambeson": {
+    "id": 698,
+    "slot": "armors"
+  },
+  "Pointed Skullcap over Laced Coif": {
+    "id": 699,
+    "slot": "armors"
+  },
+  "Pointed Skullcap over Mail Coif": {
+    "id": 700,
+    "slot": "armors"
+  },
+  "Pointed Skullcap with Mail": {
+    "id": 701,
+    "slot": "armors"
+  },
+  "Reinforced Closed Goggled Helmet": {
+    "id": 702,
+    "slot": "armors"
+  },
+  "Ridged Decorated Bronze Cap with Cheek Guards": {
+    "id": 703,
+    "slot": "armors"
+  },
+  "Ridged Decorated Steel Cap with Cheek Guards": {
+    "id": 704,
+    "slot": "armors"
+  },
+  "Ridged Helm": {
+    "id": 705,
+    "slot": "armors"
+  },
+  "Ridged Warlord Helmet": {
+    "id": 706,
+    "slot": "armors"
+  },
+  "Rough Padded Cap": {
+    "id": 707,
+    "slot": "armors"
+  },
+  "Roughhide Cap": {
+    "id": 708,
+    "slot": "armors"
+  },
+  "Roughscale Helmet": {
+    "id": 709,
+    "slot": "armors"
+  },
+  "Roughspun Keffiyeh": {
+    "id": 710,
+    "slot": "armors"
+  },
+  "Roundkettle Helmet": {
+    "id": 711,
+    "slot": "armors"
+  },
+  "Roundkettle over Cloth": {
+    "id": 712,
+    "slot": "armors"
+  },
+  "Roundkettle over Laced Cloth": {
+    "id": 713,
+    "slot": "armors"
+  },
+  "Roundkettle over Leather": {
+    "id": 714,
+    "slot": "armors"
+  },
+  "Roundkettle over Mail": {
+    "id": 715,
+    "slot": "armors"
+  },
+  "Roundkettle over Padding": {
+    "id": 717,
+    "slot": "armors"
+  },
+  "Royal Cataphract Helmet": {
+    "id": 718,
+    "slot": "armors"
+  },
+  "Rural Head Wrap": {
+    "id": 719,
+    "slot": "armors"
+  },
+  "Rural Headdress": {
+    "id": 720,
+    "slot": "armors"
+  },
+  "Sea Raider Goggled Helmet": {
+    "id": 721,
+    "slot": "armors"
+  },
+  "Segmented Cervelliere over Laced Coif": {
+    "id": 722,
+    "slot": "armors"
+  },
+  "Segmented Cervelliere over Mail": {
+    "id": 723,
+    "slot": "armors"
+  },
+  "Segmented Cervelliere over Mail Coif": {
+    "id": 724,
+    "slot": "armors"
+  },
+  "Segmented Cervelliere over Padded Cloth": {
+    "id": 725,
+    "slot": "armors"
+  },
+  "Segmented Skullcap over Laced Coif": {
+    "id": 726,
+    "slot": "armors"
+  },
+  "Segmented Skullcap over Mail Coif": {
+    "id": 727,
+    "slot": "armors"
+  },
+  "Segmented Skullcap over Padded Cloth": {
+    "id": 728,
+    "slot": "armors"
+  },
+  "Segmented Skullcap over Padded Coif": {
+    "id": 729,
+    "slot": "armors"
+  },
+  "Spangenhelm over Leather": {
+    "id": 730,
+    "slot": "armors"
+  },
+  "Spangenhelm over Mail": {
+    "id": 731,
+    "slot": "armors"
+  },
+  "Spangenhelm with Leather": {
+    "id": 732,
+    "slot": "armors"
+  },
+  "Spangenhelm with Padded Cloth": {
+    "id": 733,
+    "slot": "armors"
+  },
+  "Spiked Helmet": {
+    "id": 734,
+    "slot": "armors"
+  },
+  "Spiked Helmet with Closed Turban": {
+    "id": 735,
+    "slot": "armors"
+  },
+  "Spiked Helmet with Facemask": {
+    "id": 736,
+    "slot": "armors"
+  },
+  "Spiked Helmet with Open Turban": {
+    "id": 737,
+    "slot": "armors"
+  },
+  "Spiked Kettle over Mail": {
+    "id": 738,
+    "slot": "armors"
+  },
+  "Spiked Kettle over Padding": {
+    "id": 739,
+    "slot": "armors"
+  },
+  "Steel Cap": {
+    "id": 740,
+    "slot": "armors"
+  },
+  "Steel Cap with Cheek Guards": {
+    "id": 741,
+    "slot": "armors"
+  },
+  "Steel Cap with Nose Guard": {
+    "id": 742,
+    "slot": "armors"
+  },
+  "Steel Nasal Cap": {
+    "id": 743,
+    "slot": "armors"
+  },
+  "Tall Helmet": {
+    "id": 744,
+    "slot": "armors"
+  },
+  "Thick Fur Hood": {
+    "id": 745,
+    "slot": "armors"
+  },
+  "Thinhide Coif": {
+    "id": 746,
+    "slot": "armors"
+  },
+  "Tied Head Wrapping": {
+    "id": 747,
+    "slot": "armors"
+  },
+  "Tight Head Scarf": {
+    "id": 748,
+    "slot": "armors"
+  },
+  "Tribal Turban": {
+    "id": 749,
+    "slot": "armors"
+  },
+  "Turban": {
+    "id": 750,
+    "slot": "armors"
+  },
+  "Two Pronged Bronze Crown": {
+    "id": 751,
+    "slot": "armors"
+  },
+  "Upturned Fur Cap": {
+    "id": 752,
+    "slot": "armors"
+  },
+  "Visored Helmet over Laced Coif": {
+    "id": 753,
+    "slot": "armors"
+  },
+  "Visored Helmet over Mail Coif": {
+    "id": 754,
+    "slot": "armors"
+  },
+  "Visored Helmet over Padded Cloth": {
+    "id": 755,
+    "slot": "armors"
+  },
+  "Visored Helmet over Padded Coif": {
+    "id": 756,
+    "slot": "armors"
+  },
+  "Warlord Helmet": {
+    "id": 757,
+    "slot": "armors"
+  },
+  "Warlord Helmet over Full Mail": {
+    "id": 758,
+    "slot": "armors"
+  },
+  "Warlord Helmet over Mail": {
+    "id": 759,
+    "slot": "armors"
+  },
+  "Warlord Helmet with Cheek Guards": {
+    "id": 760,
+    "slot": "armors"
+  },
+  "Warlord Helmet with Feathers": {
+    "id": 761,
+    "slot": "armors"
+  },
+  "Warlord Helmet with Nose Guard": {
+    "id": 762,
+    "slot": "armors"
+  },
+  "Wolf Head": {
+    "id": 763,
+    "slot": "armors"
+  },
+  "Woven Turban": {
+    "id": 764,
+    "slot": "armors"
+  },
+  "Wrapped Cap": {
+    "id": 765,
+    "slot": "armors"
+  },
+  "Wrapped Headcloth": {
+    "id": 766,
+    "slot": "armors"
+  },
+  "Wrapped Helmet with Mail Coif": {
+    "id": 767,
+    "slot": "armors"
+  },
+  "Wrapped Leather Cap": {
+    "id": 768,
+    "slot": "armors"
+  },
+  "Armored Bearskin": {
+    "id": 769,
+    "slot": "armors"
+  },
+  "Bear Pelt": {
+    "id": 770,
+    "slot": "armors"
+  },
+  "Bolted Leather Strips": {
+    "id": 771,
+    "slot": "armors"
+  },
+  "Bronze Lamellar Shoulder Guards": {
+    "id": 772,
+    "slot": "armors"
+  },
+  "Bronze Lamellar Shoulder Pieces": {
+    "id": 773,
+    "slot": "armors"
+  },
+  "Bronze Pauldrons": {
+    "id": 774,
+    "slot": "armors"
+  },
+  "Bronze Pauldrons with Neck Guard": {
+    "id": 775,
+    "slot": "armors"
+  },
+  "Bronze Plate Pauldrons": {
+    "id": 776,
+    "slot": "armors"
+  },
+  "Bronze Scale Pauldrons": {
+    "id": 777,
+    "slot": "armors"
+  },
+  "Bronze Scale Shoulder Guards": {
+    "id": 779,
+    "slot": "armors"
+  },
+  "Caped Leather Harness": {
+    "id": 781,
+    "slot": "armors"
+  },
+  "Chained Fur Cloak": {
+    "id": 782,
+    "slot": "armors"
+  },
+  "Cotton Hood": {
+    "id": 783,
+    "slot": "armors"
+  },
+  "Cured Leather Pauldrons": {
+    "id": 784,
+    "slot": "armors"
+  },
+  "Cured Leather Shoulder Pieces": {
+    "id": 785,
+    "slot": "armors"
+  },
+  "Cured Studded Leather Shoulders": {
+    "id": 786,
+    "slot": "armors"
+  },
+  "Decorated Bronze Scale Pauldrons": {
+    "id": 787,
+    "slot": "armors"
+  },
+  "Decorated Lamellar Leather Shoulder Guards": {
+    "id": 788,
+    "slot": "armors"
+  },
+  "Decorated Leather Harness": {
+    "id": 789,
+    "slot": "armors"
+  },
+  "Decorated Leather Harness over Mail": {
+    "id": 790,
+    "slot": "armors"
+  },
+  "Decorated Leather Harness over Scale": {
+    "id": 791,
+    "slot": "armors"
+  },
+  "Decorated Leather Harness with Padding": {
+    "id": 792,
+    "slot": "armors"
+  },
+  "Decorated Long Sleeve Bronze Scale Pauldrons": {
+    "id": 793,
+    "slot": "armors"
+  },
+  "Decorated Scale Shoulder Guards": {
+    "id": 794,
+    "slot": "armors"
+  },
+  "Decorated Steel Lamellar Shoulder Pieces": {
+    "id": 795,
+    "slot": "armors"
+  },
+  "Fringed Cape": {
+    "id": 796,
+    "slot": "armors"
+  },
+  "Fur Cloak": {
+    "id": 797,
+    "slot": "armors"
+  },
+  "Fur Cloak With Round Plate": {
+    "id": 798,
+    "slot": "armors"
+  },
+  "Green Hood": {
+    "id": 799,
+    "slot": "armors"
+  },
+  "Heavy Cloak": {
+    "id": 800,
+    "slot": "armors"
+  },
+  "Heavy Lamellar Pauldrons": {
+    "id": 801,
+    "slot": "armors"
+  },
+  "Heavy Tartan Scarf": {
+    "id": 802,
+    "slot": "armors"
+  },
+  "Heavy Warlord Pauldrons": {
+    "id": 803,
+    "slot": "armors"
+  },
+  "Hood": {
+    "id": 804,
+    "slot": "armors"
+  },
+  "Iron Plate Pauldrons": {
+    "id": 805,
+    "slot": "armors"
+  },
+  "Lamellar Pauldrons": {
+    "id": 806,
+    "slot": "armors"
+  },
+  "Lamellar Shoulder Guards": {
+    "id": 808,
+    "slot": "armors"
+  },
+  "Lamellar Shoulder Pieces": {
+    "id": 809,
+    "slot": "armors"
+  },
+  "Large Fur Cloak With Round Plate": {
+    "id": 810,
+    "slot": "armors"
+  },
+  "Leather Lamellar Shoulder Guards": {
+    "id": 811,
+    "slot": "armors"
+  },
+  "Leather Shoulder Guard": {
+    "id": 812,
+    "slot": "armors"
+  },
+  "Legionary Cape": {
+    "id": 813,
+    "slot": "armors"
+  },
+  "Legionary Padded Straps": {
+    "id": 814,
+    "slot": "armors"
+  },
+  "Legionary Reinforced Studded Harness": {
+    "id": 815,
+    "slot": "armors"
+  },
+  "Legionary Studded Harness": {
+    "id": 816,
+    "slot": "armors"
+  },
+  "Leopard Pelt": {
+    "id": 817,
+    "slot": "armors"
+  },
+  "Long Sleeved Bronze Scale Shoulder Guards": {
+    "id": 818,
+    "slot": "armors"
+  },
+  "Mail Shoulder Guards": {
+    "id": 819,
+    "slot": "armors"
+  },
+  "Mail Shoulder Pieces": {
+    "id": 820,
+    "slot": "armors"
+  },
+  "Mail Shoulder Reinforcements": {
+    "id": 821,
+    "slot": "armors"
+  },
+  "Neckguard with Bronze Plate Pauldrons": {
+    "id": 822,
+    "slot": "armors"
+  },
+  "Ornate Pauldrons": {
+    "id": 823,
+    "slot": "armors"
+  },
+  "Ornate Pauldrons with Cape": {
+    "id": 824,
+    "slot": "armors"
+  },
+  "Padded Leather Shoulders": {
+    "id": 825,
+    "slot": "armors"
+  },
+  "Pauldrons with Cape": {
+    "id": 826,
+    "slot": "armors"
+  },
+  "Reinforced Bronze Lamellar Shoulder Guards": {
+    "id": 827,
+    "slot": "armors"
+  },
+  "Reinforced Bronze Scale Shoulder Guards": {
+    "id": 828,
+    "slot": "armors"
+  },
+  "Reinforced Harness with Cape": {
+    "id": 829,
+    "slot": "armors"
+  },
+  "Reinforced Lamellar Shoulder Guards": {
+    "id": 830,
+    "slot": "armors"
+  },
+  "Reinforced Leather Pauldrons": {
+    "id": 831,
+    "slot": "armors"
+  },
+  "Reinforced Mail Shoulders": {
+    "id": 832,
+    "slot": "armors"
+  },
+  "Reinforced Ornate Pauldrons": {
+    "id": 833,
+    "slot": "armors"
+  },
+  "Reinforced Ornate Pauldrons over Scale": {
+    "id": 834,
+    "slot": "armors"
+  },
+  "Reinforced Scale Pauldrons": {
+    "id": 835,
+    "slot": "armors"
+  },
+  "Reinforced Studded Neckguard": {
+    "id": 836,
+    "slot": "armors"
+  },
+  "Reinforced Studded Shoulder Guards": {
+    "id": 837,
+    "slot": "armors"
+  },
+  "Reinforced Suede Shoulder Guards": {
+    "id": 838,
+    "slot": "armors"
+  },
+  "Ringmail Shoulder Guard": {
+    "id": 839,
+    "slot": "armors"
+  },
+  "Rough Bearskin": {
+    "id": 840,
+    "slot": "armors"
+  },
+  "Scale Pauldrons": {
+    "id": 841,
+    "slot": "armors"
+  },
+  "Scale Shoulder Guards": {
+    "id": 842,
+    "slot": "armors"
+  },
+  "Scale Shoulderguards": {
+    "id": 843,
+    "slot": "armors"
+  },
+  "Scarf": {
+    "id": 844,
+    "slot": "armors"
+  },
+  "Shawl": {
+    "id": 845,
+    "slot": "armors"
+  },
+  "Short Cloak": {
+    "id": 846,
+    "slot": "armors"
+  },
+  "Shoulder Harness": {
+    "id": 847,
+    "slot": "armors"
+  },
+  "Simple Cape": {
+    "id": 848,
+    "slot": "armors"
+  },
+  "Stitched Leather Shoulders": {
+    "id": 849,
+    "slot": "armors"
+  },
+  "Tartan Cape": {
+    "id": 850,
+    "slot": "armors"
+  },
+  "Tartan Cloak": {
+    "id": 851,
+    "slot": "armors"
+  },
+  "Tartan Shoulder Harness": {
+    "id": 852,
+    "slot": "armors"
+  },
+  "Thick Scarf": {
+    "id": 853,
+    "slot": "armors"
+  },
+  "Wolf Pelt Cape": {
+    "id": 854,
+    "slot": "armors"
+  },
+  "Woodland Cape": {
+    "id": 855,
+    "slot": "armors"
+  },
+  "Woodland Fur Cloak": {
+    "id": 856,
+    "slot": "armors"
+  },
+  "Woven Leather Shoulders": {
+    "id": 857,
+    "slot": "armors"
+  },
+  "Woven Shoulder Pad": {
+    "id": 858,
+    "slot": "armors"
+  },
+  "Armwraps": {
+    "id": 859,
+    "slot": "armors"
+  },
+  "Bronze Bracers": {
+    "id": 860,
+    "slot": "armors"
+  },
+  "Buttoned Leather Bracers": {
+    "id": 861,
+    "slot": "armors"
+  },
+  "Decorated Imperial Gauntlets": {
+    "id": 862,
+    "slot": "armors"
+  },
+  "Fian Bracers": {
+    "id": 863,
+    "slot": "armors"
+  },
+  "Fur Rimmed Leather Gloves": {
+    "id": 864,
+    "slot": "armors"
+  },
+  "Guarded Armwraps": {
+    "id": 865,
+    "slot": "armors"
+  },
+  "Guarded Padded Vambraces": {
+    "id": 866,
+    "slot": "armors"
+  },
+  "Heavy Mail Mittens": {
+    "id": 867,
+    "slot": "armors"
+  },
+  "Khan's Plated Bracers": {
+    "id": 868,
+    "slot": "armors"
+  },
+  "Lamellar Plate Gauntlets": {
+    "id": 869,
+    "slot": "armors"
+  },
+  "Leather Gloves": {
+    "id": 870,
+    "slot": "armors"
+  },
+  "Leather Vambraces": {
+    "id": 871,
+    "slot": "armors"
+  },
+  "Lordly Padded Mittens": {
+    "id": 872,
+    "slot": "armors"
+  },
+  "Mail Mittens": {
+    "id": 873,
+    "slot": "armors"
+  },
+  "Padded Mittens": {
+    "id": 874,
+    "slot": "armors"
+  },
+  "Padded Vambraces": {
+    "id": 875,
+    "slot": "armors"
+  },
+  "Plate Reinforced Gloves": {
+    "id": 876,
+    "slot": "armors"
+  },
+  "Plated Leather Vambraces": {
+    "id": 877,
+    "slot": "armors"
+  },
+  "Plated Striped Vambraces": {
+    "id": 878,
+    "slot": "armors"
+  },
+  "Ragged Armwraps": {
+    "id": 879,
+    "slot": "armors"
+  },
+  "Reinforced Mail Mittens": {
+    "id": 880,
+    "slot": "armors"
+  },
+  "Reinforced Padded Mittens": {
+    "id": 881,
+    "slot": "armors"
+  },
+  "Rough Tied Bracers": {
+    "id": 882,
+    "slot": "armors"
+  },
+  "Roughtied Leather Bracers": {
+    "id": 883,
+    "slot": "armors"
+  },
+  "Scale Warlord Bracers": {
+    "id": 884,
+    "slot": "armors"
+  },
+  "Splint Vambraces": {
+    "id": 885,
+    "slot": "armors"
+  },
+  "Strapped Leather Bracers": {
+    "id": 886,
+    "slot": "armors"
+  },
+  "Studded Leather Vambraces": {
+    "id": 887,
+    "slot": "armors"
+  },
+  "Studded Vambraces": {
+    "id": 888,
+    "slot": "armors"
+  },
+  "Woven Leather Bracers": {
+    "id": 889,
+    "slot": "armors"
+  },
+  "Wrapped Armguards": {
+    "id": 890,
+    "slot": "armors"
+  },
+  "Belted Leather Boots": {
+    "id": 891,
+    "slot": "armors"
+  },
+  "Curved Boots": {
+    "id": 892,
+    "slot": "armors"
+  },
+  "Decorated Plate Boots": {
+    "id": 893,
+    "slot": "armors"
+  },
+  "Fine Town Boots": {
+    "id": 894,
+    "slot": "armors"
+  },
+  "Folded Leather Boots": {
+    "id": 895,
+    "slot": "armors"
+  },
+  "Folded Town Boots": {
+    "id": 896,
+    "slot": "armors"
+  },
+  "Forester Boots": {
+    "id": 897,
+    "slot": "armors"
+  },
+  "Fur Boots": {
+    "id": 898,
+    "slot": "armors"
+  },
+  "Fur Rimmed Curved Boots": {
+    "id": 899,
+    "slot": "armors"
+  },
+  "Highborn Leather Boots": {
+    "id": 900,
+    "slot": "armors"
+  },
+  "Horseman Boots": {
+    "id": 901,
+    "slot": "armors"
+  },
+  "Huscarl Plated Boots": {
+    "id": 902,
+    "slot": "armors"
+  },
+  "Ladies Shoes": {
+    "id": 903,
+    "slot": "armors"
+  },
+  "Lamellar Plate Boots": {
+    "id": 904,
+    "slot": "armors"
+  },
+  "Leather Cavalier Boots": {
+    "id": 905,
+    "slot": "armors"
+  },
+  "Leather Riding Boots": {
+    "id": 906,
+    "slot": "armors"
+  },
+  "Leather Shoes": {
+    "id": 907,
+    "slot": "armors"
+  },
+  "Mail Cavalier Boots": {
+    "id": 908,
+    "slot": "armors"
+  },
+  "Mail Chausses": {
+    "id": 909,
+    "slot": "armors"
+  },
+  "Moccasins": {
+    "id": 910,
+    "slot": "armors"
+  },
+  "Ragged Boots": {
+    "id": 911,
+    "slot": "armors"
+  },
+  "Reinforced Suede Boots": {
+    "id": 912,
+    "slot": "armors"
+  },
+  "Rough Tied Boots": {
+    "id": 913,
+    "slot": "armors"
+  },
+  "Scaled Boots": {
+    "id": 914,
+    "slot": "armors"
+  },
+  "Simple Leather Boots": {
+    "id": 915,
+    "slot": "armors"
+  },
+  "Splint Boots": {
+    "id": 916,
+    "slot": "armors"
+  },
+  "Strapped Leather Boots": {
+    "id": 917,
+    "slot": "armors"
+  },
+  "Strapped Mail Chausses": {
+    "id": 918,
+    "slot": "armors"
+  },
+  "Strapped Shoes": {
+    "id": 919,
+    "slot": "armors"
+  },
+  "Sturdy Leather Boots": {
+    "id": 920,
+    "slot": "armors"
+  },
+  "Tied Boots": {
+    "id": 921,
+    "slot": "armors"
+  },
+  "Tied Leather Boots": {
+    "id": 922,
+    "slot": "armors"
+  },
+  "Woodland Boots": {
+    "id": 923,
+    "slot": "armors"
+  },
+  "Woodland Leg Wrappings": {
+    "id": 924,
+    "slot": "armors"
+  },
+  "Woven Leather Boots": {
+    "id": 925,
+    "slot": "armors"
+  },
+  "Wrapped Boots": {
+    "id": 926,
+    "slot": "armors"
+  },
+  "Wrapped Leather Boots": {
+    "id": 927,
+    "slot": "armors"
+  },
+  "Wrapped Shoes": {
+    "id": 928,
+    "slot": "armors"
+  },
+  "Battania Horse Harness": {
+    "id": 929,
+    "slot": "armors"
+  },
+  "Bedouin Cloth Saddle": {
+    "id": 930,
+    "slot": "armors"
+  },
+  "Bedouin Common Saddle": {
+    "id": 931,
+    "slot": "armors"
+  },
+  "Camel Saddle": {
+    "id": 932,
+    "slot": "armors"
+  },
+  "Camel Saddle with Heavy Load": {
+    "id": 933,
+    "slot": "armors"
+  },
+  "Camel Saddle with Light Load": {
+    "id": 934,
+    "slot": "armors"
+  },
+  "Cataphract Half Scale Barding": {
+    "id": 935,
+    "slot": "armors"
+  },
+  "Cataphract Scale Barding": {
+    "id": 936,
+    "slot": "armors"
+  },
+  "Celtic Frost": {
+    "id": 937,
+    "slot": "armors"
+  },
+  "Chain Mail Horse Armor": {
+    "id": 938,
+    "slot": "armors"
+  },
+  "Fortunas Choice": {
+    "id": 939,
+    "slot": "armors"
+  },
+  "Fur Saddle": {
+    "id": 940,
+    "slot": "armors"
+  },
+  "Half Mail Barding": {
+    "id": 941,
+    "slot": "armors"
+  },
+  "Half Scaled Barding": {
+    "id": 942,
+    "slot": "armors"
+  },
+  "Imperial Riding Harness": {
+    "id": 943,
+    "slot": "armors"
+  },
+  "Lamellar Half Barding": {
+    "id": 944,
+    "slot": "armors"
+  },
+  "Light Harness": {
+    "id": 945,
+    "slot": "armors"
+  },
+  "Light Saddle": {
+    "id": 946,
+    "slot": "armors"
+  },
+  "Mule Harness with Bags": {
+    "id": 947,
+    "slot": "armors"
+  },
+  "Mule Harness with Baskets": {
+    "id": 948,
+    "slot": "armors"
+  },
+  "Mule Harness with Pack": {
+    "id": 949,
+    "slot": "armors"
+  },
+  "Reinforced Chainmail Barding": {
+    "id": 950,
+    "slot": "armors"
+  },
+  "Reinforced Half Plate Barding": {
+    "id": 951,
+    "slot": "armors"
+  },
+  "Reinforced Mail Barding": {
+    "id": 952,
+    "slot": "armors"
+  },
+  "Reinforced Plate Barding": {
+    "id": 953,
+    "slot": "armors"
+  },
+  "Ring Mail Barding": {
+    "id": 954,
+    "slot": "armors"
+  },
+  "Rough Cavalry Saddle": {
+    "id": 955,
+    "slot": "armors"
+  },
+  "Rugged Bedouin Saddle": {
+    "id": 956,
+    "slot": "armors"
+  },
+  "Rugged Fur Saddle": {
+    "id": 957,
+    "slot": "armors"
+  },
+  "Rugged Saddle": {
+    "id": 958,
+    "slot": "armors"
+  },
+  "Saddle of Aeneas": {
+    "id": 959,
+    "slot": "armors"
+  },
+  "Scale Barding": {
+    "id": 960,
+    "slot": "armors"
+  },
+  "Steppe Fur Harness": {
+    "id": 961,
+    "slot": "armors"
+  },
+  "Steppe Saddle": {
+    "id": 962,
+    "slot": "armors"
+  },
+  "Striped Leather Harness": {
+    "id": 963,
+    "slot": "armors"
+  },
+  "Wooden Shield": {
+    "id": 964,
+    "slot": "shields"
+  },
+  "Hide Covered Round Shield": {
+    "id": 965,
+    "slot": "shields"
+  },
+  "Leather Covered Round Shield": {
+    "id": 966,
+    "slot": "shields"
+  },
+  "Nordic Shield": {
+    "id": 967,
+    "slot": "shields"
+  },
+  "Old Round Shield": {
+    "id": 968,
+    "slot": "shields"
+  },
+  "Plain Round Shield": {
+    "id": 969,
+    "slot": "shields"
+  },
+  "Round Shield": {
+    "id": 970,
+    "slot": "shields"
+  },
+  "Heavy Round Shield": {
+    "id": 971,
+    "slot": "shields"
+  },
+  "Huscarl's Round Shield": {
+    "id": 972,
+    "slot": "shields"
+  },
+  "Plain Cavalry Shield": {
+    "id": 973,
+    "slot": "shields"
+  },
+  "Round Cavalry Shield": {
+    "id": 974,
+    "slot": "shields"
+  },
+  "Elite Cavalry Shield": {
+    "id": 975,
+    "slot": "shields"
+  },
+  "Old Heater Shield": {
+    "id": 976,
+    "slot": "shields"
+  },
+  "Plain Heater Shield": {
+    "id": 977,
+    "slot": "shields"
+  },
+  "Heater Shield": {
+    "id": 978,
+    "slot": "shields"
+  },
+  "Heavy Heater Shield": {
+    "id": 979,
+    "slot": "shields"
+  },
+  "Horseman's Heater Shield": {
+    "id": 980,
+    "slot": "shields"
+  },
+  "Knightly Heater Shield": {
+    "id": 981,
+    "slot": "shields"
+  },
+  "Fur Covered Shield": {
+    "id": 983,
+    "slot": "shields"
+  },
+  "Old Kite Shield": {
+    "id": 984,
+    "slot": "shields"
+  },
+  "Plain Kite Shield": {
+    "id": 985,
+    "slot": "shields"
+  },
+  "Kite Shield": {
+    "id": 986,
+    "slot": "shields"
+  },
+  "Heavy Kite Shield": {
+    "id": 987,
+    "slot": "shields"
+  },
+  "Horseman's Kite Shield": {
+    "id": 988,
+    "slot": "shields"
+  },
+  "Knightly Kite Shield": {
+    "id": 989,
+    "slot": "shields"
+  },
+  "Old Board Shield": {
+    "id": 990,
+    "slot": "shields"
+  },
+  "Plain Board Shield": {
+    "id": 991,
+    "slot": "shields"
+  },
+  "Board Shield": {
+    "id": 992,
+    "slot": "shields"
+  },
+  "Heavy Board Shield": {
+    "id": 993,
+    "slot": "shields"
+  },
+  "Plate Covered Round Shield": {
+    "id": 994,
+    "slot": "shields"
+  },
+  "Steel Shield": {
+    "id": 995,
+    "slot": "shields"
+  },
+  "Asaligat": {
+    "id": 996,
+    "slot": "horses"
+  },
+  "Askarat": {
+    "id": 997,
+    "slot": "horses"
+  },
+  "Battanion Hobby": {
+    "id": 998,
+    "slot": "horses"
+  },
+  "Battanian Thoroughbred": {
+    "id": 999,
+    "slot": "horses"
+  },
+  "Camel": {
+    "id": 1000,
+    "slot": "horses"
+  },
+  "Canterion Charger": {
+    "id": 1001,
+    "slot": "horses"
+  },
+  "Charger": {
+    "id": 1002,
+    "slot": "horses"
+  },
+  "Cossian": {
+    "id": 1003,
+    "slot": "horses"
+  },
+  "Darshi Horse": {
+    "id": 1004,
+    "slot": "horses"
+  },
+  "Hunter": {
+    "id": 1005,
+    "slot": "horses"
+  },
+  "Husnphree": {
+    "id": 1006,
+    "slot": "horses"
+  },
+  "Midlands Palfrey": {
+    "id": 1007,
+    "slot": "horses"
+  },
+  "Mule": {
+    "id": 1008,
+    "slot": "horses"
+  },
+  "Nahasawi": {
+    "id": 1009,
+    "slot": "horses"
+  },
+  "Omor Trotter": {
+    "id": 1010,
+    "slot": "horses"
+  },
+  "Pack Camel": {
+    "id": 1011,
+    "slot": "horses"
+  },
+  "Palmatian": {
+    "id": 1012,
+    "slot": "horses"
+  },
+  "Revyl Chaser": {
+    "id": 1013,
+    "slot": "horses"
+  },
+  "Rouncey": {
+    "id": 1014,
+    "slot": "horses"
+  },
+  "Royal Destrier": {
+    "id": 1015,
+    "slot": "horses"
+  },
+  "Saddle Horse": {
+    "id": 1016,
+    "slot": "horses"
+  },
+  "Sturgian Native": {
+    "id": 1017,
+    "slot": "horses"
+  },
+  "Sumpter Horse": {
+    "id": 1018,
+    "slot": "horses"
+  },
+  "Tyal Horse": {
+    "id": 1019,
+    "slot": "horses"
+  },
+  "Valanby Courser": {
+    "id": 1020,
+    "slot": "horses"
+  },
+  "Wadar Hotblood": {
+    "id": 1021,
+    "slot": "horses"
+  },
+  "War Camel": {
+    "id": 1022,
+    "slot": "horses"
+  },
+  "Work Horse": {
+    "id": 1023,
+    "slot": "horses"
+  },
+  "Glintor Pony": {
+    "id": 1024,
+    "slot": "horses"
+  },
+  "4 Battle Crown": {
+    "id": 356,
+    "slot": "armors"
+  },
+  "2 Horse Harness": {
+    "id": 661,
+    "slot": "armors"
+  },
+  "3 Light Mace": {
+    "id": 116,
+    "slot": "melee_weapons"
+  },
+  "2n Mountain Blade": {
+    "id": 125,
+    "slot": "melee_weapons"
+  },
+  "Horse": {
+    "id": 1005,
+    "slot": "horses"
+  },
+  "Bow": {
+    "id": 214,
+    "slot": "ranged_weapons"
+  },
+  "Sword": {
+    "id": 16,
+    "slot": "melee_weapons"
+  },
+  "Axe": {
+    "id": 73,
+    "slot": "melee_weapons"
+  },
+  "Highland Villager Tunic": {
+    "id": 278,
+    "slot": "armors"
+  },
+  "Highland Tunic": {
+    "id": 395,
+    "slot": "armors"
+  },
+  "Highland Furred Cloak": {
+    "id": 782,
+    "slot": "armors"
+  }
+}

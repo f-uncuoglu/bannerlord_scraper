@@ -1,0 +1,1251 @@
+{
+  "troops": [
+    {
+      "name": "Aserai Recruit",
+      "tier": 1,
+      "wage": 2,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 1,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Tribesman",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 2,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Footman",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 3,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Infantry",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 4,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Veteran Infantry",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 5,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Mameluke Soldier",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 6,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Mameluke Axeman",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 7,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Mameluke Cavalry",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": true,
+      "faction": "Aserai",
+      "troop_id": 8,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Mameluke Heavy Cavalry",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": true,
+      "faction": "Aserai",
+      "troop_id": 9,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Mameluke Regular",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": true,
+      "faction": "Aserai",
+      "troop_id": 10,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Light Archer",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 11,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Archer",
+      "tier": 4,
+      "wage": 7,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 12,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Master Archer",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 13,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Youth",
+      "tier": 2,
+      "wage": 4,
+      "is_mounted": false,
+      "faction": "Aserai",
+      "troop_id": 14,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Tribal Horseman",
+      "tier": 3,
+      "wage": 8,
+      "is_mounted": true,
+      "faction": "Aserai",
+      "troop_id": 15,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Faris",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": true,
+      "faction": "Aserai",
+      "troop_id": 16,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Veteran Faris",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": true,
+      "faction": "Aserai",
+      "troop_id": 17,
+      "culture_id": 1
+    },
+    {
+      "name": "Aserai Vanguard Faris",
+      "tier": 6,
+      "wage": 17,
+      "is_mounted": true,
+      "faction": "Aserai",
+      "troop_id": 18,
+      "culture_id": 1
+    },
+    {
+      "name": "Battanian Trained Warrior",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 19,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Picked Warrior",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 20,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Wood Runner",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 21,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Raider",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 22,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Scout",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": true,
+      "faction": "Battania",
+      "troop_id": 23,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Skirmisher",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 24,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Veteran Skirmisher",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 25,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Oathsworn",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 26,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Hero",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 27,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Highborn Youth",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 28,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Highborn Warrior",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 29,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Fian",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 30,
+      "culture_id": 2
+    },
+    {
+      "name": "Battanian Fian Champion",
+      "tier": 6,
+      "wage": 17,
+      "is_mounted": false,
+      "faction": "Battania",
+      "troop_id": 31,
+      "culture_id": 2
+    },
+    {
+      "name": "Imperial Recruit",
+      "tier": 1,
+      "wage": 2,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 32,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Infantryman",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 33,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Trained Infantryman",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 34,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Legionary",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 35,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Palatine Guard",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 36,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Menavliaton",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 37,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Elite Menavliaton",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 38,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Archer",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 39,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Veteran Archer",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 40,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Crossbowman",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 41,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Sergeant Crossbowman",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 42,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Vigla Recruit",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Empire",
+      "troop_id": 43,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Equite",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": true,
+      "faction": "Empire",
+      "troop_id": 44,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Heavy Horseman",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": true,
+      "faction": "Empire",
+      "troop_id": 45,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Cataphract",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": true,
+      "faction": "Empire",
+      "troop_id": 46,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Elite Cataphract",
+      "tier": 6,
+      "wage": 17,
+      "is_mounted": true,
+      "faction": "Empire",
+      "troop_id": 47,
+      "culture_id": 3
+    },
+    {
+      "name": "Imperial Bucellarii",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": true,
+      "faction": "Empire",
+      "troop_id": 48,
+      "culture_id": 3
+    },
+    {
+      "name": "Khuzait Nomad",
+      "tier": 1,
+      "wage": 2,
+      "is_mounted": false,
+      "faction": "Khuzait",
+      "troop_id": 49,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Tribal Warrior",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": true,
+      "faction": "Khuzait",
+      "troop_id": 50,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Spearman",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Khuzait",
+      "troop_id": 51,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Lancer",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": true,
+      "faction": "Khuzait",
+      "troop_id": 52,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Hunter",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Khuzait",
+      "troop_id": 53,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Marksman",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Khuzait",
+      "troop_id": 54,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Raider",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": true,
+      "faction": "Khuzait",
+      "troop_id": 55,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Horse Archer",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": true,
+      "faction": "Khuzait",
+      "troop_id": 56,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Heavy Horse Archer",
+      "tier": 5,
+      "wage": 13,
+      "is_mounted": true,
+      "faction": "Khuzait",
+      "troop_id": 57,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Noble's Son",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Khuzait",
+      "troop_id": 58,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Qanqli",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Khuzait",
+      "troop_id": 59,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Torguud",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": true,
+      "faction": "Khuzait",
+      "troop_id": 60,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Kheshig",
+      "tier": 5,
+      "wage": 13,
+      "is_mounted": true,
+      "faction": "Khuzait",
+      "troop_id": 61,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Khan's Guard",
+      "tier": 6,
+      "wage": 17,
+      "is_mounted": true,
+      "faction": "Khuzait",
+      "troop_id": 62,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Darkhan",
+      "tier": 5,
+      "wage": 13,
+      "is_mounted": false,
+      "faction": "Khuzait",
+      "troop_id": 63,
+      "culture_id": 4
+    },
+    {
+      "name": "Khuzait Heavy Lancer",
+      "tier": 5,
+      "wage": 13,
+      "is_mounted": true,
+      "faction": "Khuzait",
+      "troop_id": 64,
+      "culture_id": 4
+    },
+    {
+      "name": "Sturgian Recruit",
+      "tier": 1,
+      "wage": 2,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 65,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Warrior",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 66,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Soldier",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 67,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Spearman",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 68,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Ulfhednar",
+      "tier": 1,
+      "wage": 2,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 69,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Woodsman",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 70,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Hunter",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 71,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Veteran Bowman",
+      "tier": 5,
+      "wage": 13,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 72,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Hardened Brigand",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 73,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Brigand",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 74,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Heavy Axeman",
+      "tier": 5,
+      "wage": 18,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 75,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Warrior Son",
+      "tier": 2,
+      "wage": 2,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 76,
+      "culture_id": 5
+    },
+    {
+      "name": "Varyag",
+      "tier": 3,
+      "wage": 4,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 77,
+      "culture_id": 5
+    },
+    {
+      "name": "Varyag Veteran",
+      "tier": 4,
+      "wage": 7,
+      "is_mounted": false,
+      "faction": "Sturgia",
+      "troop_id": 78,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Druzhinnik",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": true,
+      "faction": "Sturgia",
+      "troop_id": 79,
+      "culture_id": 5
+    },
+    {
+      "name": "Sturgian Druzhinnik Champion",
+      "tier": 6,
+      "wage": 17,
+      "is_mounted": true,
+      "faction": "Sturgia",
+      "troop_id": 80,
+      "culture_id": 5
+    },
+    {
+      "name": "Vlandian Recruit",
+      "tier": 1,
+      "wage": 2,
+      "is_mounted": false,
+      "faction": "Vlandia",
+      "troop_id": 81,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Footman",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Vlandia",
+      "troop_id": 82,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Infantry",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Vlandia",
+      "troop_id": 83,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Voulgier",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Vlandia",
+      "troop_id": 84,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Levy Crossbowman",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": false,
+      "faction": "Vlandia",
+      "troop_id": 85,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Crossbowman",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": false,
+      "faction": "Vlandia",
+      "troop_id": 86,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Hardened Crossbowman",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": false,
+      "faction": "Vlandia",
+      "troop_id": 87,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Sharpshooter",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": false,
+      "faction": "Vlandia",
+      "troop_id": 88,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Squire",
+      "tier": 2,
+      "wage": 3,
+      "is_mounted": true,
+      "faction": "Vlandia",
+      "troop_id": 89,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Gallant",
+      "tier": 3,
+      "wage": 5,
+      "is_mounted": true,
+      "faction": "Vlandia",
+      "troop_id": 90,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Knight",
+      "tier": 4,
+      "wage": 8,
+      "is_mounted": true,
+      "faction": "Vlandia",
+      "troop_id": 91,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Champion",
+      "tier": 5,
+      "wage": 12,
+      "is_mounted": true,
+      "faction": "Vlandia",
+      "troop_id": 92,
+      "culture_id": 6
+    },
+    {
+      "name": "Vlandian Banner Knight",
+      "tier": 6,
+      "wage": 17,
+      "is_mounted": true,
+      "faction": "Vlandia",
+      "troop_id": 93,
+      "culture_id": 6
+    }
+  ],
+  "cultures": {
+    "Aserai": 1,
+    "Battanian": 2,
+    "Imperial": 3,
+    "Khuzait": 4,
+    "Sturgian": 5,
+    "Vlandian": 6
+  },
+  "upgrade_paths": [
+    {
+      "base_troop_id": 1,
+      "upgraded_troop_id": 2,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 2,
+      "upgraded_troop_id": 3,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 3,
+      "upgraded_troop_id": 4,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 4,
+      "upgraded_troop_id": 5,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 1,
+      "upgraded_troop_id": 6,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 6,
+      "upgraded_troop_id": 7,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 7,
+      "upgraded_troop_id": 8,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 8,
+      "upgraded_troop_id": 9,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 6,
+      "upgraded_troop_id": 10,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 10,
+      "upgraded_troop_id": 8,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 2,
+      "upgraded_troop_id": 11,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 11,
+      "upgraded_troop_id": 12,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 12,
+      "upgraded_troop_id": 13,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 14,
+      "upgraded_troop_id": 15,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 15,
+      "upgraded_troop_id": 16,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 16,
+      "upgraded_troop_id": 17,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 17,
+      "upgraded_troop_id": 18,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 19,
+      "upgraded_troop_id": 20,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 21,
+      "upgraded_troop_id": 22,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 22,
+      "upgraded_troop_id": 23,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 24,
+      "upgraded_troop_id": 25,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 19,
+      "upgraded_troop_id": 26,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 26,
+      "upgraded_troop_id": 27,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 28,
+      "upgraded_troop_id": 29,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 29,
+      "upgraded_troop_id": 27,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 27,
+      "upgraded_troop_id": 30,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 30,
+      "upgraded_troop_id": 31,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 32,
+      "upgraded_troop_id": 33,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 33,
+      "upgraded_troop_id": 34,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 34,
+      "upgraded_troop_id": 35,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 34,
+      "upgraded_troop_id": 37,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 37,
+      "upgraded_troop_id": 38,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 33,
+      "upgraded_troop_id": 39,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 39,
+      "upgraded_troop_id": 40,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 33,
+      "upgraded_troop_id": 41,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 41,
+      "upgraded_troop_id": 42,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 43,
+      "upgraded_troop_id": 44,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 44,
+      "upgraded_troop_id": 45,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 45,
+      "upgraded_troop_id": 46,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 46,
+      "upgraded_troop_id": 47,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 43,
+      "upgraded_troop_id": 48,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 49,
+      "upgraded_troop_id": 50,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 50,
+      "upgraded_troop_id": 51,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 51,
+      "upgraded_troop_id": 52,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 50,
+      "upgraded_troop_id": 53,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 53,
+      "upgraded_troop_id": 54,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 49,
+      "upgraded_troop_id": 55,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 55,
+      "upgraded_troop_id": 56,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 56,
+      "upgraded_troop_id": 56,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 56,
+      "upgraded_troop_id": 57,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 58,
+      "upgraded_troop_id": 59,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 59,
+      "upgraded_troop_id": 60,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 60,
+      "upgraded_troop_id": 61,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 61,
+      "upgraded_troop_id": 62,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 58,
+      "upgraded_troop_id": 63,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 63,
+      "upgraded_troop_id": 64,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 65,
+      "upgraded_troop_id": 66,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 66,
+      "upgraded_troop_id": 67,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 67,
+      "upgraded_troop_id": 68,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 68,
+      "upgraded_troop_id": 69,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 65,
+      "upgraded_troop_id": 70,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 70,
+      "upgraded_troop_id": 71,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 71,
+      "upgraded_troop_id": 72,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 66,
+      "upgraded_troop_id": 73,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 73,
+      "upgraded_troop_id": 74,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 76,
+      "upgraded_troop_id": 77,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 77,
+      "upgraded_troop_id": 78,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 78,
+      "upgraded_troop_id": 79,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 79,
+      "upgraded_troop_id": 80,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 81,
+      "upgraded_troop_id": 82,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 82,
+      "upgraded_troop_id": 83,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 83,
+      "upgraded_troop_id": 84,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 81,
+      "upgraded_troop_id": 85,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 85,
+      "upgraded_troop_id": 86,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 86,
+      "upgraded_troop_id": 87,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 87,
+      "upgraded_troop_id": 88,
+      "xp_cost": 400
+    },
+    {
+      "base_troop_id": 89,
+      "upgraded_troop_id": 90,
+      "xp_cost": 100
+    },
+    {
+      "base_troop_id": 90,
+      "upgraded_troop_id": 91,
+      "xp_cost": 200
+    },
+    {
+      "base_troop_id": 91,
+      "upgraded_troop_id": 92,
+      "xp_cost": 300
+    },
+    {
+      "base_troop_id": 92,
+      "upgraded_troop_id": 93,
+      "xp_cost": 400
+    }
+  ]
+}
